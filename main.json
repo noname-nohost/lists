@@ -193,7 +193,8 @@
             "TLD (Top-Level-Domain)",
             "Total Area [km2]",
             "Land Area [km2]",
-            "Water Area [km2]"
+            "Water Area [km2]",
+            "Road Traffic direction"
         ]
     },
     "Countries Population": {
@@ -1007,7 +1008,31 @@
             "ISO 3166-1 code",
             "Car Plate Code",
             "# Municipalities",
-            "Planning Region" 
+            "Planning Region",
+            "Population (2000)",
+            "Population (2001)",
+            "Population (2002)",
+            "Population (2003)",
+            "Population (2004)",
+            "Population (2005)",
+            "Population (2006)",
+            "Population (2007)",
+            "Population (2008)",
+            "Population (2009)",
+            "Population (2010)",
+            "Population (2011)",
+            "Population (2012)",
+            "Population (2013)",
+            "Population (2014)",
+            "Population (2015)",
+            "Population (2016)",
+            "Population (2017)",
+            "Population (2018)",
+            "Population (2019)",
+            "Population (2020)",
+            "Population (2021)",
+            "Population (2022)",
+            "Population (2023)"
         ]
     },
     "Bulgaria Municipalities": {
@@ -1015,10 +1040,10 @@
         "sources": [""],
         "updated": "2024-01-01T00.00.00",
         "fields": [
+            "Municipality",
+            "Municipality Cyrillic",
             "Province",
-            "Province Cyrillic",
-            "ISO 3166-1 code",
-            "Car Plate Code"
+            "Largest City"
         ]
     },
     "Sofia Subway": {
