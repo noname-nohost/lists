@@ -1,0 +1,1039 @@
+{
+    "Switzerland cantons": {
+        "file": "switzerland_cantons.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "canton",
+            "region",
+            "Code",
+            "since",
+            "Capital GDP (2020) in million CHF",
+            "GDP per capita (2020) in CHF",
+            "Population",
+            "Area [km2]",
+            "Density (per km2)",
+            "# municipalities. (2018)",
+            "Official languages"
+        ]
+    },
+    "Italy regions": {
+        "file": "italy_regions.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Agrupamento",
+            "Region",
+            "Capital",
+            "Population (hab.)",
+            "Area (km²)",
+            "Density (hab./km²)",
+            "Province",
+            "Comunes"
+        ]
+    },
+    "Italy provinces": {
+        "file": "italy_provinces.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Province",
+            "# Comunes",
+            "Region"
+        ]
+    },
+    "Italy comunes": {
+        "file": "italy_comunes.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Municipality",
+            "Province region",
+            "Population (2005)",
+            "Population (2011)",
+            "Population (2016)",
+            "ISTAT code"
+        ]
+    },
+    "ETFs": {
+        "file": "etfs.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Fund Name",
+            "Type",
+            "Replication method",
+            "Inception date",
+            "Fund size [M€]",
+            "Distribution policy",
+            "WKN",
+            "ISIN"
+        ]
+    },
+    "Slovenia Statistical Regions": {
+        "file": "slovenia_statistical_regions.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "English Name",
+            "Slovenian Name",
+            "Code",
+            "Largest city",
+            "Area [km2]",
+            "Population (2019)",
+            "HDI (2021)"
+        ]
+    },
+    "Slovenia Municipalities": {
+        "file": "slovenia_municipalities.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "ISO 3166-2 code",
+            "English Name",
+            "Slovene Name",
+            "Seat",
+            "Population (2013)",
+            "Statistical Region"
+        ]
+    },
+    "Slovenia Cities": {
+        "file": "slovenia_cities.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "Population (2020)",
+            "Population (2021)",
+            "Population (2022)",
+            "Statistical Region"
+        ]
+    },
+    "Slovenia Settlements": {
+        "file": "slovenia_settlements.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+
+        ]
+    },
+    "Slovenia Population": {
+        "file": "slovenia_population.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+
+        ]
+    },
+    "Airports": {
+        "file": "airports.cvs",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "IATA code",
+            "ICAO code",
+            "Country",
+            "City",
+            "Time Zone",
+            "Elevation",
+            "Length",
+            "Latitude",
+            "Longitude"
+        ]
+    },
+    "Aircrafts": {
+        "file": "aicrafts.cvs",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "Type"
+        ]
+    },
+    "Airlines": {
+        "file": "airlines.cvs",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "Country",
+            "IATA code",
+            "ICAO code",
+            "Callsign",
+            "Hub Airport",
+            "Status",
+            "Start of Operation",
+            "End of Operation"
+        ]
+    },
+    "Dinosaurs": {
+        "file": "dinosaurs.cvs",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "Region",
+            "Era"
+        ]
+    },
+    "Countries": {
+        "file": "countries.csv",
+        "sources": ["pakconsulatela.org", "www.cia.gov"],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "Continent",
+            "ISO 3166-1 Alpha-2 code",
+            "ISO 3166-1 Alpha-3 code",
+            "ISO 3166-1 Numeric code",
+            "ISO 3166-2",
+            "Phone code",
+            "Independent",
+            "TLD (Top-Level-Domain)",
+            "Total Area [km2]",
+            "Land Area [km2]",
+            "Water Area [km2]"
+        ]
+    },
+    "Countries Population": {
+        "file": "countries_population.csv",
+        "sources": ["www.ine.pt", "www.ine.es", "www.stat.si", "www-genesis.destatis.de", "infostat.nsi.bg"],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Country",
+            "Population (1991)",
+            "Population (1992)",
+            "Population (1993)",
+            "Population (1994)",
+            "Population (1995)",
+            "Population (1996)",
+            "Population (1997)",
+            "Population (1998)",
+            "Population (1999)",
+            "Population (2000)",
+            "Population (2001)",
+            "Population (2002)",
+            "Population (2003)",
+            "Population (2004)",
+            "Population (2005)",
+            "Population (2006)",
+            "Population (2007)",
+            "Population (2008)",
+            "Population (2009)",
+            "Population (2010)",
+            "Population (2011)",
+            "Population (2012)",
+            "Population (2013)",
+            "Population (2014)",
+            "Population (2015)",
+            "Population (2016)",
+            "Population (2017)",
+            "Population (2018)",
+            "Population (2019)",
+            "Population (2020)",
+            "Population (2021)",
+            "Population (2022)",
+            "Population (2023)",
+            "Population (2024)"
+        ]
+    },
+    "Continents": {
+        "file": "continents.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name"
+        ]
+    },
+    "USA States": {
+        "file": "usa_states.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "postal abbreviation",
+            "capital city",
+            "largest city",
+            "Ratification or Admission",
+            "Population",
+            "Total area [km2]",
+            "Land area [km2]",
+            "Water area [km2]",
+            "# Representatives",
+            "# counties"
+        ]
+    },
+    "Portuguese Districts": {
+        "file": "portuguese_districts.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "Municipalities",
+            "Parishes",
+            "Population (2021)",
+            "Area [km2]"
+        ]
+    },
+    "GPUs": {
+        "file": "gpus.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "Class",
+            "Socket",
+            "Clockspeed",
+            "Turbo Speed",
+            "Cores",
+            "Threads",
+            "Typical TDP",
+            "TDP Down",
+            "TDP Up"
+        ]
+    },
+    "CPUs": {
+        "file": "cpus.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name"
+        ]
+    },
+    "Periodic Table Elements": {
+        "file": "periodic_table_elements.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "Symbol",
+            "Atomic Number",
+            "Chemical Group Block",
+            "Standard State",
+            "Atomic Mass",
+            "Electron Configuration",
+            "Oxidation States",
+            "Electronegativity (Pauling Scale)",
+            "Atomic Radius (van der Waals)",
+            "Ionization Energy",
+            "Electron Affinity",
+            "Melting Point",
+            "Boiling Point",
+            "Density",
+            "Year Discovered"
+        ]
+    },
+    "Tunisia Governorates": {
+        "file": "tunisia_governorates.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Governorate",
+            "Region",
+            "Capital",
+            "Area [km2]",
+            "Population (2014)",
+            "Population (2021)",
+            "HASC",
+            "ISO",
+            "FIPS",
+            "Pc"
+        ]
+    },
+    "Tunisia Delegations": {
+        "file": "tunisia_delegations.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Delegation",
+            "Governorate"
+        ]
+    },
+    "Germany States": {
+        "file": "germany_states.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "State",
+            "ISO 3166-2 code",
+            "Since",
+            "Capital",
+            "Legislature",
+            "Head of state and government (Minister-President or Mayor)",
+            "Bundesrat votes",
+            "Area [km2]",
+            "Population (July 1, 2023)",
+            "HDI (2021)",
+            "GDP per capita (2020) [€]"
+        ]
+    },
+    "Germany Districts": {
+        "file": "germany_districts.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+        ]
+    },
+    "Spain Autonomous Communities": {
+        "file": "spain_autonomous_communities.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Communitiy Name",
+            "Area [km2]",
+            "Population (2020)",
+            "Status"
+        ]
+    },
+    "Spain Provinces": {
+        "file": "spain_provinces.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Province Name",
+            "Area [km2]",
+            "Autonomous community",
+            "Capital"
+        ]
+    },
+    "Read Only Memory RAM": {
+        "file": "ram.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "Latency Time (ns)",
+            "Read Uncached Transfer Rate (GBs/s) (DDR2 in MBs/s)",
+            "Write Transfer Rate (GBs/s) (DDR2 in MBs/s)",
+            "Type"
+        ]
+    },
+    "Animals": {
+        "file": "animals.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "Kingdom",
+            "Phylum",
+            "Class",
+            "Order",
+            "Family",
+            "Genus",
+            "Scientific Name",
+            "Prey",
+            "Name Of Young",
+            "Group Behavior",
+            "Fun Fact",
+            "Estimated Population Size",
+            "Biggest Threat",
+            "Most Distinctive Feature",
+            "Other Name(s)",
+            "Gestation Period",
+            "Incubation Period",
+            "Habitat",
+            "Diet",
+            "Average Litter Size",
+            "Lifestyle",
+            "Common Name",
+            "Number Of Species",
+            "Location",
+            "Slogan",
+            "Group",
+            "Color",
+            "Predators",
+            "Skin",
+            "Type",
+            "Top Speed",
+            "Lifespan",
+            "Weight",
+            "Length",
+            "Height",
+            "Wingspan",
+            "Training",
+            "Age of Sexual Maturity",
+            "Age of Weaning",
+            "Average Clutch Size",
+            "Age Of Fledgling",
+            "Level",
+            "Shedability",
+            "Trainability",
+            "Intelligence",
+            "Happiness / Barking",
+            "Preferred Temperature",
+            "Exercise Needs",
+            "Tendency to Chew",
+            "Size",
+            "Family and kid friendliness",
+            "Separation Anxiety",
+            "Friendly With Other Dogs",
+            "Pure bred cost to own",
+            "Age Of Independence",
+            "Age of Molting",
+            "Favorite Food",
+            "Is Hypoallergenic",
+            "Is Migratory",
+            "Origin",
+            "Optimum pH Level",
+            "Special Features",
+            "Is Venomous",
+            "Aggression"
+        ]
+    },
+    "Galaxies": {
+        "file": "galaxies.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "Constellation",
+            "Type",
+            "Size (light-years/parsecs)"
+        ]
+    },
+    "Stars": {
+        "file": "stars.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name"
+        ]
+    },
+    "Planets": {
+        "file": "planets.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "Star",
+            "Mass (MJ)",
+            "Radius (RJ)",
+            "Period (days)",
+            "Semi-major axis (AU)",
+            "Temp.(K)",
+            "Discovery method",
+            "Discovery Year",
+            "Distance (ly)",
+            "Host star mass (M☉)",
+            "Host star temp.(K)",
+            "Proper name" 
+        ]
+    },
+    "Natural Satellites": {
+        "file": "natural_satellites.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "Parent",
+            "Numeral",
+            "Mean radius (km)",
+            "Orbital semi-major axis (km)",
+            "Sidereal period (d) (r = retrograde)",
+            "Angular size from the parent surface [arcmin]",
+            "Discovery year",
+            "Discovered by"
+        ]
+    },
+    "Mountains": {
+        "file": "mountains.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "Height (meters)",
+            "Height (feet)",
+            "Range",
+            "Countries"
+        ]
+    },
+    "Iraq Governorates": {
+        "file": "iraq_governorates.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Governorate",
+            "Postal code",
+            "ISO 3166-2:IQ code",
+            "Total area (miles2)",
+            "Total area [km2]",
+            "Population (1 July 2018)",
+            "Capital",
+            "Status",
+            "Ended in year",
+            "Now part of"
+        ]
+    },
+    "iPhone Versions": {
+        "file": "iphone_versions.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "iPhone Version",
+            "iOS version",
+            "Release Date"
+        ]
+    },
+    "iPad Versions": {
+        "file": "ipad_versions.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "iPad Version",
+            "Initial iOS version",
+            "Release Date",
+            "Discontinued Date"
+        ]
+    },
+    "Programming Languages": {
+        "file": "programming_languages.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name"
+        ]
+    },
+    "Markup Languages": {
+        "file": "markup_languages.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name"
+        ]
+    },
+    "Database Management Systems DMS": {
+        "file": "database_management_systems.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "Developer",
+            "Country of Origin",
+            "Start Year",
+            "Ended in year",
+            "Project Type",
+            "Written in",
+            "Operating Systems",
+            "Licenses"
+        ]
+    },
+    "Android Versions": {
+        "file": "android_versions.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "Internal codename",
+            "Version number(s)",
+            "Initial stable release date",
+            "Latest security patch (service life)",
+            "Latest Google Play Services version (release date)",
+            "API level"
+        ]
+    },
+    "Android NDKs": {
+        "file": "android_ndks.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "Released Date"
+        ]
+    },
+    "iOS Versions": {
+        "file": "ios_versions.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "Build Number",
+            "Release Date" 
+        ]
+    },
+    "Windows OS Versions": {
+        "file": "windows_os_versions.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "Codename",
+            "Release date",
+            "Version",
+            "Editions",
+            "Build number",
+            "End of support"
+        ]
+    },
+    "Windows Mobile OS Versions": {
+        "file": "windows_mobile_os_versions.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "Codename",
+            "Release date"
+        ]
+    },
+    "Windows Server OS Versions": {
+        "file": "windows_server_os_versions.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "Codename",
+            "Release date",
+            "Version number",
+            "Editions",
+            "Latest number",
+            "End of support"
+        ]
+    },
+    "Sensors": {
+        "file": "sensors.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "Function"
+        ]
+    },
+    "Human Bones": {
+        "file": "human_bones.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "Quantity",
+            "bone",
+            "Part",
+            "Location" 
+        ]
+    },
+    "Belgium Regions": {
+        "file": "belgium_regions.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Region",
+            "Area [km2]",
+            "Capital"
+        ]
+    },
+    "Belgium Provinces": {
+        "file": "belgium_provinces.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Province",
+            "Region",
+            "Area (km²)",
+            "Capital",
+            "Postal codes",
+            "HASC",
+            "FIPS",
+            "ISO 3166-2:BE"
+        ]
+    },
+    "Belgium Arrondissements": {
+        "file": "belgium_arrondissements.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Dutch name",
+            "French name",
+            "HASC",
+            "NUTS",
+            "NIS/INS",
+            "In province",
+            "Population (as of 1/1/2018)",
+            "# Municipalities"
+        ]
+    },
+    "Belgium Municipalities": {
+        "file": "belgium_municipalities.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "Province",
+            "Arrondissement",
+            "Postcode",
+            "Population (2017)",
+            "Area"
+        ]
+    },
+    "Belgium Roads": {
+        "file": "belgium_roads.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Road",
+            "Path",
+            "Type",
+            "Length [km]",
+            "European Road"
+        ]
+    },
+    "Belgium Train Stations": {
+        "file": "belgium_train_stations.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Name",
+            "ID",
+            "Latitude",
+            "Longitude"
+        ]
+    },
+    "Malta Regions": {
+        "file": "malta_regions.csv",
+        "sources": ["statdb.nso.gov.mt"],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Region",
+            "Seat",
+            "Area",
+            "Population (2020)",
+            "Population (2021)",
+            "Established"
+        ]
+    },
+    "Malta Districts": {
+        "file": "malta_districts.csv",
+        "sources": ["statdb.nso.gov.mt"],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+
+        ]
+    },
+    "Malta Councils": {
+        "file": "malta_councils.csv",
+        "sources": ["statdb.nso.gov.mt"],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Council",
+            "Island",
+            "Region",
+            "District",
+            "Area",
+            "Population (2018)",
+            "Population (2019)",
+            "Population (2020)",
+            "Population (2021)",
+            "ISO 3166-2 code"
+        ]
+    },
+    "Malta Government Debt": {
+        "file": "malta_government_debt.csv",
+        "sources": ["statdb.nso.gov.mt"],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Year",
+            "Debt (EUR Million)"
+        ]
+    },
+    "Malta Postal Codes": {
+        "file": "malta_postal_codes.csv",
+        "sources": ["statdb.nso.gov.mt"],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Postal code",
+            "Council"
+        ]
+    },
+    "Malta Bus": {
+        "file": "malta_bus.csv",
+        "sources": ["www.publictransport.com.mt"],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Line",
+            "Number"
+        ]
+    },
+    "HTTP Response Codes": {
+        "file": "http_response_codes.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Code",
+            "Meaning",
+            "Description",
+            "Type"
+        ]
+    },
+    "Munich Subway": {
+        "file": "munich_subway.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Line",
+            "From",
+            "To",
+            "Length [km]",
+            "# Stops",
+            "Maximum distance",
+            "Minimum distance",
+            "Stops",
+            "Color"
+        ]
+    },
+    "Berlin Subway": {
+        "file": "berlin_subway.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Line",
+            "From",
+            "To",
+            "Length [km]",
+            "# Stops",
+            "Stops",
+            "Color"
+        ]
+    },
+    "Hamburg Subway": {
+        "file": "hamburg_subway.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Line",
+            "Path",
+            "Opened",
+            "Length [km]",
+            "# Stops",
+            "Color"
+        ]
+    },
+    "request_for_comments": {
+        "file": "request_for_comments.csv",
+        "sources": ["https://www.rfc-editor.org/in-notes/rfc-ref.txt"],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Number",
+            "Title",
+            "Obsoleted by",
+            "Published date",
+            "DOI",
+            "Authors"
+        ]
+    },
+    "Lisbon Subway": {
+        "file": "lisbon_subway.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Line",
+            "From",
+            "To",
+            "Length [km]",
+            "Stops",
+            "Color"
+        ]
+    },
+    "Porto Subway": {
+        "file": "porto_subway.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Line",
+            "From",
+            "To",
+            "Length [km]",
+            "# Stops",
+            "Opened",
+            "Color",
+            "Stops",
+            "Travel time"
+        ]
+    },
+    "Lausanne Subway": {
+        "file": "lausanne_subway.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Line",
+            "From",
+            "To",
+            "Length [km]",
+            "# Stops",
+            "Color",
+            "Opened",
+            "Stops"
+        ]
+    },
+    "Pakistan Provinces": {
+        "file": "pakistan_provinces.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Province"
+        ]
+    },
+    "Pakistan Divisions": {
+        "file": "pakistan_divisions.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Division",
+            "Province"
+        ]
+    },
+    "Pakistan Districts": {
+        "file": "pakistan_districts.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "District",
+            "Province"
+        ]
+    },
+    "GTFO Bins": {
+        "file": "gtfo_bins.csv",
+        "sources": ["gtfobins.github.io"],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Binary",
+            "Functions"
+        ]
+    },
+    "Bulgaria Provinces": {
+        "file": "bulgaria_provinces.csv",
+        "sources": [""],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Province",
+            "Province Cyrillic",
+            "ISO 3166-1 code",
+            "Car Plate Code",
+            "# Municipalities",
+            "Planning Region" 
+        ]
+    },
+    "Bulgaria Municipalities": {
+        "file": "bulgaria_municipalities.csv",
+        "sources": [""],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Province",
+            "Province Cyrillic",
+            "ISO 3166-1 code",
+            "Car Plate Code"
+        ]
+    },
+    "Sofia Subway": {
+        "file": "sofia_subway.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Line",
+            "From",
+            "To",
+            "Length [km]",
+            "# Stops",
+            "Stops",
+            "Color",
+            "Opened"
+        ]
+    },
+}
