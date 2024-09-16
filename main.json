@@ -1046,6 +1046,20 @@
             "Largest City"
         ]
     },
+    "Bulgaria Roads": {
+        "file": "bulgaria_roads.csv",
+        "sources": [""],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Road",
+            "Name",
+            "From",
+            "Route",
+            "To",
+            "Length [km]",
+            "Type"
+        ]
+    },
     "Sofia Subway": {
         "file": "sofia_subway.csv",
         "sources": [],
@@ -1061,4 +1075,24 @@
             "Opened"
         ]
     },
+    "Gov and Orgs Websites": {
+        "file": "websites.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Site",
+            "Country",
+            "Type"
+        ]
+    },
+    "Microsoft Excel Functions": {
+        "file": "microsoft_excel_functions.csv",
+        "sources": ["support.microsoft.com"],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Function",
+            "Type",
+            "Description"
+        ]
+    }
 }
