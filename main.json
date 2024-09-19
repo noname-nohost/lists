@@ -326,7 +326,21 @@
             "Constructed"
         ]
     },
-    
+    "Portugal Speed Radars": {
+        "file": "portugal_speed_radars.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Road",
+            "Concelho",
+            "Freguesia",
+            "Km",
+            "Latitude",
+            "Longitude",
+            "Direction",
+            "Speed"
+        ]
+    },
     "GPUs": {
         "file": "gpus.csv",
         "sources": [],
