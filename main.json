@@ -328,8 +328,8 @@
     },
     "Portugal Speed Radars": {
         "file": "portugal_speed_radars.csv",
-        "sources": [],
-        "updated": "2024-01-01T00.00.00",
+        "sources": ["radaresavista.pt"],
+        "updated": "2024-09-20T00.00.00",
         "fields": [
             "Road",
             "Concelho",
