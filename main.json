@@ -25,9 +25,9 @@
             "Agrupamento",
             "Region",
             "Capital",
-            "Population (hab.)",
-            "Area (km²)",
-            "Density (hab./km²)",
+            "Population [hab.]",
+            "Area [km2]",
+            "Density [hab./km2]",
             "Province",
             "Comunes"
         ]
@@ -199,7 +199,7 @@
     },
     "Countries Population": {
         "file": "countries_population.csv",
-        "sources": ["www.ine.pt", "www.ine.es", "www.stat.si", "www-genesis.destatis.de", "infostat.nsi.bg"],
+        "sources": ["ine.pt", "ine.es", "stat.si", "www-genesis.destatis.de", "infostat.nsi.bg", "ssb.no"],
         "updated": "2024-01-01T00.00.00",
         "fields": [
             "Country",
@@ -728,7 +728,7 @@
         "fields": [
             "Province",
             "Region",
-            "Area (km²)",
+            "Area (km2)",
             "Capital",
             "Postal codes",
             "HASC",
@@ -1072,7 +1072,7 @@
             "# Stops",
             "Stops",
             "Color",
-            "Opened"
+            "Opened"ISO 3166-2 code
         ]
     },
     "Gov and Orgs Websites": {
@@ -1093,6 +1093,76 @@
             "Function",
             "Type",
             "Description"
+        ]
+    },
+    "Mobile Country Codes MCC": {
+        "file": "mobile_country_codes_MCC.csv",
+        "sources": ["www.mcc-mnc.com"],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "MCC",
+            "Country"
+        ]
+    },
+    "Mobile Network Codes MNC": {
+        "file": "mobile_network_codes_MNC.csv",
+        "sources": ["www.mcc-mnc.com"],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "NCC",
+            "Country",
+            "Company"
+        ]
+    },
+    "Ski Areas": {
+        "file": "ski_areas.csv",
+        "sources": [""],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Area",
+            "Country",
+            "City",
+            "Base Altitude [m]",
+            "Top Altitude [m]",
+            "Slopes Length [km]",
+            "# Lifts",
+            "# Slopes"
+        ]
+    },
+    "Norway Counties": {
+        "file": "norway_counties.csv",
+        "sources": ["ssb.no"],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "County",
+            "ISO 3166-2 code",
+            "Capital",
+            "Formed",
+            "Dissolved"
+        ]
+    },
+    "Norway Municipalities": {
+        "file": "norway_municipalities.csv",
+        "sources": ["ssb.no"],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Municipality",
+            "ISO 3166-2 code",
+            "County",
+            "Population (1 of January 2024)",
+            "Area [km2]",
+            "Land Area [km2]"
+        ]
+    },
+    "Flights": {
+        "file": "flights.csv",
+        "sources": [""],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Number",
+            "Airline",
+            "From",
+            "To"
         ]
     }
 }
