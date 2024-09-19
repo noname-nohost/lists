@@ -199,7 +199,7 @@
     },
     "Countries Population": {
         "file": "countries_population.csv",
-        "sources": ["ine.pt", "ine.es", "stat.si", "www-genesis.destatis.de", "infostat.nsi.bg", "ssb.no"],
+        "sources": ["ine.pt", "ine.es", "stat.si", "www-genesis.destatis.de", "infostat.nsi.bg", "ssb.no", "ins.tn"],
         "updated": "2024-01-01T00.00.00",
         "fields": [
             "Country",
@@ -236,7 +236,42 @@
             "Population (2021)",
             "Population (2022)",
             "Population (2023)",
-            "Population (2024)"
+            "Population (2024)",
+            "Notes"
+        ]
+    },
+    "Countries GDP": {
+        "file": "countries_gdp.csv",
+        "sources": ["ine.pt", "ine.es", "stat.si", "www-genesis.destatis.de", "infostat.nsi.bg", "ssb.no", "ins.tn"],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Country",
+            "GDP (2000)",
+            "GDP (2001)",
+            "GDP (2002)",
+            "GDP (2003)",
+            "GDP (2004)",
+            "GDP (2005)",
+            "GDP (2006)",
+            "GDP (2007)",
+            "GDP (2008)",
+            "GDP (2009)",
+            "GDP (2010)",
+            "GDP (2011)",
+            "GDP (2012)",
+            "GDP (2013)",
+            "GDP (2014)",
+            "GDP (2015)",
+            "GDP (2016)",
+            "GDP (2017)",
+            "GDP (2018)",
+            "GDP (2019)",
+            "GDP (2020)",
+            "GDP (2021)",
+            "GDP (2022)",
+            "GDP (2023)",
+            "GDP (2024)",
+            "Notes"
         ]
     },
     "Continents": {
@@ -253,20 +288,20 @@
         "updated": "2024-01-01T00.00.00",
         "fields": [
             "Name",
-            "postal abbreviation",
-            "capital city",
-            "largest city",
+            "Postal Abbreviation",
+            "Capital City",
+            "Largest City",
             "Ratification or Admission",
             "Population",
-            "Total area [km2]",
-            "Land area [km2]",
-            "Water area [km2]",
+            "Total Area [km2]",
+            "Land Area [km2]",
+            "Water Area [km2]",
             "# Representatives",
-            "# counties"
+            "# Counties"
         ]
     },
-    "Portuguese Districts": {
-        "file": "portuguese_districts.csv",
+    "Portugal Districts": {
+        "file": "portugal_districts.csv",
         "sources": [],
         "updated": "2024-01-01T00.00.00",
         "fields": [
@@ -277,6 +312,21 @@
             "Area [km2]"
         ]
     },
+    "Portugal Roads": {
+        "file": "portugal_roads.csv",
+        "sources": [],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Number",
+            "Designation",
+            "From",
+            "To",
+            "Route",
+            "Length [km]",
+            "Constructed"
+        ]
+    },
+    
     "GPUs": {
         "file": "gpus.csv",
         "sources": [],
@@ -327,7 +377,7 @@
     },
     "Tunisia Governorates": {
         "file": "tunisia_governorates.csv",
-        "sources": [],
+        "sources": ["www.ins.tn"],
         "updated": "2024-01-01T00.00.00",
         "fields": [
             "Governorate",
@@ -337,14 +387,23 @@
             "Population (2014)",
             "Population (2021)",
             "HASC",
-            "ISO",
+            "ISO 3166-2 code",
             "FIPS",
-            "Pc"
+            "Pc",
+            "Population (1 of July 2014)",
+            "Population (1 of July 2015)",
+            "Population (1 of July 2016)",
+            "Population (1 of July 2017)",
+            "Population (1 of July 2018)",
+            "Population (1 of July 2019)",
+            "Population (1 of July 2020)",
+            "Population (1 of July 2021)",
+            "Population (1 of July 2022)"
         ]
     },
     "Tunisia Delegations": {
         "file": "tunisia_delegations.csv",
-        "sources": [],
+        "sources": ["www.ins.tn"],
         "updated": "2024-01-01T00.00.00",
         "fields": [
             "Delegation",
@@ -364,7 +423,7 @@
             "Head of state and government (Minister-President or Mayor)",
             "Bundesrat votes",
             "Area [km2]",
-            "Population (July 1, 2023)",
+            "Population (1 of July 2023)",
             "HDI (2021)",
             "GDP per capita (2020) [€]"
         ]
