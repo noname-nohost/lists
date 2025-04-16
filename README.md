@@ -88,3 +88,107 @@ This project is licensed under the MIT License.
 ## Contact
 
 Feel free to open an issue or reach out via GitHub if you have questions, ideas, or want to collaborate.
+
+## Availables Lists
+
+- Aircrafts
+- Airlines
+- Airports
+- Android NDKs
+- Android Versions
+- Animals
+- Belgium Arrondissements
+- Belgium Municipalities
+- Belgium Provinces
+- Belgium Regions
+- Belgium Roads
+- Belgium Train Stations
+- Berlin Subway
+- Bulgaria Municipalities
+- Bulgaria Provinces
+- Bulgaria Roads
+- CPUs
+- Colombia Departments
+- Colombia Municipalities
+- Continents
+- Countries
+- Countries GDP
+- Countries Population
+- Czech Republic Districts
+- Czech Republic Regions
+- Database Management Systems DMS
+- Dinosaurs
+- ETFs
+- Estonia Counties
+- Estonia Municipalities
+- Flighs
+- Flights
+- France Departments
+- France Regions
+- GPUs
+- GTFO Bins
+- Galaxies
+- Germany Districts
+- Germany States
+- Gov and Orgs Websites
+- Greece Regions
+- HTTP Response Codes
+- Hamburg Subway
+- Human Bones
+- ISO ICS
+- Iraq Governorates
+- Italy comunes
+- Italy provinces
+- Italy regions
+- Lausanne Subway
+- Lisbon Subway
+- Malta Bus
+- Malta Councils
+- Malta Districts
+- Malta Government Debt
+- Malta Postal Codes
+- Malta Regions
+- Markup Languages
+- Microsoft Excel Functions
+- Mobile Country Codes MCC
+- Mobile Network Codes MNC
+- Mountains
+- Munich Subway
+- NIST CSF
+- Natural Satellites
+- Norway Counties
+- Norway Municipalities
+- Pakistan Districts
+- Pakistan Divisions
+- Pakistan Provinces
+- Periodic Table Elements
+- Planets
+- Porto Subway
+- Portugal Districts
+- Portugal Roads
+- Portugal Speed Radars
+- Programming Languages
+- RFCs
+- Read Only Memory RAM
+- Sensors
+- Ski Areas
+- Slovenia Cities
+- Slovenia Municipalities
+- Slovenia Population
+- Slovenia Settlements
+- Slovenia Statistical Regions
+- Sofia Subway
+- Spain Autonomous Communities
+- Spain Provinces
+- Stars
+- Stock Exchanges
+- Switzerland cantons
+- Tunisia Delegations
+- Tunisia Governorates
+- USA States
+- Windows Mobile OS Versions
+- Windows OS Versions
+- Windows Server OS Versions
+- iOS Versions
+- iPad Versions
+- iPhone Versions
