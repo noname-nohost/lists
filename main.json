@@ -1367,5 +1367,20 @@
             "Population (2023)",
             "Population (2024)"
         ]
+    },
+    "Stock Exchanges": {
+        "filename": "stock_exchanges.csv",
+        "sources": [""],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Country",
+            "Exchange",
+            "Location",
+            "Founded",
+            "Listings",
+            "Sign",
+            "Link",
+            "Notes" 
+        ]
     }
 }
