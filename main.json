@@ -980,7 +980,7 @@
             "Color"
         ]
     },
-    "request_for_comments": {
+    "RFCs": {
         "filename": "request_for_comments.csv",
         "sources": ["https://www.rfc-editor.org/in-notes/rfc-ref.txt"],
         "updated": "2024-01-01T00.00.00",
