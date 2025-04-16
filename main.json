@@ -1382,5 +1382,16 @@
             "Link",
             "Notes" 
         ]
+    },
+    "Flighs": {
+        "filename": "flights.csv",
+        "sources": [""],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Number",
+            "Airline",
+            "From",
+            "To" 
+        ]
     }
 }
