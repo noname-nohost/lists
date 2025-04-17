@@ -90,105 +90,104 @@ This project is licensed under the MIT License.
 Feel free to open an issue or reach out via GitHub if you have questions, ideas, or want to collaborate.
 
 ## Availables Lists
-
-- Aircrafts
-- Airlines
-- Airports
-- Android NDKs
-- Android Versions
-- Animals
-- Belgium Arrondissements
-- Belgium Municipalities
-- Belgium Provinces
-- Belgium Regions
-- Belgium Roads
-- Belgium Train Stations
-- Berlin Subway
-- Bulgaria Municipalities
-- Bulgaria Provinces
-- Bulgaria Roads
-- CPUs
-- Colombia Departments
-- Colombia Municipalities
-- Continents
-- Countries
-- Countries GDP
-- Countries Population
-- Czech Republic Districts
-- Czech Republic Regions
-- Database Management Systems DMS
-- Dinosaurs
-- ETFs
-- Estonia Counties
-- Estonia Municipalities
-- Flighs
-- Flights
-- France Departments
-- France Regions
-- GPUs
-- GTFO Bins
-- Galaxies
-- Germany Districts
-- Germany States
-- Gov and Orgs Websites
-- Greece Regions
-- HTTP Response Codes
-- Hamburg Subway
-- Human Bones
-- ISO ICS
-- Iraq Governorates
-- Italy comunes
-- Italy provinces
-- Italy regions
-- Lausanne Subway
-- Lisbon Subway
-- Malta Bus
-- Malta Councils
-- Malta Districts
-- Malta Government Debt
-- Malta Postal Codes
-- Malta Regions
-- Markup Languages
-- Microsoft Excel Functions
-- Mobile Country Codes MCC
-- Mobile Network Codes MNC
-- Mountains
-- Munich Subway
-- NIST CSF
-- Natural Satellites
-- Norway Counties
-- Norway Municipalities
-- Pakistan Districts
-- Pakistan Divisions
-- Pakistan Provinces
-- Periodic Table Elements
-- Planets
-- Porto Subway
-- Portugal Districts
-- Portugal Roads
-- Portugal Speed Radars
-- Programming Languages
-- RFCs
-- Read Only Memory RAM
-- Sensors
-- Ski Areas
-- Slovenia Cities
-- Slovenia Municipalities
-- Slovenia Population
-- Slovenia Settlements
-- Slovenia Statistical Regions
-- Sofia Subway
-- Spain Autonomous Communities
-- Spain Provinces
-- Stars
-- Stock Exchanges
-- Switzerland cantons
-- Tunisia Delegations
-- Tunisia Governorates
-- USA States
-- Windows Mobile OS Versions
-- Windows OS Versions
-- Windows Server OS Versions
-- iOS Versions
-- iPad Versions
-- iPhone Versions
+- [Aircrafts](data/aircrafts.csv)
+- [Airlines](data/airlines.csv)
+- [Airports](data/airports.csv)
+- [Android NDKs](data/android_ndks.csv.csv)
+- [Android Versions](data/android_versions.csv.csv)
+- [Animals](data/animals.csv.csv)
+- [Belgium Arrondissements](data/belgium_arrondissements.csv.csv)
+- [Belgium Municipalities](data/belgium_municipalities.csv.csv)
+- [Belgium Provinces](data/belgium_provinces.csv.csv)
+- [Belgium Regions](data/belgium_regions.csv.csv)
+- [Belgium Roads](data/belgium_roads.csv.csv)
+- [Belgium Train Stations](data/belgium_train_stations.csv.csv)
+- [Berlin Subway](data/berlin_subway.csv.csv)
+- [Bulgaria Municipalities](data/bulgaria_municipalities.csv.csv)
+- [Bulgaria Provinces](data/bulgaria_provinces.csv.csv)
+- [Bulgaria Roads](data/bulgaria_roads.csv.csv)
+- [CPUs](data/cpus.csv.csv)
+- [Colombia Departments](data/colombia_departments.csv.csv)
+- [Colombia Municipalities](data/colombia_municipalities.csv.csv)
+- [Continents](data/continents.csv.csv)
+- [Countries](data/countries.csv.csv)
+- [Countries GDP](data/countries_gdp.csv.csv)
+- [Countries Population](data/countries_population.csv.csv)
+- [Czech Republic Districts](data/czech_republic_districts.csv.csv)
+- [Czech Republic Regions](data/czech_republic_regions.csv.csv)
+- [Database Management Systems DMS](data/database_management_systems.csv.csv)
+- [Dinosaurs](data/dinosaurs.csv)
+- [ETFs](data/etfs.csv.csv)
+- [Estonia Counties](data/estonia_counties.csv.csv)
+- [Estonia Municipalities](data/estonia_municipalities.csv.csv)
+- [Flighs](data/flights.csv.csv)
+- [Flights](data/flights.csv.csv)
+- [France Departments](data/france_departments.csv.csv)
+- [France Regions](data/france_regions.csv.csv)
+- [GPUs](data/gpus.csv.csv)
+- [GTFO Bins](data/gtfo_bins.csv.csv)
+- [Galaxies](data/galaxies.csv.csv)
+- [Germany Districts](data/germany_districts.csv.csv)
+- [Germany States](data/germany_states.csv.csv)
+- [Gov and Orgs Websites](data/websites.csv.csv)
+- [Greece Regions](data/greece_regions.csv.csv)
+- [HTTP Response Codes](data/http_response_codes.csv.csv)
+- [Hamburg Subway](data/hamburg_subway.csv.csv)
+- [Human Bones](data/human_bones.csv.csv)
+- [ISO ICS](data/iso_ICS.csv.csv)
+- [Iraq Governorates](data/iraq_governorates.csv.csv)
+- [Italy comunes](data/italy_comunes.csv.csv)
+- [Italy provinces](data/italy_provinces.csv.csv)
+- [Italy regions](data/italy_regions.csv.csv)
+- [Lausanne Subway](data/lausanne_subway.csv.csv)
+- [Lisbon Subway](data/lisbon_subway.csv.csv)
+- [Malta Bus](data/malta_bus.csv.csv)
+- [Malta Councils](data/malta_councils.csv.csv)
+- [Malta Districts](data/malta_districts.csv.csv)
+- [Malta Government Debt](data/malta_government_debt.csv.csv)
+- [Malta Postal Codes](data/malta_postal_codes.csv.csv)
+- [Malta Regions](data/malta_regions.csv.csv)
+- [Markup Languages](data/markup_languages.csv.csv)
+- [Microsoft Excel Functions](data/microsoft_excel_functions.csv.csv)
+- [Mobile Country Codes MCC](data/mobile_country_codes_MCC.csv.csv)
+- [Mobile Network Codes MNC](data/mobile_network_codes_MNC.csv.csv)
+- [Mountains](data/mountains.csv.csv)
+- [Munich Subway](data/munich_subway.csv.csv)
+- [NIST CSF](data/nist_csf.csv.csv)
+- [Natural Satellites](data/natural_satellites.csv.csv)
+- [Norway Counties](data/norway_counties.csv.csv)
+- [Norway Municipalities](data/norway_municipalities.csv.csv)
+- [Pakistan Districts](data/pakistan_districts.csv.csv)
+- [Pakistan Divisions](data/pakistan_divisions.csv.csv)
+- [Pakistan Provinces](data/pakistan_provinces.csv.csv)
+- [Periodic Table Elements](data/periodic_table_elements.csv.csv)
+- [Planets](data/planets.csv.csv)
+- [Porto Subway](data/porto_subway.csv.csv)
+- [Portugal Districts](data/portugal_districts.csv.csv)
+- [Portugal Roads](data/portugal_roads.csv.csv)
+- [Portugal Speed Radars](data/portugal_speed_radars.csv.csv)
+- [Programming Languages](data/programming_languages.csv.csv)
+- [RFCs](data/request_for_comments.csv.csv)
+- [Read Only Memory RAM](data/ram.csv.csv)
+- [Sensors](data/sensors.csv.csv)
+- [Ski Areas](data/ski_areas.csv.csv)
+- [Slovenia Cities](data/slovenia_cities.csv.csv)
+- [Slovenia Municipalities](data/slovenia_municipalities.csv.csv)
+- [Slovenia Population](data/slovenia_population.csv.csv)
+- [Slovenia Settlements](data/slovenia_settlements.csv.csv)
+- [Slovenia Statistical Regions](data/slovenia_statistical_regions.csv.csv)
+- [Sofia Subway](data/sofia_subway.csv.csv)
+- [Spain Autonomous Communities](data/spain_autonomous_communities.csv.csv)
+- [Spain Provinces](data/spain_provinces.csv.csv)
+- [Stars](data/stars.csv.csv)
+- [Stock Exchanges](data/stock_exchanges.csv.csv)
+- [Switzerland cantons](data/switzerland_cantons.csv.csv)
+- [Tunisia Delegations](data/tunisia_delegations.csv.csv)
+- [Tunisia Governorates](data/tunisia_governorates.csv.csv)
+- [USA States](data/usa_states.csv.csv)
+- [Windows Mobile OS Versions](data/windows_mobile_os_versions.csv.csv)
+- [Windows OS Versions](data/windows_os_versions.csv.csv)
+- [Windows Server OS Versions](data/windows_server_os_versions.csv.csv)
+- [iOS Versions](data/ios_versions.csv.csv)
+- [iPad Versions](data/ipad_versions.csv.csv)
+- [iPhone Versions](data/iphone_versions.csv.csv)
