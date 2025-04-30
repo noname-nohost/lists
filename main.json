@@ -1440,5 +1440,18 @@
             "Title",
             "Scope"
         ]
+    },
+    "IKEA Stores": {
+        "filename": "ikea_stores.csv",
+        "sources": ["www.ikea.com"],
+        "updated": "2024-01-01T00.00.00",
+        "fields": [
+            "Country",
+            "Store",
+            "Address",
+            "Latitude",
+            "Longitude",
+            "Zip Code"
+        ]
     }
 }
