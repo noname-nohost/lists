@@ -1440,18 +1440,5 @@
             "Title",
             "Scope"
         ]
-    },
-    "Kyrgyzstan Regions": {
-        "filename": "kyrgyzstan_regions.csv",
-        "sources": ["www.stat.gov.kg"],
-        "updated": "2024-01-01T00.00.00",
-        "fields": [
-            "Region",
-            "Capital",
-            "Kyrgyz",
-            "ISO 3166-2 Code",
-            "Area [km2]",
-            "Population (1 of January 2024)"
-        ]
     }
 }
