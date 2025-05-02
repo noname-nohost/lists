@@ -1452,7 +1452,8 @@
             "ISO 3166-2 Code",
             "Area [km2]",
             "Population (1 of January 2024)"
-    }
+        ]
+    },
     "IKEA Stores": {
         "filename": "ikea_stores.csv",
         "sources": ["www.ikea.com"],
