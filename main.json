@@ -1,4 +1,20 @@
 {
+    "Portugal Presidential Elections": {
+        "filename": "portugal_presidential_elections.csv",
+        "sources": ["www.eleicoes.mai.gov.pt"],
+        "updated": "2025-05-21T00.00.00",
+        "fields": [
+            "Ano",
+            "Resultados (Candidato Votos %)",
+            "Inscritos",
+            "Votantes Votos",
+            "Votantes %",
+            "Brancos Votos",
+            "Brancos %",
+            "Nulos Votos",
+            "Nulos %"
+        ]
+    },
     "Popes": {
         "filename": "popes.csv",
         "sources": [],
