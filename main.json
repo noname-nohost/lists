@@ -1590,5 +1590,20 @@
             "Longitude",
             "Zip Code"
         ]
-    }
+    },
+    "Prague Subway": {
+        "filename": "prague_subway.csv",
+        "sources": ["https://pid.cz"],
+        "updated": "2025-12-01T00.00.00",
+        "fields": [
+            "Line",
+            "From",
+            "To",
+            "Length [km]",
+            "# Stops",
+            "Stops",
+            "Color",
+            "Opened"
+        ]
+    },
 }
