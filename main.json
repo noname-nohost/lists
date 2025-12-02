@@ -1606,4 +1606,19 @@
             "Opened"
         ]
     },
+    "Milan Subway": {
+        "filename": "milan_subway.csv",
+        "sources": ["https://www.atm.it/"],
+        "updated": "2025-12-02T00.00.00",
+        "fields": [
+            "Line",
+            "From",
+            "To",
+            "Length [km]",
+            "# Stops",
+            "Stops",
+            "Color",
+            "Opened"
+        ]
+    },
 }
