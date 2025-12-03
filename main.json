@@ -1666,6 +1666,21 @@
             "Opened"
         ]
     },
+    "Baku Subway": {
+        "filename": "baku_subway.csv",
+        "sources": ["https://metro.gov.az/"],
+        "updated": "2025-12-03T00.00.00",
+        "fields": [
+            "Line",
+            "From",
+            "To",
+            "Length [km]",
+            "# Stops",
+            "Stops",
+            "Color",
+            "Opened"
+        ]
+    },
     "Armenia Provinces": {
         "filename": "armenia_provinces.csv",
         "sources": ["http://www.armstat.am"],
