@@ -1792,6 +1792,38 @@
             "Opened"
         ]
     },
+    "Oslo Subway": {
+        "filename": "oslo_subway.csv",
+        "sources": ["https://www.sporveien.no/"],
+        "updated": "2025-12-03T00.00.00",
+        "fields": [
+            "Line",
+            "From",
+            "To",
+            "Length [km]",
+            "# Stops",
+            "Stops",
+            "Color",
+            "Ride time [min]",
+            "Opened"
+        ]
+    },
+    "Oslo Tram": {
+        "filename": "oslo_tram.csv",
+        "sources": ["https://www.sporveien.no/"],
+        "updated": "2025-12-03T00.00.00",
+        "fields": [
+            "Line",
+            "From",
+            "To",
+            "Length [km]",
+            "# Stops",
+            "Stops",
+            "Color",
+            "Ride time [min]",
+            "Opened"
+        ]
+    },
     "Armenia Provinces": {
         "filename": "armenia_provinces.csv",
         "sources": ["http://www.armstat.am"],
