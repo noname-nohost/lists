@@ -1713,8 +1713,24 @@
         ]
     },
     "Copenhagen Subway": {
-        "filename": "copenhagen.csv",
+        "filename": "copenhagen_subway.csv",
         "sources": ["https://m.dk/"],
+        "updated": "2025-12-03T00.00.00",
+        "fields": [
+            "Line",
+            "From",
+            "To",
+            "Length [km]",
+            "# Stops",
+            "Stops",
+            "Color",
+            "Ride time [min]",
+            "Opened"
+        ]
+    },
+    "Nuremberg Subway": {
+        "filename": "nuremberg_subway.csv",
+        "sources": ["https://www.vag.de/"],
         "updated": "2025-12-03T00.00.00",
         "fields": [
             "Line",
