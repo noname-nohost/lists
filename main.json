@@ -1855,7 +1855,19 @@
             "Ride time [min]",
             "Opened"
         ]
-    }, 
+    },
+    "Palma Bus": {
+        "filename": "palma_bus.csv",
+        "sources": ["https://www.tib.org/"],
+        "updated": "2025-12-03T00.00.00",
+        "fields": [
+            "Line",
+            "From",
+            "To",
+            "Stops",
+            "Ride time [min]"
+        ]
+    },
     "Armenia Provinces": {
         "filename": "armenia_provinces.csv",
         "sources": ["http://www.armstat.am"],
