@@ -15,6 +15,20 @@
             "Nulos %"
         ]
     },
+    "McDonalds": {
+        "filename": "mcdonalds_locations.csv",
+        "sources": ["multiple McDonalds official websites"],
+        "updated": "2025-07-21T00.00.00",
+        "fields": [
+            "Country",
+            "Name",
+            "ID",
+            "Address",
+            "Postal Code",
+            "Latitude",
+            "Longitude"
+        ]
+    },
     "Pokemons": {
         "filename": "pokemons.csv",
         "sources": [""],
