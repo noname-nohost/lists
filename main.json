@@ -488,6 +488,22 @@
             "# Counties"
         ]
     },
+     "USA Presidents": {
+        "filename": "usa_presidents.csv",
+        "sources": [],
+        "updated": "2025-04-01T00.00.00",
+        "fields": [
+            "No",
+            "Name",
+            "Birth date",
+            "Death date",
+            "Term start",
+            "Term end",
+            "Party",
+            "Election(s)",
+            "Vice President(s)"
+        ]
+    },
     "Portugal Districts": {
         "filename": "portugal_districts.csv",
         "sources": [],
