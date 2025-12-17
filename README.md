@@ -2,6 +2,8 @@
 
 A centralized and structured collection of curated CSV datasets from various official sources, designed to be simple to use and easy to contribute to.
 
+Number of data sets: 130!
+
 ## Overview
 
 This repository aims to provide open, structured access to a wide variety of datasets in CSV format. The data is collected from reputable and official sources such as government websites and recognized organizations. Each dataset is accompanied by metadata in a JSON file that describes its structure (e.g., column names, source name, and more), helping users understand and utilize the data effectively.
