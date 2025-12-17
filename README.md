@@ -209,7 +209,7 @@ Feel free to open an issue or reach out via GitHub if you have questions, ideas,
 - [Thessaloniki Subway](data/thessaloniki_subway.csv)
 - [Tunisia Delegations](data/tunisia_delegations.csv)
 - [Tunisia Governorates](data/tunisia_governorates.csv)
-- [USA States](data/usa_states.csv)
+- [USA Presidents](data/usa_presidents.csv)
 - [USA States](data/usa_states.csv)
 - [Vienna Subway](data/vienna_subway.csv)
 - [Windows Mobile OS Versions](data/windows_mobile_os_versions.csv)
