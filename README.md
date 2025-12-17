@@ -210,6 +210,7 @@ Feel free to open an issue or reach out via GitHub if you have questions, ideas,
 - [Tunisia Delegations](data/tunisia_delegations.csv)
 - [Tunisia Governorates](data/tunisia_governorates.csv)
 - [USA States](data/usa_states.csv)
+- [USA States](data/usa_states.csv)
 - [Vienna Subway](data/vienna_subway.csv)
 - [Windows Mobile OS Versions](data/windows_mobile_os_versions.csv)
 - [Windows OS Versions](data/windows_os_versions.csv)
