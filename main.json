@@ -1966,5 +1966,30 @@
             "Population (1 of January 2022)",
             "Population (1 of January 2023)"
         ]
-    }
+    },
+    "World Happiness": {
+        "filename": "world_happiness.csv",
+        "sources": ["https://worldhappiness.report/"],
+        "updated": "2025-12-17T00.00.00",
+        "fields": [
+            "Year",
+            "Rank",
+            "Country",
+            "Life evaluation",
+            "Change (since 2012)",
+            "Inequality",
+            "Social support",
+            "GDP per capita",
+            "Healthy life expectancy",
+            "Healthy Life Expectancy (2021 data)",
+            "Freedom",
+            "Generosity",
+            "Perceptions of corruption",
+            "Positive emotions",
+            "Negative emotions",
+            "Donated",
+            "Volunteered",
+            "Helped a stranger"
+        ]
+    },
 }
