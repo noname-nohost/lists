@@ -92,9 +92,9 @@ This project is licensed under the MIT License.
 Feel free to open an issue or reach out via GitHub if you have questions, ideas, or want to collaborate.
 
 ## Availables Lists
-- [Aircrafts](data/aircrafts.cvs)
-- [Airlines](data/airlines.cvs)
-- [Airports](data/airports.cvs)
+- [Aircrafts](data/aircrafts.csv)
+- [Airlines](data/airlines.csv)
+- [Airports](data/airports.csv)
 - [Android NDKs](data/android_ndks.csv)
 - [Android Versions](data/android_versions.csv)
 - [Animals](data/animals.csv)
@@ -127,7 +127,7 @@ Feel free to open an issue or reach out via GitHub if you have questions, ideas,
 - [Czech Republic Districts](data/czech_republic_districts.csv)
 - [Czech Republic Regions](data/czech_republic_regions.csv)
 - [Database Management Systems DMS](data/database_management_systems.csv)
-- [Dinosaurs](data/dinosaurs.cvs)
+- [Dinosaurs](data/dinosaurs.csv)
 - [ETFs](data/etfs.csv)
 - [Estonia Counties](data/estonia_counties.csv)
 - [Estonia Municipalities](data/estonia_municipalities.csv)
@@ -162,6 +162,7 @@ Feel free to open an issue or reach out via GitHub if you have questions, ideas,
 - [Malta Government Debt](data/malta_government_debt.csv)
 - [Malta Postal Codes](data/malta_postal_codes.csv)
 - [Malta Regions](data/malta_regions.csv)
+- [Maritime Ports](data/maritime_ports.csv)
 - [Markup Languages](data/markup_languages.csv)
 - [McDonalds](data/mcdonalds_locations.csv)
 - [Microsoft Excel Functions](data/microsoft_excel_functions.csv)
