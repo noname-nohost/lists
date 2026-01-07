@@ -226,7 +226,7 @@
         ]
     },
     "Airports": {
-        "filename": "airports.cvs",
+        "filename": "airports.csv",
         "sources": [],
         "updated": "2024-01-01T00.00.00",
         "fields": [
@@ -242,8 +242,24 @@
             "Longitude"
         ]
     },
+    "Maritime Ports": {
+        "filename": "maritime_ports.csv",
+        "sources": ["https://github.com/Project-Harrison"],
+        "updated": "2026-01-07T00.00.00",
+        "fields": [
+            "CITY",
+            "STATE",
+            "COUNTRY",
+            "LATITUDE",
+            "LONGITUDE",
+            "OFFSET",
+            "DST",
+            "Regulation_14",
+            "Regulation_13"
+        ]
+    },
     "Aircrafts": {
-        "filename": "aircrafts.cvs",
+        "filename": "aircrafts.csv",
         "sources": [],
         "updated": "2024-01-01T00.00.00",
         "fields": [
@@ -252,7 +268,7 @@
         ]
     },
     "Airlines": {
-        "filename": "airlines.cvs",
+        "filename": "airlines.csv",
         "sources": [],
         "updated": "2024-01-01T00.00.00",
         "fields": [
@@ -268,7 +284,7 @@
         ]
     },
     "Dinosaurs": {
-        "filename": "dinosaurs.cvs",
+        "filename": "dinosaurs.csv",
         "sources": [],
         "updated": "2024-01-01T00.00.00",
         "fields": [
