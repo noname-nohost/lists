@@ -1,0 +1,477 @@
+District, ID, Type, Area [km2]
+Flensburg, 1001, kreisfreie Stadt, 56.73
+Kiel, 1002, kreisfreie Stadt, 118.65
+Lübeck, 1003, kreisfreie Stadt, 214.19
+Neumünster, 1004, kreisfreie Stadt, 71.66
+Dithmarschen, 1051, Landkreis, 1,428.17
+Herzogtum Lauenburg, 1053, Landkreis, 1,263.06
+Nordfriesland, 1054, Landkreis, 2,083.56
+Ostholstein, 1055, Landkreis, 1,393.02
+Pinneberg, 1056, Landkreis, 664.25
+Plön, 1057, Landkreis, 1,083.56
+Rendsburg-Eckernförde, 1058, Landkreis, 2,189.79
+Schleswig-Flensburg, 1059, Landkreis, 2,071.28
+Segeberg, 1060, Landkreis, 1,344.47
+Steinburg, 1061, Landkreis, 1,055.70
+Stormarn, 1062, Landkreis, 766.23
+Hamburg, 2000, kreisfreie Stadt, 755.09
+Braunschweig, 3101, kreisfreie Stadt, 192.7
+Salzgitter, 3102, kreisfreie Stadt, 224.49
+Wolfsburg, 3103, kreisfreie Stadt, 204.62
+Gifhorn, 3151, Landkreis, 1,567.57
+Göttingen, 3152, Landkreis (until 2016-10-31), -
+Goslar, 3153, Landkreis, 966.72
+Helmstedt, 3154, Landkreis, 676.12
+Northeim, 3155, Landkreis, 1,268.77
+Osterode am Harz, 3156, Landkreis (until 2016-10-31), -
+Peine, 3157, Landkreis, 536.5
+Wolfenbüttel, 3158, Landkreis, 724.32
+Göttingen, 3159, Landkreis, 1,755.41
+Hannover, 3201, kreisfreie Stadt (until 2001-10-31), -
+Region Hannover, 3241, Landkreis, 2,297.13
+Diepholz, 3251, Landkreis, 1,991.02
+Hameln-Pyrmont, 3252, Landkreis, 797.53
+Hannover, 3253, Landkreis (until 2001-10-31), -
+Hildesheim, 3254, Landkreis, 1,208.33
+Holzminden, 3255, Landkreis, 694.27
+Nienburg (Weser), 3256, Landkreis, 1,400.81
+Schaumburg, 3257, Landkreis, 675.67
+Celle, 3351, Landkreis, 1,550.83
+Cuxhaven, 3352, Landkreis, 2,058.96
+Harburg, 3353, Landkreis, 1,248.45
+Lüchow-Dannenberg, 3354, Landkreis, 1,227.32
+Lüneburg, 3355, Landkreis, 1,327.83
+Osterholz, 3356, Landkreis, 652.67
+Rotenburg (Wümme), 3357, Landkreis, 2,074.77
+Heidekreis, 3358, , 1,881.46
+Stade, 3359, Landkreis, 1,267.38
+Uelzen, 3360, Landkreis, 1,462.59
+Verden, 3361, Landkreis, 789.33
+Delmenhorst, 3401, kreisfreie Stadt, 62.45
+Emden, 3402, kreisfreie Stadt, 112.34
+Oldenburg (Oldenburg), 3403, kreisfreie Stadt, 103.09
+Osnabrück, 3404, kreisfreie Stadt, 119.8
+Wilhelmshaven, 3405, kreisfreie Stadt, 107.11
+Ammerland, 3451, Landkreis, 730.65
+Aurich, 3452, Landkreis, 1,287.35
+Cloppenburg, 3453, Landkreis, 1,420.34
+Emsland, 3454, Landkreis, 2,883.67
+Friesland, 3455, Landkreis, 609.53
+Grafschaft Bentheim, 3456, Landkreis, 981.79
+Leer, 3457, Landkreis, 1,085.72
+Oldenburg, 3458, Landkreis, 1,064.83
+Osnabrück, 3459, Landkreis, 2,121.80
+Vechta, 3460, Landkreis, 814.21
+Wesermarsch, 3461, Landkreis, 824.78
+Wittmund, 3462, Landkreis, 656.86
+Bremen, 4011, kreisfreie Stadt, 318.2
+Bremerhaven, 4012, kreisfreie Stadt, 101.41
+Düsseldorf, 5111, kreisfreie Stadt, 217.41
+Duisburg, 5112, kreisfreie Stadt, 232.84
+Essen, 5113, kreisfreie Stadt, 210.34
+Krefeld, 5114, kreisfreie Stadt, 137.77
+Mönchengladbach, 5116, kreisfreie Stadt, 170.47
+Mülheim an der Ruhr, 5117, kreisfreie Stadt, 91.28
+Oberhausen, 5119, kreisfreie Stadt, 77.09
+Remscheid, 5120, kreisfreie Stadt, 74.52
+Solingen, 5122, kreisfreie Stadt, 89.54
+Wuppertal, 5124, kreisfreie Stadt, 168.39
+Kleve, 5154, Landkreis, 1,232.99
+Mettmann, 5158, Landkreis, 407.22
+Rhein-Kreis Neuss, 5162, , 576.42
+Viersen, 5166, Landkreis, 563.28
+Wesel, 5170, Landkreis, 1,042.76
+Aachen, 5313, kreisfreie Stadt (until 2009-10-20), -
+Bonn, 5314, kreisfreie Stadt, 141.06
+Köln, 5315, kreisfreie Stadt, 405.02
+Leverkusen, 5316, kreisfreie Stadt, 78.87
+Städteregion Aachen, 5334, Landkreis, 706.91
+Aachen, 5354, Landkreis (until 2009-10-20), -
+Düren, 5358, Landkreis, 941.49
+Rhein-Erft-Kreis, 5362, , 704.71
+Euskirchen, 5366, Landkreis, 1,248.73
+Heinsberg, 5370, Landkreis, 627.91
+Oberbergischer Kreis, 5374, , 918.85
+Rheinisch-Bergischer Kreis, 5378, , 437.32
+Rhein-Sieg-Kreis, 5382, , 1,153.21
+Bottrop, 5512, kreisfreie Stadt, 100.61
+Gelsenkirchen, 5513, kreisfreie Stadt, 104.94
+Münster, 5515, kreisfreie Stadt, 303.28
+Borken, 5554, Landkreis, 1,420.98
+Coesfeld, 5558, Landkreis, 1,112.04
+Recklinghausen, 5562, Landkreis, 761.31
+Steinfurt, 5566, Landkreis, 1,795.75
+Warendorf, 5570, Landkreis, 1,319.42
+Bielefeld, 5711, kreisfreie Stadt, 258.83
+Gütersloh, 5754, Landkreis, 969.21
+Herford, 5758, Landkreis, 450.4
+Höxter, 5762, Landkreis, 1,201.42
+Lippe, 5766, Landkreis, 1,246.21
+Minden-Lübbecke, 5770, Landkreis, 1,152.42
+Paderborn, 5774, Landkreis, 1,246.80
+Bochum, 5911, kreisfreie Stadt, 145.66
+Dortmund, 5913, kreisfreie Stadt, 280.71
+Hagen, 5914, kreisfreie Stadt, 160.45
+Hamm, 5915, kreisfreie Stadt, 226.66
+Herne, 5916, kreisfreie Stadt, 51.42
+Ennepe-Ruhr-Kreis, 5954, , 409.64
+Hochsauerlandkreis, 5958, , 1,960.17
+Märkischer Kreis, 5962, , 1,061.09
+Olpe, 5966, Landkreis, 712.11
+Siegen-Wittgenstein, 5970, Landkreis, 1,132.89
+Soest, 5974, Landkreis, 1,328.64
+Unna, 5978, Landkreis, 543.21
+Darmstadt, 6411, kreisfreie Stadt, 122.07
+Frankfurt am Main, 6412, kreisfreie Stadt, 248.31
+Offenbach am Main, 6413, kreisfreie Stadt, 44.88
+Wiesbaden, 6414, kreisfreie Stadt, 203.87
+Bergstraße, 6431, Landkreis, 719.47
+Darmstadt-Dieburg, 6432, Landkreis, 658.64
+Groß-Gerau, 6433, Landkreis, 453.03
+Hochtaunuskreis, 6434, , 481.84
+Main-Kinzig-Kreis, 6435, , 1,397.32
+Main-Taunus-Kreis, 6436, , 222.53
+Odenwaldkreis, 6437, , 623.97
+Offenbach, 6438, Landkreis, 356.24
+Rheingau-Taunus-Kreis, 6439, , 811.4
+Wetteraukreis, 6440, , 1,100.66
+Gießen, 6531, Landkreis, 854.56
+Lahn-Dill-Kreis, 6532, , 1,066.30
+Limburg-Weilburg, 6533, Landkreis, 738.44
+Marburg-Biedenkopf, 6534, Landkreis, 1,262.37
+Vogelsbergkreis, 6535, , 1,458.91
+Kassel, 6611, kreisfreie Stadt, 106.79
+Fulda, 6631, Landkreis, 1,380.41
+Hersfeld-Rotenburg, 6632, Landkreis, 1,097.77
+Kassel, 6633, Landkreis, 1,293.31
+Schwalm-Eder-Kreis, 6634, , 1,539.01
+Waldeck-Frankenberg, 6635, Landkreis, 1,848.70
+Werra-Meißner-Kreis, 6636, , 1,024.83
+Koblenz, 7111, kreisfreie Stadt, 105.25
+Ahrweiler, 7131, Landkreis, 787.03
+Altenkirchen (Westerwald), 7132, Landkreis, 642.38
+Bad Kreuznach, 7133, Landkreis, 863.89
+Birkenfeld, 7134, Landkreis, 776.83
+Cochem-Zell, 7135, Landkreis, 692.44
+Mayen-Koblenz, 7137, Landkreis, 817.72
+Neuwied, 7138, Landkreis, 627.06
+Rhein-Hunsrück-Kreis, 7140, , 991.06
+Rhein-Lahn-Kreis, 7141, , 782.24
+Westerwaldkreis, 7143, , 989.04
+Trier, 7211, kreisfreie Stadt, 117.06
+Bernkastel-Wittlich, 7231, Landkreis, 1,167.93
+Eifelkreis Bitburg-Prüm, 7232, , 1,626.95
+Vulkaneifel, 7233, Landkreis, 911.64
+Trier-Saarburg, 7235, Landkreis, 1,102.24
+Frankenthal (Pfalz), 7311, kreisfreie Stadt, 43.88
+Kaiserslautern, 7312, kreisfreie Stadt, 139.7
+Landau in der Pfalz, 7313, kreisfreie Stadt, 82.94
+Ludwigshafen am Rhein, 7314, kreisfreie Stadt, 77.43
+Mainz, 7315, kreisfreie Stadt, 97.73
+Neustadt an der Weinstraße, 7316, kreisfreie Stadt, 117.09
+Pirmasens, 7317, kreisfreie Stadt, 61.35
+Speyer, 7318, kreisfreie Stadt, 42.71
+Worms, 7319, kreisfreie Stadt, 108.73
+Zweibrücken, 7320, kreisfreie Stadt, 70.64
+Alzey-Worms, 7331, Landkreis, 588.07
+Bad Dürkheim, 7332, Landkreis, 594.64
+Donnersbergkreis, 7333, , 645.41
+Germersheim, 7334, Landkreis, 463.32
+Kaiserslautern, 7335, Landkreis, 640
+Kusel, 7336, Landkreis, 573.61
+Südliche Weinstraße, 7337, Landkreis, 639.93
+Rhein-Pfalz-Kreis, 7338, , 304.99
+Mainz-Bingen, 7339, Landkreis, 605.33
+Südwestpfalz, 7340, Landkreis, 953.52
+Stuttgart, 8111, kreisfreie Stadt, 207.33
+Böblingen, 8115, Landkreis, 617.76
+Esslingen, 8116, Landkreis, 641.28
+Göppingen, 8117, Landkreis, 642.34
+Ludwigsburg, 8118, Landkreis, 686.77
+Rems-Murr-Kreis, 8119, , 858.08
+Heilbronn, 8121, kreisfreie Stadt, 99.89
+Heilbronn, 8125, Landkreis, 1,099.91
+Hohenlohekreis, 8126, , 776.75
+Schwäbisch Hall, 8127, Landkreis, 1,484.08
+Main-Tauber-Kreis, 8128, , 1,304.12
+Heidenheim, 8135, Landkreis, 627.14
+Ostalbkreis, 8136, , 1,511.39
+Baden-Baden, 8211, kreisfreie Stadt, 140.19
+Karlsruhe, 8212, kreisfreie Stadt, 173.42
+Karlsruhe, 8215, Landkreis, 1,084.98
+Rastatt, 8216, Landkreis, 738.43
+Heidelberg, 8221, kreisfreie Stadt, 108.83
+Mannheim, 8222, kreisfreie Stadt, 144.97
+Neckar-Odenwald-Kreis, 8225, , 1,125.95
+Rhein-Neckar-Kreis, 8226, , 1,061.55
+Pforzheim, 8231, kreisfreie Stadt, 97.99
+Calw, 8235, Landkreis, 797.29
+Enzkreis, 8236, , 573.6
+Freudenstadt, 8237, Landkreis, 870.4
+Freiburg im Breisgau, 8311, kreisfreie Stadt, 153.04
+Breisgau-Hochschwarzwald, 8315, Landkreis, 1,378.32
+Emmendingen, 8316, Landkreis, 679.8
+Ortenaukreis, 8317, , 1,860.29
+Rottweil, 8325, Landkreis, 769.42
+Schwarzwald-Baar-Kreis, 8326, , 1,025.34
+Tuttlingen, 8327, Landkreis, 734.38
+Konstanz, 8335, Landkreis, 817.98
+Lörrach, 8336, Landkreis, 806.66
+Waldshut, 8337, Landkreis, 1,131.15
+Reutlingen, 8415, Landkreis, 1,092.48
+Tübingen, 8416, Landkreis, 519.12
+Zollernalbkreis, 8417, , 917.58
+Ulm, 8421, kreisfreie Stadt, 118.68
+Alb-Donau-Kreis, 8425, , 1,358.54
+Biberach, 8426, Landkreis, 1,409.52
+Bodenseekreis, 8435, , 664.77
+Ravensburg, 8436, Landkreis, 1,632.08
+Sigmaringen, 8437, Landkreis, 1,204.24
+Ingolstadt, 9161, kreisfreie Stadt, 133.35
+München, 9162, kreisfreie Stadt, 310.7
+Rosenheim, 9163, kreisfreie Stadt, 37.22
+Altötting, 9171, Landkreis, 569.28
+Berchtesgadener Land, 9172, Landkreis, 839.83
+Bad Tölz-Wolfratshausen, 9173, Landkreis, 1,110.67
+Dachau, 9174, Landkreis, 579.16
+Ebersberg, 9175, Landkreis, 549.39
+Eichstätt, 9176, Landkreis, 1,213.85
+Erding, 9177, Landkreis, 870.74
+Freising, 9178, Landkreis, 799.85
+Fürstenfeldbruck, 9179, Landkreis, 434.8
+Garmisch-Partenkirchen, 9180, Landkreis, 1,012.17
+Landsberg am Lech, 9181, Landkreis, 804.36
+Miesbach, 9182, Landkreis, 866.21
+Mühldorf am Inn, 9183, Landkreis, 805.33
+München, 9184, Landkreis, 664.25
+Neuburg-Schrobenhausen, 9185, Landkreis, 739.71
+Pfaffenhofen an der Ilm, 9186, Landkreis, 761.05
+Rosenheim, 9187, Landkreis, 1,439.44
+Starnberg, 9188, Landkreis, 487.71
+Traunstein, 9189, Landkreis, 1,533.76
+Weilheim-Schongau, 9190, Landkreis, 966.28
+Landshut, 9261, kreisfreie Stadt, 65.83
+Passau, 9262, kreisfreie Stadt, 69.56
+Straubing, 9263, kreisfreie Stadt, 67.59
+Deggendorf, 9271, Landkreis, 861.17
+Freyung-Grafenau, 9272, Landkreis, 983.85
+Kelheim, 9273, Landkreis, 1,065.13
+Landshut, 9274, Landkreis, 1,347.55
+Passau, 9275, Landkreis, 1,530.10
+Regen, 9276, Landkreis, 974.78
+Rottal-Inn, 9277, Landkreis, 1,281.20
+Straubing-Bogen, 9278, Landkreis, 1,201.62
+Dingolfing-Landau, 9279, Landkreis, 877.58
+Amberg, 9361, kreisfreie Stadt, 50.14
+Regensburg, 9362, kreisfreie Stadt, 80.86
+Weiden in der Oberpfalz, 9363, kreisfreie Stadt, 70.57
+Amberg-Sulzbach, 9371, Landkreis, 1,255.85
+Cham, 9372, Landkreis, 1,526.83
+Neumarkt in der Oberpfalz, 9373, Landkreis, 1,343.96
+Neustadt an der Waldnaab, 9374, Landkreis, 1,425.81
+Regensburg, 9375, Landkreis, 1,391.65
+Schwandorf, 9376, Landkreis, 1,458.34
+Tirschenreuth, 9377, Landkreis, 1,084.25
+Bamberg, 9461, kreisfreie Stadt, 54.62
+Bayreuth, 9462, kreisfreie Stadt, 66.89
+Coburg, 9463, kreisfreie Stadt, 48.29
+Hof, 9464, kreisfreie Stadt, 58.02
+Bamberg, 9471, Landkreis, 1,167.81
+Bayreuth, 9472, Landkreis, 1,275.50
+Coburg, 9473, Landkreis, 590.42
+Forchheim, 9474, Landkreis, 642.83
+Hof, 9475, Landkreis, 892.52
+Kronach, 9476, Landkreis, 651.49
+Kulmbach, 9477, Landkreis, 658.33
+Lichtenfels, 9478, Landkreis, 519.94
+Wunsiedel im Fichtelgebirge, 9479, Landkreis, 606.37
+Ansbach, 9561, kreisfreie Stadt, 99.91
+Erlangen, 9562, kreisfreie Stadt, 76.96
+Fürth, 9563, kreisfreie Stadt, 63.35
+Nürnberg, 9564, kreisfreie Stadt, 186.44
+Schwabach, 9565, kreisfreie Stadt, 40.8
+Ansbach, 9571, Landkreis, 1,971.32
+Erlangen-Höchstadt, 9572, Landkreis, 564.55
+Fürth, 9573, Landkreis, 307.44
+Nürnberger Land, 9574, Landkreis, 799.52
+Neustadt an der Aisch-Bad Windsheim, 9575, Landkreis, 1,267.45
+Roth, 9576, Landkreis, 895.16
+Weißenburg-Gunzenhausen, 9577, Landkreis, 970.78
+Aschaffenburg, 9661, kreisfreie Stadt, 62.45
+Schweinfurt, 9662, kreisfreie Stadt, 35.7
+Würzburg, 9663, kreisfreie Stadt, 87.6
+Aschaffenburg, 9671, Landkreis, 698.9
+Bad Kissingen, 9672, Landkreis, 1,136.90
+Rhön-Grabfeld, 9673, Landkreis, 1,021.68
+Haßberge, 9674, Landkreis, 956.19
+Kitzingen, 9675, Landkreis, 684.14
+Miltenberg, 9676, Landkreis, 715.58
+Main-Spessart, 9677, Landkreis, 1,321.20
+Schweinfurt, 9678, Landkreis, 841.39
+Würzburg, 9679, Landkreis, 968.35
+Augsburg, 9761, kreisfreie Stadt, 146.85
+Kaufbeuren, 9762, kreisfreie Stadt, 40.02
+Kempten (Allgäu), 9763, kreisfreie Stadt, 63.28
+Memmingen, 9764, kreisfreie Stadt, 70.11
+Aichach-Friedberg, 9771, Landkreis, 780.23
+Augsburg, 9772, Landkreis, 1,070.74
+Dillingen an der Donau, 9773, Landkreis, 792.23
+Günzburg, 9774, Landkreis, 762.4
+Neu-Ulm, 9775, Landkreis, 515.84
+Lindau (Bodensee), 9776, Landkreis, 323.39
+Ostallgäu, 9777, Landkreis, 1,394.44
+Unterallgäu, 9778, Landkreis, 1,229.57
+Donau-Ries, 9779, Landkreis, 1,274.57
+Oberallgäu, 9780, Landkreis, 1,527.97
+Regionalverband Saarbrücken, 10041, Landkreis, 410.95
+Merzig-Wadern, 10042, Landkreis, 557.11
+Neunkirchen, 10043, Landkreis, 249.8
+Saarlouis, 10044, Landkreis, 459.36
+Saarpfalz-Kreis, 10045, , 418.28
+Sankt Wendel, 10046, Landkreis, 476.51
+Berlin, 11000, kreisfreie Stadt, 891.12
+Brandenburg an der Havel, 12051, kreisfreie Stadt, 229.73
+Cottbus, 12052, kreisfreie Stadt, 165.61
+Frankfurt (Oder), 12053, kreisfreie Stadt, 147.85
+Potsdam, 12054, kreisfreie Stadt, 188.24
+Barnim, 12060, Landkreis, 1,479.58
+Dahme-Spreewald, 12061, Landkreis, 2,274.50
+Elbe-Elster, 12062, Landkreis, 1,899.18
+Havelland, 12063, Landkreis, 1,727.31
+Märkisch-Oderland, 12064, Landkreis, 2,158.66
+Oberhavel, 12065, Landkreis, 1,808.18
+Oberspreewald-Lausitz, 12066, Landkreis, 1,223.48
+Oder-Spree, 12067, Landkreis, 2,256.76
+Ostprignitz-Ruppin, 12068, Landkreis, 2,526.46
+Potsdam-Mittelmark, 12069, Landkreis, 2,592.03
+Prignitz, 12070, Landkreis, 2,138.58
+Spree-Neiße, 12071, Landkreis, 1,657.00
+Teltow-Fläming, 12072, Landkreis, 2,104.20
+Uckermark, 12073, Landkreis, 3,077.02
+Greifswald, 13001, kreisfreie Stadt (until 2011-09-03), -
+Neubrandenburg, 13002, kreisfreie Stadt (until 2011-09-03, -
+Rostock, 13003, kreisfreie Stadt, 181.36
+Schwerin, 13004, kreisfreie Stadt, 130.52
+Stralsund, 13005, kreisfreie Stadt (until 2011-09-03), -
+Wismar, 13006, kreisfreie Stadt (until 2011-09-03), -
+Bad Doberan, 13051, Landkreis (until 2011-09-03), -
+Demmin, 13052, Landkreis (until 2011-09-03), -
+Güstrow, 13053, Landkreis (until 2011-09-03), -
+Ludwigslust, 13054, Landkreis (until 2011-09-03), -
+Mecklenburg-Strelitz, 13055, Landkreis (until 2011-09-03), -
+Müritz, 13056, Landkreis (until 2011-09-03), -
+Nordvorpommern, 13057, Landkreis (until 2011-09-03), -
+Nordwestmecklenburg, 13058, Landkreis (until 2011-09-03), -
+Ostvorpommern, 13059, Landkreis (until 2011-09-03), -
+Parchim, 13060, Landkreis (until 2011-09-03), -
+Rügen, 13061, Landkreis (until 2011-09-03), -
+Uecker-Randow, 13062, Landkreis (until 2011-09-03), -
+Mecklenburgische Seenplatte, 13071, Landkreis, 5,495.58
+Rostock, 13072, Landkreis, 3,431.14
+Vorpommern-Rügen, 13073, Landkreis, 3,215.73
+Nordwestmecklenburg, 13074, Landkreis, 2,127.07
+Vorpommern-Greifswald, 13075, Landkreis, 3,945.66
+Ludwigslust-Parchim, 13076, Landkreis, 4,766.76
+Chemnitz, 14161, kreisfreie Stadt (until 2008-07-31), -
+Plauen, 14166, kreisfreie Stadt (until 2008-07-31), -
+Zwickau, 14167, kreisfreie Stadt (until 2008-07-31), -
+Annaberg, 14171, Landkreis (until 2008-07-31), -
+Chemnitzer Land, 14173, Landkreis (until 2008-07-31), -
+Freiberg, 14177, Landkreis (until 2008-07-31), -
+Vogtlandkreis (until 2008-07-31), 14178, , -
+Mittlerer Erzgebirgskreis (until 2008-07-31), 14181, , -
+Mittweida, 14182, Landkreis (until 2008-07-31), -
+Stollberg, 14188, Landkreis (until 2008-07-31), -
+Aue-Schwarzenberg, 14191, Landkreis (until 2008-07-31), -
+Zwickauer Land, 14193, Landkreis (until 2008-07-31), -
+Dresden, 14262, kreisfreie Stadt (until 2008-07-31), -
+Görlitz, 14263, kreisfreie Stadt (until 2008-07-31), -
+Hoyerswerda, 14264, kreisfreie Stadt (until 2008-07-31), -
+Bautzen, 14272, Landkreis (until 2008-07-31), -
+Meißen, 14280, Landkreis (until 2008-07-31), -
+Niederschlesischer Oberlausitzkreis (b.31.07.2008), 14284, , -
+Riesa-Großenhain, 14285, Landkreis (until 2008-07-31), -
+Löbau-Zittau, 14286, Landkreis (until 2008-07-31), -
+Sächsische Schweiz, 14287, Landkreis (until 2008-07-31), -
+Weißeritzkreis (until 2008-07-31), 14290, , -
+Kamenz, 14292, Landkreis (until 2008-07-31), -
+Leipzig, 14365, kreisfreie Stadt (until 2008-07-31), -
+Delitzsch, 14374, Landkreis (until 2008-07-31), -
+Döbeln, 14375, Landkreis (until 2008-07-31), -
+Leipziger Land, 14379, Landkreis (until 2008-07-31), -
+Muldentalkreis (until 2008-07-31), 14383, , -
+Torgau-Oschatz, 14389, Landkreis (until 2008-07-31), -
+Chemnitz, 14511, kreisfreie Stadt, 221.03
+Erzgebirgskreis, 14521, , 1,827.91
+Mittelsachsen, 14522, Landkreis, 2,116.84
+Vogtlandkreis, 14523, , 1,412.39
+Zwickau, 14524, Landkreis, 949.8
+Dresden, 14612, kreisfreie Stadt, 328.48
+Bautzen, 14625, Landkreis, 2,395.59
+Görlitz, 14626, Landkreis, 2,111.40
+Meißen, 14627, Landkreis, 1,454.58
+Sächsische Schweiz-Osterzgebirge, 14628, Landkreis, 1,654.24
+Leipzig, 14713, kreisfreie Stadt, 297.8
+Leipzig, 14729, Landkreis, 1,651.27
+Nordsachsen, 14730, Landkreis, 2,028.55
+Dessau-Roßlau, 15001, kreisfreie Stadt, 245.78
+Halle (Saale), 15002, kreisfreie Stadt, 135.56
+Magdeburg, 15003, kreisfreie Stadt, 201.68
+Altmarkkreis Salzwedel, 15081, , 2,304.44
+Anhalt-Bitterfeld, 15082, Landkreis, 1,461.47
+Börde, 15083, Landkreis, 2,376.90
+Burgenlandkreis, 15084, , 1,419.92
+Harz, 15085, Landkreis, 2,110.40
+Jerichower Land, 15086, Landkreis, 1,589.34
+Mansfeld-Südharz, 15087, Landkreis, 1,456.33
+Saalekreis, 15088, , 1,440.45
+Salzlandkreis, 15089, , 1,433.60
+Stendal, 15090, Landkreis, 2,436.20
+Wittenberg, 15091, Landkreis, 1,942.75
+Dessau, 15101, kreisfreie Stadt (until 2007-06-30), -
+Anhalt-Zerbst, 15151, Landkreis (until 2007-06-30), -
+Bernburg, 15153, Landkreis (until 2007-06-30), -
+Bitterfeld, 15154, Landkreis (until 2007-06-30), -
+Köthen, 15159, Landkreis (until 2007-06-30), -
+Wittenberg, 15171, Landkreis (until 2007-06-30), -
+Halle (Saale), 15202, kreisfreie Stadt (until 2007-06-30), -
+Burgenlandkreis (until 2007-06-30), 15256, , -
+Mansfelder Land, 15260, Landkreis (until 2007-06-30), -
+Merseburg-Querfurt, 15261, Landkreis (until 2007-06-30), -
+Saalkreis (until 2007-06-30), 15265, , -
+Sangerhausen, 15266, Landkreis (until 2007-06-30), -
+Weißenfels, 15268, Landkreis (until 2007-06-30), -
+Magdeburg, 15303, kreisfreie Stadt (until 2007-06-30), -
+Aschersleben-Staßfurt, 15352, Landkreis (until 2007-06-30, -
+Bördekreis (until 2007-06-30), 15355, , -
+Halberstadt, 15357, Landkreis (until 2007-06-30), -
+Jerichower Land, 15358, Landkreis (until 2007-06-30), -
+Ohrekreis (until 2007-06-30), 15362, , -
+Stendal, 15363, Landkreis (until 2007-06-30), -
+Quedlinburg, 15364, Landkreis (until 2007-06-30), -
+Schönebeck, 15367, Landkreis (until 2007-06-30), -
+Wernigerode, 15369, Landkreis (until 2007-06-30), -
+Altmarkkreis Salzwedel (until 2007-06-30), 15370, , -
+Erfurt, 16051, kreisfreie Stadt, 269.91
+Gera, 16052, kreisfreie Stadt, 152.18
+Jena, 16053, kreisfreie Stadt, 114.77
+Suhl, 16054, kreisfreie Stadt, 141.62
+Weimar, 16055, kreisfreie Stadt, 84.47
+Eisenach, 16056, kreisfreie Stadt (until 2021-06-30), -
+Eichsfeld, 16061, Landkreis, 991.15
+Nordhausen, 16062, Landkreis, 713.91
+Wartburgkreis, 16063, , 1,371.13
+Unstrut-Hainich-Kreis, 16064, , 931.6
+Kyffhäuserkreis, 16065, , 1,037.91
+Schmalkalden-Meiningen, 16066, Landkreis, 1,251.21
+Gotha, 16067, Landkreis, 936.08
+Sömmerda, 16068, Landkreis, 806.85
+Hildburghausen, 16069, Landkreis, 938.42
+Ilm-Kreis, 16070, , 805.11
+Weimarer Land, 16071, Landkreis, 804.48
+Sonneberg, 16072, Landkreis, 460.85
+Saalfeld-Rudolstadt, 16073, Landkreis, 1,008.78
+Saale-Holzland-Kreis, 16074, , 815.24
+Saale-Orla-Kreis, 16075, , 1,151.31
+Greiz, 16076, Landkreis, 845.98
+Altenburger Land, 16077, Landkreis, 569.42
