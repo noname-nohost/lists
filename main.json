@@ -2042,5 +2042,23 @@
             "Dynasty",
             "Other names"
         ]
+    },
+    "Unesco Sites": {
+        "filename": "unesco_sites.csv",
+        "sources": ["unesco.org"],
+        "updated": "2026-01-10T00.00.00",
+        "fields": [
+            "ID",
+            "Name",
+            "Date",
+            "In Danger",
+            "Danger list",
+            "long",
+            "lat",
+            "Area [ha]",
+            "Category",
+            "Countries",
+            "Region"
+        ]
     }
 }
