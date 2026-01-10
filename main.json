@@ -2079,5 +2079,33 @@
             "Abstention",
             "Results"
         ]
+    },
+    "Portugal Legislatures": {
+        "filename": "portugal_legislatures.csv",
+        "sources": ["parlamento.pt", "eleicoes.cne.pt"],
+        "updated": "2026-01-10T00.00.00",
+        "fields": [
+            "Legislature",
+            "Election Date",
+            "Start",
+            "End",
+            "Seats #",
+            "Winner",
+            "Total votes",
+            "Registered Voters"
+        ]
+    },
+    "Portugal Legislatures Elections": {
+        "filename": "portugal_legislatures_elections.csv",
+        "sources": ["parlamento.pt", "eleicoes.cne.pt"],
+        "updated": "2026-01-10T00.00.00",
+        "fields": [
+            "Legislature",
+            "Election Date",
+            "Party",
+            "Votes",
+            "Votes %",
+            "Seats"
+        ]
     }
 }
