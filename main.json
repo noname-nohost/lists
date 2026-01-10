@@ -2060,5 +2060,24 @@
             "Countries",
             "Region"
         ]
+    },
+    "Portugal Parlament Votes": {
+        "filename": "portugal_parlament_votes.csv",
+        "sources": ["parlamento.pt"],
+        "updated": "2026-01-10T00.00.00",
+        "fields": [
+            "Legislature",
+            "Session",
+            "Date",
+            "Nº",
+            "Type",
+            "Iniciative",
+            "Author",
+            "Text",
+            "In favor",
+            "Against",
+            "Abstention",
+            "Results"
+        ]
     }
 }
