@@ -2107,5 +2107,20 @@
             "Votes %",
             "Seats"
         ]
-    }
+    },
+    "DM Locations": {
+        "filename": "dm_locations.csv",
+        "sources": ["www.dm.de"],
+        "updated": "2026-01-10T00.00.00",
+        "fields": [
+            "storeId",
+            "country",
+            "store number",
+            "address",
+            "zip code",
+            "phone",
+            "lat",
+            "lon"
+        ]
+    },
 }
