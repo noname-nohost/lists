@@ -1,0 +1,66 @@
+Name,Type,From,To,Lenght [km]
+A1,Highway,Windhoek,Okahandja (geplanter Zielort),50
+A2,Highway,Walvis Bay,Swakopmund,31
+A?,Highway,Windhoek,Hosea Kutako International Airport (geplanter Zielort),50
+B1,National,Noordoewer  Grenze nach  Südafrika  Anschluss an die N7,Oshikango  Grenze nach  Angola  Anschluss an die EN120,1600
+B2,National,Walvis Bay  Endpunkt des TCH  Endpunkt des TKH,Okahandja  Anschluss an die,327
+B3,National,Grünau  Anschluss an die,Ariamsvlei  Grenze nach  Südafrika  Anschluss an die N10,160
+B4,National,Lüderitz,Keetmanshoop  Anschluss an die,330
+B6,National,Windhoek  Anschluss an die,Buitepos  Grenze nach  Botswana,290
+B7,National,bei Okahandja,,
+B8,National,Otavi  Anschluss an die,Katima Mulilo  Grenze nach  Sambia Ngoma  Grenze nach  Botswana,930
+B9,National,WindhoekDöbra  Anschluss an die,WindhoekAvis  Anschluss an die,30
+B10,National,Ohangwena  Anschluss an die   Grenze nach  Angola,Rundu  Anschluss an die   Grenze nach  Angola,412
+B11,National,westlich von Nkurenkuru  Anschluss an die,Katwitwi  Grenze nach  Angola  Anschluss an die EN140,14
+B14,National,Grootfontein  Anschluss an die,Gobabis (bis Aranos geplant)[veraltet]  Anschluss an die,391
+B15,National,Tsumeb  Anschluss an die,Katwitwi  Grenze nach  Angola,210
+C10,Main Road,Grenze zu Südafrika,ǀAiǀAis,241
+C11,Main Road,B3 bei Karasburg,C17 bei Koës,318
+C12,Main Road,B1B3 Grünau,B4 Seeheim,129
+C13,Main Road,C14 Helmeringhausen,Noordoewer,286
+C14,Main Road,B2 Walvis Bay,B4 Goageb,451
+C15,Main Road,C23 Dordabis,Grenze zu Südafrika,419
+C16,Main Road,B1 Keetmanshoop,Grenze zu Südafrika,199
+C17,Main Road,B1 Keetmanshoop,C15 Koës,168
+C18,Main Road,B1 Gibeon,C15 Gochas,110
+C19,Main Road,B1 Mariental,C14 Solitaire,337
+C20,Main Road,B1 Mariental,B6 Gobabis,341
+C21,Main Road,C19 Maltahöhe,C15 Hoachanas,157
+C22,Main Road,C20 Aranos,B1 Otjiwarongo,323
+C23,Main Road,B1 Windhoek,C25 Leonardville,170
+C24,Main Road,B1 Rehoboth,C14 Ababis,159
+C25,Main Road,B1 Rehoboth,C20 Leonardville,170
+C26,Main Road,B1 Windhoek,C14 Rostock,200
+C27,Main Road,C13C14 Helmeringhausen,C19 Sesriem,260
+C28,Main Road,B1B6 Windhoek,B2C34 Swakopmund,316
+C29,Main Road,B6 Khomas,C22 Otjinene,155
+C30,Main Road,B6 Gobabis,C22 Hochfeld,320
+C31,Main Road,B1 Okahandja,C29 Summerdown,166
+C32,Main Road,B2 Karibib,C28 beim BosuaPass,95
+C33,Main Road,B2 Karibib,B1 Otjiwarongo,165
+C34,Main Road,B2C28 Swakopmund,Möwebucht,350
+C35,Main Road,C34 Henties Bay,Ruacana an der Grenze mit Angola,606
+C36,Main Road,B2 Wilhelmstal,C35 Uis,190
+C37,Main Road,C12 Hobas,Aussenkehr am OranjeFluss,134
+C38,Main Road,B1C33 Otjiwarongo,B1 Oshivelo,350
+C39,Main Road,B1B8 Otavi,C34 Torra Bay,460
+C40,Main Road,C35 Kamanjab,C38C39 Outjo,269
+C41,Main Road,C46 Oshakati,C43 Opuwo,192
+C42,Main Road,B1 B15 Tsumeb,C47 Otjituuo,119
+C43,Main Road,C39 Palmwag,Epupa an der Grenze mit Angola,470
+C44,Main Road,B8 Grootfontein,Gam unweit der Grenze mit Botswana,320
+C45,Main Road,B1 Ohangwena,C46 Oshakati,42
+C46,Main Road,B1 Ondangwa,Ruacana an der Grenze mit Angola,185
+C47,Main Road,C42 Otjituuo,C22 Okakarara,167
+C48,Main Road,B8 Divundu,Mahango Core Area an der Grenze zu Botswana,37
+C49,Main Road,B8 Katima Mulilo,B8 Kongola,137
+D707,District Roads,C27,C13,122
+D826,District Roads,C19,4x2Parkplatz Sossusvlei,75
+D1001,District Roads,C22,D1046,65
+D1237,District Roads,B1,C26,43
+D1984,District Roads,C28,C14,33
+D1985,District Roads,C28,D1982,22
+D2612,District Roads,C39,C35,77
+D3819,District Roads,C22,D3820,41
+M39,Main Road,C20,D1099 Union’s End,115
+M118,Main Road,Oranjemund,C13 Rosh Pinah,79

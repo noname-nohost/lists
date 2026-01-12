@@ -1,0 +1,251 @@
+Road,Class,Orientation,Length [km],Path
+E5,A,North–South,2960,Greenock – Glasgow – Preston – Birmingham – Southampton ... Le Havre – Paris – Orléans – Bordeaux – San Sebastián – Burgos – Madrid – Seville – Algeciras
+E15,A,North–South,3590,Inverness – Perth – Edinburgh – Newcastle – London – Folkestone – Dover ... Calais – Paris – Lyon – Orange – Narbonne – Girona – Barcelona – Tarragona – Castellón de la Plana – Valencia – Alicante – Murcia – Almería – Málaga – Algeciras
+E25,A,North–South,1830,Hook of Holland – Rotterdam – Eindhoven – Maastricht – Liège – Bastogne – Arlon – Luxembourg – Metz – SaintAvold – Strasbourg – Mulhouse – Basel – Olten – Bern – Lausanne – Geneva – Mont Blanc – Aosta – Ivrea – Vercelli – Alessandria – Genoa ... Bastia – PortoVecchio – Bonifacio ... Porto Torres – Sassari – Cagliari ... Palermo
+E35,A,North–South,1660,Amsterdam – Utrecht – Arnhem – Emmerich – Oberhausen – Cologne – Frankfurt am Main – Heidelberg – Karlsruhe – Offenburg – Basel – Olten – Lucerne – Altdorf – Gotthard Pass – Bellinzona – Lugano – Chiasso – Como – Milan – Piacenza – Parma – Modena – Florence – Rome
+E45,A,North–South,5190,Alta – Kautokeino – Karesuvanto – Arvidsjaur – Östersund – Mora – Säffle – Gothenburg ... Frederikshavn – Aalborg – Aarhus – Horsens  Vejle – Kolding – Flensburg – Hamburg – Hanover – Göttingen – Kassel – Fulda – Würzburg – Nuremberg – Munich – Rosenheim – Wörgl – Innsbruck – Brenner – Fortezza – Bolzano – Trento – Verona – Modena – Bologna – Cesena – Perugia – Fiano Romano – Naples – Salerno – Sicignano degli Alburni – Cosenza – Villa San Giovanni ... Messina – Catania – Siracusa – Rosolini – Gela
+E55,A,North–South,2920,Helsingborg Helsingør – Copenhagen – Køge – Vordingborg – Farø – Nykøbing Falster – Gedser ... Rostock – Berlin – Lübbenau – Dresden – Ústí nad Labem – Prague – Tábor – Linz – Salzburg – Villach – Tarvisio – Udine – Palmanova – Mestre – Ravenna – Cesena – Rimini – Fano – Ancona – Pescara – Canosa di Puglia – Bari – Brindisi ... Igoumenitsa – Preveza – Rhion – Patras – Pyrgos – Kalamata
+E65,A,North–South,3800,Malmö – Ystad ... Świnoujście – Wolin – Goleniów – Szczecin – Gryfino – Pyrzyce – Myślibórz – Gorzów Wielkopolski – Skwierzyna – Międzyrzecz – Świebodzin – Zielona Góra – Legnica – Jelenia Góra – Harrachov – Železný Brod – Turnov – Mladá Boleslav – Prague – Jihlava – Brno – Bratislava – Rajka – Csorna – Szombathely – Zalaegerszeg – Nagykanizsa – Letenye – Zagreb – Karlovac – Rijeka – Split – Dubrovnik – Petrovac – Podgorica – Bijelo Polje – Pristina – Skopje – Kičevo – Ohrid – Bitola – Niki – Vevi – Kozani – Larissa – Domokos – Lamia – Bralos – Itea – Antirrio – Rhion – Aigio – Corinth – Tripoli – Kalamata ... Kissamos – Chania
+E75,A,North–South,4340,Vardø – Vadsø – Varangerbotn – Utsjoki – Inari – Ivalo – Sodankylä – Rovaniemi – Kemi – Oulu – Jyväskylä – Heinola – Lahti – Helsinki ... Gdańsk – Świecie – Łódź – Częstochowa – Katowice – Žilina – Bratislava – Győr – Budapest – Szeged – Subotica – Novi Sad – Belgrade – Niš – Kumanovo – Skopje – Veles – Gevgelija – Evzoni – Thessaloniki – Katerini – Larissa – Lamia – Athens ... Chania – Heraklion – Agios Nikolaos – Sitia
+E85,A,North–South,2300,Klaipėda – Kaunas – Vilnius – Lida – Slonim – Kobryn – Dubno – Ternopil – Chernivtsi – Siret – Suceava – Roman – Urziceni – Bucharest – Giurgiu – Ruse – Byala – Veliko Tarnovo – Stara Zagora – Haskovo – Svilengrad – Ormenio – Kastanies – Didymoteicho – Alexandroupoli
+E95,A,North–South,1790,Saint Petersburg – Pskov – Gomel – Kyiv – Odesa ... Samsun – Merzifon
+E101,A,North–South,850,Moscow – Kaluga – Bryansk – Hlukhiv – Kyiv
+E105,A,North–South,3770,Kirkenes – Murmansk – Petrozavodsk – Saint Petersburg – Moscow – Tula – Orel – Kharkiv – Simferopol – Alushta – Yalta
+E115,A,North–South,1730,Yaroslavl – Moscow – Voronezh – Novorossiysk
+E117,A,North–South,1050,Mineralnye Vody – Nalchik – Vladikavkaz – Stepantsminda – Mtskheta – Tbilisi – Marneuli – Bolnisi – Yerevan – Goris – Megri
+E119,A,North–South,2630,Moscow – Tambov – Povorino – Volgograd – Astrakhan – Makhachkala – Quba – Baku – Alyat – Astara
+E121,A,North–South,2700,Samara – Oral – Atyrau – Beineu – Shetpe – Zhetybai – Fetisovo – Bekdash – Türkmenbaşy – Serdar – Border of the Islamic Republic of Iran
+E123,A,North–South,2840,Chelyabinsk – Kostanay – Esil – Derzhavinsk – Arkalyk – Jezkazgan – Kyzylorda – Shymkent – Tashkent – Ayni – Dushanbe – Panji Poyon
+E125,A,North–South,2600,Ishim – Petropavl – Kokshetau – Astana – Karaganda – Balkhash – Burubaytal – Almaty – Bishkek – Naryn – Torugart Pass
+E127,A,North–South,1330,Omsk – Pavlodar – Semey – Georgiyevka – Maikapshagai
+E10,A,West–East,880,Å – Svolvær – Lødingen – Bogen – Narvik – Kiruna – Töre – Luleå
+E20,A,West–East,1880,Shannon – Limerick – Dublin ... Liverpool – Manchester – Leeds – Kingston upon Hull ... Esbjerg – Copenhagen – Malmö – Helsingborg – Halmstad – Gothenburg – Skara – Örebro – Stockholm ... Tallinn – Narva – Saint Petersburg
+E30,A,West–East,6050,Cork – Waterford – Wexford – Rosslare ... Fishguard – Swansea – Bridgend – Cardiff – Newport – Bristol – London – Colchester – Ipswich – Felixstowe ... Hook of Holland – The Hague – Gouda – Utrecht – Amersfoort – Oldenzaal – Osnabrück – Bad Oeynhausen – Hanover – Braunschweig – Magdeburg – Berlin – Świebodzin – Poznań – Warsaw – Brest – Minsk – Smolensk – Moscow – Ryazan – Penza – Samara – Ufa – Chelyabinsk – Kurgan – Ishim – Omsk
+E40,A,West–East,8690,Calais – Bruges – Ghent – Brussels – Leuven – Liège – Eupen – Aachen – Cologne – Olpe – Wetzlar – Gießen – Bad Hersfeld – Eisenach – Erfurt – Gera – Chemnitz – Dresden – Görlitz – Legnica – Wrocław – Opole – Gliwice – Zabrze – Katowice – Kraków – Rzeszów – Jarosław – Korczowa – Lviv – Rivne – Zhytomyr – Kyiv – Kharkiv – Luhansk – Volgograd – Astrakhan – Atyrau – Beyneu – Qo‘ng‘irot – Nukus – Daşoguz – Bukhara – Navoiy – Samarkand – Jizzakh – Tashkent – Shymkent – Zhambyl – Bishkek – Almaty – SaryOzek – Taldykorgan – Ucharal – Taskesken – Ayagoz – Georgiyevka – Oskemen – Ridder
+E50,A,West–East,5100,Brest – Rennes – Le Mans – Paris – Reims – Metz – Saarbrücken – Mannheim – Heilbronn – Nuremberg – Rozvadov – Plzeň – Prague – Jihlava – Brno – Trenčín – Prešov – Košice – Vyšné Nemecké – Uzhhorod – Mukachevo – Stryj – Ternopil – Khmelnytskyi – Vinnytsia – Uman – Kropyvnytskyi – Dnipro – Donetsk – RostovonDon – Armavir – Mineralnye Vody – Makhachkala
+E60,A,West–East,8200,Brest – Lorient – Vannes – Nantes – Angers – Tours – Orléans – Montargis – Auxerre – Beaune – Dole – Besançon – Belfort – Mulhouse – Basel – Zürich – Winterthur – St. Gallen – St. Margrethen – Bregenz – Lauterach – Feldkirch – Landeck – Imst – Telfs – Innsbruck – Wörgl – Rosenheim – Bad Reichenhall – Salzburg – Sattledt – Linz – Sankt Pölten – Vienna – Nickelsdorf – Mosonmagyaróvár – Budapest – Szolnok – Püspökladány – Oradea – ClujNapoca – Turda – Târgu Mureş – Braşov – Ploieşti – Bucharest – Urziceni – Slobozia – Hârşova – Constanţa – Agigea ... Poti – Senaki – Samtredia – Kutaisi – Khashuri – Gori – Tbilisi – Rustavi – Ganja – Yevlakh – Baku ... Türkmenbaşy – Serdar – Ashgabat – Tejen – Mary – Türkmenabat – Alat – Bukhara – Karshi – G‘uzor – Sherobod – Termez – Dushanbe – Jirgatal – Sary Tash – Irkeshtam – China
+E70,A,West–East,4550,A Coruña – Gijón – Bilbao – San Sebastián – Bordeaux – ClermontFerrand – Lyon – Chambéry – Susa – Turin – Alessandria – Tortona – Brescia – Verona – Mestre – Palmanova – Trieste – Postojna – Ljubljana – Zagreb – Slavonski Brod – Belgrade – Pančevo – Vršac – Timișoara – DrobetaTurnu Severin – Craiova – Alexandria – Bucharest – Giurgiu – Ruse – Razgrad – Shumen – Varna ... Samsun – Ordu – Giresun – Trabzon – Batumi – Poti
+E80,A,West–East,5600,Lisbon – Valladolid – Burgos – San Sebastián – Toulouse – Nice – Genoa – Rome – Pescara ... Dubrovnik – Podgorica – Pristina – Niš – Sofia – Plovdiv – Istanbul – İzmit – Gerede – Amasya – Erzurum – Gürbulak – Iran
+E90,A,West–East,4770,Lisbon – Madrid – Barcelona ... Mazara del Vallo – Palermo – Messina ... Reggio Calabria – Metaponto – Taranto – Brindisi ... Igoumenitsa – Ioannina – Kozani – Thessaloniki – Alexandroupoli – Gelibolu ... Lapseki – Bursa – Ankara – Adana – Nusaybin – Khabur River – Iraq
+E1,A,North–South,1460,Larne – Belfast – Newry – Dublin – Wicklow – Rosslare ... A Coruña – Pontevedra – Vigo – Valença – Porto – Lisbon – Albufeira – Castro Marim – Huelva – Seville
+E3,A,North–South,470,CherbourgOcteville – La Rochelle
+E7,A,North–South,250,Pau – Jaca – Zaragoza
+E9,A,North–South,967,Orléans – Toulouse – Barcelona
+E11,A,North–South,540,Vierzon – Montluçon – ClermontFerrand – Montpellier
+E13,A,North–South,230,Leeds – Doncaster – Sheffield – Nottingham – Leicester – Northampton – London
+E17,A,North–South,670,Antwerp – Beaune
+E19,A,North–South,520,Amsterdam – Brussels – Paris
+E21,A,North–South,540,Metz – Geneva
+E23,A,North–South,390,Metz – Lausanne
+E27,A,North–South,350,Belfort – Bern – Martigny – Aosta
+E29,A,North–South,290,Cologne – Sarreguemines – E25 (towards Strasbourg)
+E31,A,North–South,520,
+E33,A,North–South,100,Parma – La Spezia
+E37,A,North–South,290,Bremen – Cologne
+E39,A,North–South,1330,Trondheim – Orkanger – Vinjeøra – Halsa ... Straumsnes – Kristiansund Mainland Connection – Batnfjordsøra – Molde ... Vestnes – Sjøholt – Ålesund ... Volda – Grodås  Nordfjordeid ... Sandane – Førde – Lavik ... Instefjord – Knarvik – Bergen – Osøyro ... Leirvik – Førde – Aksdal – Føresvik ... Vikevåg – Grødem – Stavanger – Sandnes – Ålgård  Helleland – Flekkefjord – Lyngdal – Mandal – Kristiansand ... Hirtshals – Hjørring – Nørresundby – Aalborg
+E41,A,North–South,760,Dortmund – Wetzlar – Aschaffenburg – Würzburg – Stuttgart – Schaffhausen – Winterthur – Zürich – Altdorf
+E43,A,North–South,510,Würzburg – Ulm – Lindau – Bregenz – St. Margrethen – Buchs – Chur – San Bernardino – Bellinzona
+E47,A,North–South,290,Helsingborg ... Helsingør – Copenhagen – Køge – Vordingborg – Farø – Rødby ... Puttgarden – Oldenburg in Holstein – Lübeck
+E49,A,North–South,740,Magdeburg – Halle – Plauen – Schönberg – Vojtanov – Cheb – Karlovy Vary – Plzeň – České Budějovice – Halámky – Vienna
+E51,A,North–South,410,Berlin – Leipzig – Gera – Hirschberg – Hof – Bayreuth – Nuremberg
+E53,A,North–South,270,Plzeň – Bayerisch Eisenstein – Deggendorf – Munich
+E57,A,North–South,380,Sattledt – Liezen – Sankt Michael – Graz – Maribor – Ljubljana
+E59,A,North–South,660,Prague – Jihlava – Vienna – Graz – Spielfeld – Maribor – Zagreb
+E61,A,North–South,240,Villach – Karawanks Tunnel – Naklo – Ljubljana – Trieste – Rijeka
+E63,A,North–South,1110,Sodankylä – Kemijärvi – Posio – Kuusamo – Kajaani – Iisalmi – Kuopio – Jyväskylä – Tampere – Turku
+E67,A,North–South,1630,Helsinki ... Tallinn – Riga – Kaunas – Suwałki – Warsaw – Piotrków Trybunalski – Wrocław – Kłodzko – KudowaZdrój – Náchod – Hradec Králové – Prague; also known as the Via Baltica
+E69,A,North–South,130,Nordkapp (North Cape) – Olderfjord
+E71,A,North–South,970,Košice – Miskolc – Budapest – Balatonvilágos – Nagykanizsa – Zagreb – Karlovac – Knin – Split
+E73,A,North–South,679,Budapest – Szekszárd – Mohács – Osijek – Odžak – Zenica – Sarajevo – Mostar – Metković
+E77,A,North–South,1690,Pskov – Riga – Šiauliai – Tolpaki – Kaliningrad ... Gdańsk – Elbląg – Warsaw – Radom – Kraków – Trstená – Ružomberok – Zvolen – Budapest
+E79,A,North–South,1160,Miskolc – Debrecen – Berettyóújfalu – Oradea – Beiuș – Deva – Petroșani – Târgu Jiu – Craiova – Calafat – Vidin – Vraca – Botevgrad – Sofia – Blagoevgrad – Serres – Thessaloniki
+E81,A,North–South,990,Mukachevo – Halmeu – Satu Mare – Zalău – ClujNapoca – Turda – Sebeș – Sibiu – Pitești – Bucharest – Constanţa
+E83,A,North–South,250,Byala – Pleven – Jablanica – Botevgrad – Sofia
+E87,A,North–South,2030,Odesa – Izmail – Reni – Galaţi – Tulcea – Constanţa – Varna – Burgas – Malko Tarnovo – Dereköy – Kırklareli – Babaeski – Havsa – Keşan – Gelibolu – Ayvalık – İzmir – Selçuk – Aydın – Denizli – Acıpayam – Korkuteli – Antalya
+E89,A,North–South,130,Gerede – Kızılcahamam – Ankara
+E91,A,North–South,170,Toprakkale – İskenderun – Antakya – Yayladağı – Syria
+E97,A,North–South,1150,Kherson – Dzhankoy – Novorossiysk – Sochi – Sokhumi – Zugdidi – Senaki
+E99,A,North–South,750,Şanlıurfa – Diyarbakır – Bitlis – Doğubayazıt – Iğdır – Dilucu – Sadarak
+E4,A,West–East,1590,Helsingborg – Jönköping – Linköping – Norrköping – Nyköping – Södertälje – Stockholm – Uppsala – Sundsvall – Örnsköldsvik – Umeå – Luleå – Haparanda – Tornio
+E6,A,West–East,3120,Trelleborg – Malmö – Helsingborg – Halmstad – Gothenburg – Oslo – Hamar – Lillehammer – Dombås – Trondheim – Stjørdalshalsen – Steinkjer – Mosjøen – Mo i Rana – Rognan – Fauske ... Ballangen – Narvik – Setermoen – Alta – Olderfjord – Lakselv – Karasjok – Varangerbotn – Kirkenes
+E8,A,West–East,1410,Tromsø – Nordkjosbotn – Skibotn – Kilpisjärvi – Kolari – Tornio – Kemi – Oulu – Kokkola – Vaasa – Pori – Turku
+E12,A,West–East,910,Mo i Rana – Umeå ... Vaasa – Tampere – Hämeenlinna – Helsinki
+E14,A,West–East,449,Trondheim – Östersund – Sundsvall
+E16,A,West–East,710,Derry – Belfast ... Glasgow – Edinburgh ... Bergen – Indre Arna – Vossevangen – Lærdalsøyri – Tyin – Fagernes – Hønefoss – Sandvika – Oslo – Gardermoen – Kongsvinger – Torsby – Malung – Borlänge – Falun – Sandviken – Gävle
+E18,A,West–East,1890,Craigavon – Belfast – Larne ... Stranraer – Gretna – Carlisle – Newcastle ... Kristiansand – Arendal – Porsgrunn – Larvik – Sandefjord – Horten – Drammen – Oslo – Askim – Karlstad – Örebro – Västerås – Stockholm/Kapellskär ... Mariehamn ... Turku/Naantali – Helsinki – Kotka – Vaalimaa – Vyborg – Saint Petersburg
+E22,A,West–East,5320,Holyhead – Chester – Warrington – Manchester – Leeds – Doncaster – Immingham ... Amsterdam – Groningen – Bremen – Hamburg – Lübeck – Rostock – Sassnitz ... Trelleborg – Malmö – Kalmar – Norrköping ... Ventspils – Riga – Rēzekne – Velikiye Luki – Moscow – Vladimir – Nizhny Novgorod – Cheboksary – Kazan – Yelabuga – Perm – (Asia) – Yekaterinburg – Tyumen – Ishim
+E24,A,West–East,230,Birmingham – Cambridge – Ipswich
+E26,A,West–East,280,Hamburg – Berlin
+E28,A,West–East,1230,Berlin – Szczecin – Goleniów – Koszalin – Słupsk – Gdynia – Gdańsk – Kaliningrad – Tolpaki – Nesterov – Marijampolė – Vilnius – Minsk
+E32,A,West–East,30,Colchester – Harwich
+E34,A,West–East,470,Zeebrugge – Antwerp – Eindhoven – Venlo – Oberhausen – Dortmund – Bad Oeynhausen
+E36,A,West–East,220,Berlin – Lübbenau – Cottbus – Legnica
+E38,A,West–East,3400,Hlukhiv – Kursk – Voronezh – Saratov – Oral – Aktobe – Karabulak – Aral – Novokazalinsk – Kyzylorda – Shymkent
+,A,West–East,620,Dunkirk – Lille – Mons – Charleroi – Namur – Liège – St. Vith – Wittlich – Bingen – Wiesbaden – Frankfurt am Main – Aschaffenburg
+,A,West–East,780,Le Havre – Amiens – CharlevilleMézières – Luxembourg – Trier – Koblenz – Wetzlar – Gießen
+,A,West–East,720,CherbourgOcteville – Caen – Rouen – Reims – CharlevilleMézières – Liège
+,A,West–East,350,Schweinfurt – Bayreuth – Marktredwitz – Cheb – Karlovy Vary – Prague
+,A,West–East,520,Strasbourg – Appenweier – Karlsruhe – Stuttgart – Ulm – Munich – Salzburg
+,A,West–East,860,Paris – Chaumont – Mulhouse – Basel – Waldshut – Lindau – Munich
+,A,West–East,310,Nuremberg – Regensburg – Passau – Wels – Sattledt
+,A,West–East,2200,Vienna – Bratislava – Zvolen – Košice – Uzhhorod – Mukachevo – Halmeu – Suceava – Iași – Sculeni – Chişinău – Odesa – Mykolaiv – Kherson – Melitopol – Taganrog – RostovonDon
+,A,West–East,1290,Nantes – Poitiers – Mâcon – Geneva – Lausanne – Martigny – Sion – Simplon – Gravellona Toce – Milan – Tortona – Genoa
+,A,West–East,240,Turin – Milan – Brescia
+,A,West–East,650,Fortezza – Innichen – Spittal an der Drau – Villach – Klagenfurt – Graz – Veszprém – Székesfehérvár
+,A,West–East,510,Szeged – Arad – Deva – Sibiu – Braşov
+,A,West–East,250,Bordeaux – Toulouse
+,A,West–East,240,Nice – Cuneo – Asti – Alessandria
+,A,West–East,80,Pisa – Migliarino – Florence
+,A,West–East,270,Grosseto – Arezzo – Sansepolcro – Fano
+,A,West–East,380,Porto – Vila Real – Bragança – Zamora – Tordesillas
+,A,West–East,150,Keşan – Tekirdağ – Silivri
+,A,West–East,200,Krystallopigi – Florina – Vévi – Géfira
+,A,West–East,640,Ankara – Yozgat – Sivas – Refahiye
+,A,West–East,320),Igoumenitsa – Ioannina – Trikala – Larissa – Volos
+,A,West–East,110,Corinth – Megara – Attiki Odos (Elefsina – Athens Suburbs – Markopoulo Mesogeas).
+,A,West–East,440,İzmir – Usak – Afyonkarahisar – Sivrihisar
+,A,West–East,60,Topboğazi – Kırıkhan – Reyhanlı – Cilvegözü → Syria
+,B,,460,Haugesund – Røldal – Haukeli – Seljord – Kongsberg – Drammen – Drøbak  Vassum
+,B,,176,Ålesund – Tresfjord – Åndalsnes – Dombås
+,B,,170,Cork – Portlaoise
+,B,,40,Amsterdam – Amersfoort
+,B,,172,Amersfoort – Hoogeveen – Groningen
+,B,,132,Hoogeveen – Haselünne – Cloppenburg
+,B,,162,Cuxhaven – Bremerhaven – Bremen – Walsrode
+,B,,281,Sassnitz – Stralsund – Neubrandenburg – Berlin
+,B,,350,Świecie – Poznań – Wrocław
+,B,,417,Kaunas – Ukmergė – Daugavpils – Rēzekne – Ostrov
+,B,,280,Tallinn – Tartu – Võru – Luhamaa
+,B,,340,Jõhvi – Tartu – Valga – Valka – Valmiera – Incukalns
+,B,,60,Tallinn – Keila – Paldiski ... Kapellskär
+,B,,296,Minsk – Babruysk – Gomel (formerly began Klaipėda – Kaunas – Vilnius)
+,B,,380,Klaipėda – Palanga – Šiauliai – Panevėžys – Ukmergė – Vilnius
+,B,,67,Breda – Gorinchem – Utrecht
+,B,,160,Flushing – Breda – Eindhoven
+,B,,112,Antwerp – Liège
+,B,,125,Leuven – Hasselt – Heerlen – Aachen
+,B,,150,Dortmund – Kassel
+,B,,358,Radom – Rzeszów – Barwinek – Vyšný Komárnik – Svidník – Prešov
+,B,,367,Warsaw – Lublin – Lviv
+,B,,590,Lublin – Kovel – Rivne – Kyiv
+,B,,160,Trosna – Hlukhiv
+,B,,200,SaintBrieuc – Caen
+,B,,425,Calais – Rouen – Le Mans
+,B,,96,Zeebrugge – Bruges – Roeselare – Kortrijk – Tournai
+,B,,0,Jabbeke – Zeebrugge (road never built)
+,B,,270,Brussels – Metz
+,B,,187,Nivelles – Charleroi – Reims
+,B,,153,Eynatten – Eupen – St. Vith – Luxembourg
+,B,,82,Trier – Saarbrücken
+,B,,65,Tournai – Halle
+,B,,110,Chemnitz – Plauen – Hof (E51)
+,B,,568,Karlovy Vary – Teplice – Turnov – Hradec Králové – Olomouc – Žilina
+,B,,125,Gießen – Frankfurt am Main – Mannheim
+,B,,190,Svitavy – Brno – Vienna
+,B,,310,Brno – Olomouc – Český Těšín – Katowice – Kraków
+,B,,210,Mukachevo – Lviv
+,B,,90,Le Mans – Angers
+,B,,90,Le Mans – Tours
+,B,,100,Courtenay – Troyes
+,B,,80,Remiremont – Mulhouse
+,B,,95,Offenburg – Donaueschingen
+,B,,70,Memmingen – Füssen
+,B,,125,Munich – GarmischPartenkirchen – Mittenwald – Seefeld – Innsbruck
+,B,,110,České Budějovice – Humpolec
+,B,,230,Munich – Braunau am Inn – Wels – Linz
+,B,,403,Bratislava – Zvolen – Košice
+,B,,101,Trenčín – Žiar nad Hronom
+,B,,193,Püspökladány – Nyíregyháza – Chop – Uzhhorod
+,B,,416,Bacău – Brașov – Pitești – Craiova
+,B,,95,Bratislava – Dunajská Streda – Medveďov – Vámosszabadi – Győr
+,B,,58,ClujNapoca – Dej (formerly continued Bistriţa – Suceava)
+,B,,75,Ploieşti – Buzău
+,B,,228,Sărățel – Reghin – Toplița – Gheorgheni – MiercureaCiuc – Sfântu Gheorghe – Chichiș
+,B,,100,Görbeháza – Nyíregyháza – Vásárosnamény – Beregdaróc
+,B,,441,Tișița – Tecuci – Albița – Leușeni – Chișinău – Odesa
+,B,,628,Săbăoani – Iași – Bălți – MohylivPodilskyi – Vinnytsia – Zhytomyr
+,B,,938,Poltava – Kropyvnytskyi – Chişinău – Giurgiuleşti – Galaţi – Slobozia
+,B,,415,Novorossiysk – junction  south of RostovonDon[a]
+,B,,113,Krasnodar – Dzhubga
+,B,,61,Niort – La Rochelle
+,B,,195,La Rochelle – Saintes
+,B,,172,Saintes – Angoulême – Limoges (formerly to Sculeni)
+,B,,128,Tours – Vierzon
+,B,,120,Angoulême – Bordeaux
+,B,,88,Digoin – ChalonsurSaône
+,B,,58,Lyon – Pontd'Ain
+,B,,54,Ivrea – Turin
+,B,,106,Wörgl – St. Johann in Tirol – Lofer – Salzburg
+,B,,73,Altenmarkt im Pongau – Liezen
+,B,,52,Klagenfurt – Loiblpass – Naklo
+,B,,107,Letenye – Tornyiszentmiklós
+,B,,447,Balatonkeresztúr – Nagyatád – Barcs – Virovitica – Okučani – Banja Luka – Jajce – Donji Vakuf – Zenica
+,B,,121,Subotica – Sombor – Osijek
+,B,,322,Timișoara – Arad – Oradea – Satu Mare
+,B,,103,Lugoj – Ilia
+,B,,59,Agigea – Negru Vodă – Kardam
+,B,,460,Ashtarak – Gyumri – Ashotsk – Akhalkalaki – Akhaltsikhe – Vale Georgia – Türkgözü – Posof – Kars – Horasan
+,B,,113,Supsa – Lanchkhuti – Samtredia
+,B,,111,Lyon – Grenoble
+,B,,452,Geneva – Chambéry – Marseille
+,B,,92,Valence – Grenoble
+,B,,117,Orange – Marseille
+,B,,141,Turin – Savona
+,B,,160,Rijeka – Pula – Koper
+,B,,742,Bihać – Jajce – Donji Vakuf – Zenica – Sarajevo – Užice – Čačak – Kraljevo – Kruševac – Pojate – Paraćin – Zaječar
+,B,,328,Sarajevo – Podgorica → Albania
+,B,,348,Belgrade – Čačak – Nova Varoš – Bijelo Polje
+,B,,225,DrobetaTurnu Severin – Niš
+,B,,258,Yablanitsa – Veliko Tarnovo – Shumen
+,B,,273,Popovica – Stara Zagora – Burgas
+,B,,262,Coimbra – Viseu – Vila Real – Chaves – Verín
+,B,,599,Bragança – Guarda – Castelo Branco – Portalegre – Évora – Beja – Ourique
+,B,,463,Salamanca – Mérida – Seville
+,B,,292,Bilbao – Logroño – Zaragoza
+,B,,124,Vila Nova de Famalicão – Chaves
+,B,,209,Torres Novas – Abrantes – Castelo Branco – Guarda
+,B,,36,Rome – San Cesareo
+,B,,105,Sassari – Olbia ... Civitavecchia – ends at E80
+,B,,38,Avellino – Salerno
+,B,,257,Naples – Avellino – Benevento – Canosa di Puglia
+,B,,96,Bari – Taranto
+,B,,24,Spezzano Albanese – Sybaris
+,B,,112,Cosenza – Crotone
+,B,,159,Sicignano degli Alburni – Potenza – Metaponto
+,B,,38,Sant'Eufemia Lamezia – Catanzaro
+,B,,323,Petrovac → Albania → Prizren – Pristina
+,B,,29,Ohrid → Albania
+,B,,61,Ioannina → Albania
+,B,,194,Sofia – Kyustendil – Kumanovo
+,B,,550,İzmit – Bursa – Balıkesir – Manisa – İzmir – Çeşme
+,B,,352,Madrid – Valencia
+,B,,280,Jaén – Granada – Málaga
+,B,,672,Mérida – Ciudad Real – Albacete – Alicante[citation needed]
+,B,,187,Mazara del Vallo – Gela
+,B,,161,Buonfornello – Enna – Catania
+,B,,50,Alcamo – Trapani
+,B,,193,Ioannina – Arta – Agrinio – Missolonghi
+,B,,247,Aktio – Vonitsa – Amfilochia – Karpenisi – Lamia
+,B,,101,Tripoli – Sparti – Gytheio
+,B,,51,Eleusina – Thebes
+,B,,403,Afyon – Konya – Junction (AksarayPozantı) (on the State road linking Ankara and Mersin on E90)
+,B,,66,Mersin – Junction Tarsus East (on the motorway linking Ankara and Adana on E90)
+,B,,117,Tbilisi – Marneuli – Sadakhlo – Bagratashen – Vanadzor
+,B,,481,Alyat – Saatly Rayon – Megri – Ordubad – Julfa – Nakhchivan – Sadarak
+,B,,1120,Uchkuduk – Daşoguz – Ashgabat – Gaudan
+,B,,700,Kyzylorda – Uchkuduk – Bukhara (NB
+,B,,154,G‘uzor – Samarkand
+,B,,298,Ayni – Kokand
+,B,,590,Tashkent – Kokand – Andijan – Osh – Irkeshtam
+,B,,970,Dushanbe – Kulob – Kalaikhumb – Khorugh – Murghab – Kulma Pass – border of China (see Pamir Highway)
+,B,,666,Jirgatal – Khorugh – Ishkoshim – Lyanga – China
+,B,,650,Osh – Bishkek
+,B,,179,Kokpek – Kegen – Tyup
+,B,,360,Almaty – Kokpek – Chundzha – Koktal – Khorgas
+,B,,180,SaryOzek – Koktal
+,B,,182,Usharal – Druzhba
+,B,,193,Taskesken – Bakhty
+,B,,495,Zapadnoe – Zhaksy – Atbasar – Astana
+,B,,320,Yelabuga – Ufa
+,B,,1071,Jezkazgan – Karaganda – Pavlodar – Uspenovka
+E019,B,,289,Petropavl – Zapadnoe

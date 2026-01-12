@@ -2123,4 +2123,28 @@
             "lon"
         ]
     },
+    "Namibia Roads": {
+        "filename": "namibia_roads.csv",
+        "sources": [],
+        "updated": "2026-01-12T00.00.00",
+        "fields": [
+            "Name",
+            "Type",
+            "From",
+            "To",
+            "Lenght [km]"
+        ]
+    },
+    "European Road Network": {
+        "filename": "european_road_network.csv",
+        "sources": [],
+        "updated": "2026-01-12T00.00.00",
+        "fields": [
+            "Road",
+            "Class",
+            "Orientation",
+            "Length [km]",
+            "Path"
+        ]
+    }
 }
