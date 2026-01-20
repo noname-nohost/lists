@@ -2146,5 +2146,76 @@
             "Length [km]",
             "Path"
         ]
-    }
+    },
+    "Nato Countries": {
+        "filename": "nato_countries.csv",
+        "sources": [],
+        "updated": "2026-01-12T00.00.00",
+        "fields": [
+            "Country",
+            "Year Joined"
+        ]
+    },
+    "Africa Cup of Nations.csv": {
+        "filename": "africa_cup_of_nations.csv",
+        "sources": [],
+        "updated": "2026-01-20T00.00.00",
+        "fields": [
+            "Edition",
+            "Year",
+            "Hosts",
+            "Start",
+            "End",
+            "Teams #",
+            "Teams",
+            "First place",
+            "Second Place",
+            "Third Place",
+            "Fourth Place",
+            "Notes"
+        ]
+    },
+    "Africa Cup of Nations Venues.csv": {
+        "filename": "africa_cup_of_nations_venues.csv",
+        "sources": [],
+        "updated": "2026-01-20T00.00.00",
+        "fields": [
+            "Year",
+            "Country",
+            "City",
+            "Stadium",
+            "Capacity"
+        ]
+    },
+    "UEFA Euro.csv": {
+        "filename": "uefa_euro.csv",
+        "sources": [],
+        "updated": "2026-01-20T00.00.00",
+        "fields": [
+            "Edition",
+            "Year",
+            "Hosts",
+            "Start",
+            "End",
+            "Teams #",
+            "Teams",
+            "First place",
+            "Second Place",
+            "Third Place",
+            "Fourth Place",
+            "Notes"
+        ]
+    },
+    "UEFA Euro Venues.csv": {
+        "filename": "uefa_euro_venues.csv",
+        "sources": [],
+        "updated": "2026-01-20T00.00.00",
+        "fields": [
+            "Year",
+            "Country",
+            "City",
+            "Stadium",
+            "Capacity"
+        ]
+    },
 }
