@@ -2149,11 +2149,23 @@
     },
     "Nato Countries": {
         "filename": "nato_countries.csv",
-        "sources": [],
+        "sources": ["nato.int"],
         "updated": "2026-01-12T00.00.00",
         "fields": [
             "Country",
             "Year Joined"
+        ]
+    },
+    "OECD Countries": {
+        "filename": "oecd_countries.csv",
+        "sources": ["oecd.org"],
+        "updated": "2026-01-20T00.00.00",
+        "fields": [
+            "Country",
+            "Since Date",
+            "Application Date",
+            "Negotiations Date",
+            "Invitation Date"
         ]
     },
     "Africa Cup of Nations.csv": {
@@ -2217,5 +2229,5 @@
             "Stadium",
             "Capacity"
         ]
-    },
+    }
 }
