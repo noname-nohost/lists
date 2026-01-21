@@ -2168,7 +2168,7 @@
             "Invitation Date"
         ]
     },
-    "Africa Cup of Nations.csv": {
+    "Africa Cup of Nations": {
         "filename": "africa_cup_of_nations.csv",
         "sources": [],
         "updated": "2026-01-20T00.00.00",
@@ -2187,7 +2187,7 @@
             "Notes"
         ]
     },
-    "Africa Cup of Nations Venues.csv": {
+    "Africa Cup of Nations Venues": {
         "filename": "africa_cup_of_nations_venues.csv",
         "sources": [],
         "updated": "2026-01-20T00.00.00",
@@ -2199,7 +2199,7 @@
             "Capacity"
         ]
     },
-    "UEFA Euro.csv": {
+    "UEFA Euro": {
         "filename": "uefa_euro.csv",
         "sources": [],
         "updated": "2026-01-20T00.00.00",
@@ -2218,7 +2218,7 @@
             "Notes"
         ]
     },
-    "UEFA Euro Venues.csv": {
+    "UEFA Euro Venues": {
         "filename": "uefa_euro_venues.csv",
         "sources": [],
         "updated": "2026-01-20T00.00.00",
@@ -2228,6 +2228,40 @@
             "City",
             "Stadium",
             "Capacity"
+        ]
+    },
+    "Nuclear Power Reactors": {
+        "filename": "nuclear_power_reactors.csv",
+        "sources": ["www.miteco.gob.es", "world-nuclear.org"],
+        "updated": "2026-01-21T00.00.00",
+        "fields": [
+            "Reactor",
+            "Country",
+            "Address",
+            "Operator",
+            "Holders",
+            "Power [MW]",
+            "Type",
+            "Model",
+            "Start Year",
+            "Lat",
+            "Long"
+        ]
+    },
+    "Military Bases": {
+        "filename": "military_bases.csv",
+        "sources": [],
+        "updated": "2026-01-21T00.00.00",
+        "fields": [
+            "Name",
+            "Owner Country",
+            "Location Country",
+            "State",
+            "Address",
+            "Year Opened",
+            "Lat",
+            "Lng",
+            "Type"
         ]
     }
 }
