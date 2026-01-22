@@ -843,7 +843,11 @@
             "Height [m]",
             "Height [ft]",
             "Range",
-            "Countries"
+            "Countries",
+            "Region",
+            "Latitude",
+            "Longitude",
+            "Notes"
         ]
     },
     "Iraq Governorates": {
