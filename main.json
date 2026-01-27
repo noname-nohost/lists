@@ -2307,5 +2307,17 @@
             "Red Cards (T1/T2)",
             "Stadium"
         ]
+    },
+    "European Men Handball Championship Venues": {
+        "filename": "european_men_handball_championship_venues.csv",
+        "sources": ["ehfeuro.eurohandball.com"],
+        "updated": "2026-01-20T00.00.00",
+        "fields": [
+            "Year",
+            "Country",
+            "City",
+            "Stadium",
+            "Capacity"
+        ]
     }
 }
