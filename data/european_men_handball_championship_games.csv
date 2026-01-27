@@ -1,0 +1,60 @@
+ID, Edition Year, Date, Phase, Team 1, Team 2, Score, Score at Interval, Shots (T1/T2), Penalty Shots (T1/T2), Yellow Cards (T1/T2), 2-Min (T1/T2), Red Cards (T1/T2), Stadium
+1, 2024, 10/01/2024, Group A, France, North Macedonia, 39–29, N/A, N/A, N/A, N/A, N/A, N/A, Merkur Spiel-Arena, Düsseldorf
+2, 2024, 10/01/2024, Group A, Germany, Switzerland, 27–14, N/A, N/A, N/A, N/A, N/A, N/A, Merkur Spiel-Arena, Düsseldorf
+3, 2024, 11/01/2024, Group D, Slovenia, Faroe Islands, 32–29, N/A, N/A, N/A, N/A, N/A, N/A, Mercedes-Benz-Arena, Berlin
+4, 2024, 11/01/2024, Group D, Norway, Poland, 32–21, N/A, N/A, N/A, N/A, N/A, N/A, Mercedes-Benz-Arena, Berlin
+5, 2024, 11/01/2024, Group E, Netherlands, Georgia, 34–29, N/A, N/A, N/A, N/A, N/A, N/A, SAP Arena, Mannheim
+6, 2024, 11/01/2024, Group E, Sweden, Bosnia & Herzegovina, 29–20, N/A, N/A, N/A, N/A, N/A, N/A, SAP Arena, Mannheim
+7, 2024, 11/01/2024, Group F, Portugal, Greece, 31–24, N/A, N/A, N/A, N/A, N/A, N/A, Olympiahalle, München
+8, 2024, 11/01/2024, Group F, Denmark, Czech Republic, 23–14, N/A, N/A, N/A, N/A, N/A, N/A, Olympiahalle, München
+9, 2024, 12/01/2024, Group B, Austria, Romania, 31–24, N/A, N/A, N/A, N/A, N/A, N/A, SAP Arena, Mannheim
+10, 2024, 12/01/2024, Group B, Spain, Croatia, 29–39, N/A, N/A, N/A, N/A, N/A, N/A, SAP Arena, Mannheim
+11, 2024, 12/01/2024, Group C, Iceland, Serbia, 27–27, N/A, N/A, N/A, N/A, N/A, N/A, Olympiahalle, München
+12, 2024, 12/01/2024, Group C, Hungary, Montenegro, 26–24, N/A, N/A, N/A, N/A, N/A, N/A, Olympiahalle, München
+13, 2024, 14/01/2024, Group A, Switzerland, France, 26–26, N/A, N/A, N/A, N/A, N/A, N/A, Mercedes-Benz-Arena, Berlin
+14, 2024, 14/01/2024, Group A, North Macedonia, Germany, 25–34, N/A, N/A, N/A, N/A, N/A, N/A, Mercedes-Benz-Arena, Berlin
+15, 2024, 14/01/2024, Group B, Romania, Spain, 24–36, N/A, N/A, N/A, N/A, N/A, N/A, SAP Arena, Mannheim
+16, 2024, 14/01/2024, Group B, Croatia, Austria, 28–28, N/A, N/A, N/A, N/A, N/A, N/A, SAP Arena, Mannheim
+17, 2024, 14/01/2024, Group C, Montenegro, Iceland, 30–31, N/A, N/A, N/A, N/A, N/A, N/A, Olympiahalle, München
+18, 2024, 14/01/2024, Group C, Serbia, Hungary, 27–28, N/A, N/A, N/A, N/A, N/A, N/A, Olympiahalle, München
+61, 2024, 26/01/2024, 5th Place Match, Hungary, Slovenia, 23–22, N/A, N/A, N/A, N/A, N/A, N/A, Lanxess Arena, Köln
+62, 2024, 26/01/2024, Semifinal, France, Sweden, 34–30 (a.e.t.), N/A, N/A, N/A, N/A, N/A, N/A, Lanxess Arena, Köln
+63, 2024, 26/01/2024, Semifinal, Germany, Denmark, 26–29, N/A, N/A, N/A, N/A, N/A, N/A, Lanxess Arena, Köln
+64, 2024, 28/01/2024, 3rd Place, Sweden, Germany, 34–31, N/A, N/A, N/A, N/A, N/A, N/A, Lanxess Arena, Köln
+65, 2024, 28/01/2024, Final, France, Denmark, 33–31 (a.e.t.), N/A, N/A, N/A, N/A, N/A, N/A, Lanxess Arena, Köln
+1, 2026, 15/01/2026, Group A, Spain, Serbia, 29–27, N/A, N/A, N/A, N/A, N/A, N/A, Herning (Jyske Bank Boxen)
+2, 2026, 15/01/2026, Group C, France, Czechia, 42–28, N/A, N/A, N/A, N/A, N/A, N/A, Oslo/Bærum (Unity Arena)
+3, 2026, 15/01/2026, Group A, Germany, Austria, 30–27, N/A, N/A, N/A, N/A, N/A, N/A, Herning (Jyske Bank Boxen)
+4, 2026, 15/01/2026, Group C, Norway, Ukraine, 39–22, N/A, N/A, N/A, N/A, N/A, N/A, Oslo/Bærum (Unity Arena)
+5, 2026, 16/01/2026, Group B, Portugal, Romania, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Herning (Jyske Bank Boxen)
+6, 2026, 16/01/2026, Group D, Slovenia, Montenegro, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Oslo/Bærum (Unity Arena)
+7, 2026, 16/01/2026, Group F, Iceland, Italy, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Kristianstad (Kristianstad Arena)
+8, 2026, 16/01/2026, Group B, Denmark, North Macedonia, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Herning (Jyske Bank Boxen)
+9, 2026, 16/01/2026, Group D, Faroe Islands, Switzerland, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Oslo/Bærum (Unity Arena)
+10, 2026, 16/01/2026, Group F, Hungary, Poland, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Kristianstad (Kristianstad Arena)
+11, 2026, 17/01/2026, Group E, Croatia, Georgia, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Malmö (Malmö Arena)
+12, 2026, 17/01/2026, Group E, Sweden, Netherlands, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Malmö (Malmö Arena)
+13, 2026, 17/01/2026, Group A, Austria, Spain, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Herning (Jyske Bank Boxen)
+14, 2026, 17/01/2026, Group C, Ukraine, France, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Oslo/Bærum (Unity Arena)
+15, 2026, 17/01/2026, Group A, Serbia, Germany, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Herning (Jyske Bank Boxen)
+16, 2026, 17/01/2026, Group C, Czechia, Norway, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Oslo/Bærum (Unity Arena)
+17, 2026, 18/01/2026, Group B, North Macedonia, Portugal, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Herning (Jyske Bank Boxen)
+18, 2026, 18/01/2026, Group D, Montenegro, Faroe Islands, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Oslo/Bærum (Unity Arena)
+19, 2026, 18/01/2026, Group D, Switzerland, Slovenia, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Oslo/Bærum (Unity Arena)
+20, 2026, 18/01/2026, Group F, Poland, Island, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Kristianstad (Kristianstad Arena)
+21, 2026, 18/01/2026, Group B, Romania, Denmark, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Herning (Jyske Bank Boxen)
+22, 2026, 18/01/2026, Group F, Italy, Hungary, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Kristianstad (Kristianstad Arena)
+23, 2026, 19/01/2026, Group E, Netherlands, Croatia, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Malmö (Malmö Arena)
+24, 2026, 19/01/2026, Group E, Georgia, Sweden, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Malmö (Malmö Arena)
+25, 2026, 19/01/2026, Group A, Austria, Serbia, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Herning (Jyske Bank Boxen)
+26, 2026, 19/01/2026, Group C, Tschechien, Ukraine, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Oslo/Bærum (Unity Arena)
+27, 2026, 19/01/2026, Group A, Spain, Germany, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Herning (Jyske Bank Boxen)
+28, 2026, 19/01/2026, Group C, France, Norway, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Oslo/Bærum (Unity Arena)
+29, 2026, 20/01/2026, Group B, North Macedonia, Romania, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Herning (Jyske Bank Boxen)
+30, 2026, 20/01/2026, Group D, Montenegro, Switzerland, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Oslo/Bærum (Unity Arena)
+31, 2026, 20/01/2026, Group F, Poland, Italy, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Kristianstad (Kristianstad Arena)
+32, 2026, 20/01/2026, Group B, Denmark, Portugal, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Herning (Jyske Bank Boxen)
+33, 2026, 20/01/2026, Group D, Faroe Islands, Slovenia, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Oslo/Bærum (Unity Arena)
+34, 2026, 20/01/2026, Group F, Hungary, Island, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Kristianstad (Kristianstad Arena)
+35, 2026, 21/01/2026, Group E, Netherlands, Georgia, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Malmö (Malmö Arena)
+36, 2026, 21/01/2026, Group E, Sweden, Croatia, N/A, N/A, N/A, N/A, N/A, N/A, N/A, Malmö (Malmö Arena)

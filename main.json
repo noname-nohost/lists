@@ -2267,5 +2267,45 @@
             "Lng",
             "Type"
         ]
+    },
+    "European Men Handball Championship": {
+        "filename": "european_men_handball_championship.csv",
+        "sources": ["ehfeuro.eurohandball.com"],
+        "updated": "2026-01-20T00.00.00",
+        "fields": [
+            "Edition",
+            "Year",
+            "Hosts",
+            "Start",
+            "End",
+            "Teams #",
+            "Teams",
+            "First place",
+            "Second Place",
+            "Third Place",
+            "Fourth Place",
+            "Notes"
+        ]
+    },
+    "European Men Handball Championship Games": {
+        "filename": "european_men_handball_championship_games.csv",
+        "sources": ["ehfeuro.eurohandball.com"],
+        "updated": "2026-01-20T00.00.00",
+        "fields": [
+            "ID",
+            "Edition Year",
+            "Date",
+            "Phase",
+            "Team 1",
+            "Team 2",
+            "Score",
+            "Score at Interval",
+            "Shots (T1/T2)",
+            "Penalty Shots (T1/T2)",
+            "Yellow Cards (T1/T2)",
+            "2-Min (T1/T2)",
+            "Red Cards (T1/T2)",
+            "Stadium"
+        ]
     }
 }
