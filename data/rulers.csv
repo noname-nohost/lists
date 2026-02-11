@@ -1,0 +1,476 @@
+Name, Region, Title, Term start, Term end, Party, Assembly, Vice(s)
+Leopold III, Austrian Empire, Margrave of Austria, 1095, 1136, , , 
+Henry II Jasomirgott, Austrian Empire, Duke of Austria, 1156, 1177, , , 
+Leopold V, Austrian Empire, Duke of Austria, 1177, 1194, , , 
+Frederick II the Quarrelsome, Austrian Empire, Duke of Austria, 1230, 1246, , , 
+Rudolf I, Austrian Empire, Duke of Austria, 1278, 1282, , , 
+Albert II, Austrian Empire, Archduke of Austria, 1404, 1439, , , 
+Frederick III, Austrian Empire, Archduke of Austria, 1457, 1493, , , 
+Maximilian I, Austrian Empire, Archduke of Austria, 1493, 1519, , , 
+Francis I, Austrian Empire, Emperor of Austria, 1804, 1835, , Imperial Council, 
+Ferdinand I, Austrian Empire, Emperor of Austria, 1835, 1848, , Imperial Council, 
+Franz Joseph I, Austrian Empire, Emperor of Austria, 1848, 1867, , Imperial Council, 
+Franz Joseph I, Austria-Hungary Empire, Emperor of Austria, 1867, 1916, , Reichsrat, 
+Charles I, Austria-Hungary Empire, Emperor of Austria, 1916, 1918, , Reichsrat, 
+Karl Seitz, Autria, President (Provisional), 1919, 1920, SDAPÖ, Constituent Assembly, 
+Michael Hainisch, Autria, Federal President, 1920, 1928, Independent, Federal Assembly, 
+Wilhelm Miklas, Autria, Federal President, 1928, 1938, Christian Social Party, Federal Assembly, 
+Karl Renner, Autria, Federal President, 1945, 1950, SPÖ, Federal Assembly, 
+Theodor Körner, Autria, Federal President, 1951, 1957, SPÖ, Federal Assembly, 
+Adolf Schärf, Autria, Federal President, 1957, 1965, SPÖ, Federal Assembly, 
+Franz Jonas, Autria, Federal President, 1965, 1974, SPÖ, Federal Assembly, 
+Rudolf Kirchschläger, Autria, Federal President, 1974, 1986, Independent, Federal Assembly, 
+Kurt Waldheim, Autria, Federal President, 1986, 1992, Independent, Federal Assembly, 
+Thomas Klestil, Autria, Federal President, 1992, 2004, ÖVP, Federal Assembly, 
+Heinz Fischer, Autria, Federal President, 2004, 2016, SPÖ, Federal Assembly, 
+Alexander Van der Bellen, Autria, Federal President, 2017, Incumbent, Independent (Greens-backed), Federal Assembly, 
+Muhammad Naguib, Republic of Egypt, President, 1953-06-18, 1954-11-14, Military, , 
+Gamal Abdel Nasser, Republic of Egypt, President, 1954-11-14, 1956-06-23, Arab Socialist Union, , Zakaria Mohieddin
+Gamal Abdel Nasser, Republic of Egypt, President, 1956-06-23, 1958-02-22, , , 
+Gamal Abdel Nasser, United Arab Republic, President, 1958-02-22, 1965-03-15, , , 
+Gamal Abdel Nasser, United Arab Republic, President, 1965-03-15, 1970-09-28, , , 
+Anwar Sadat, United Arab Republic, President, 1970-09-28, 1970-10-15, , , 
+Anwar Sadat, United Arab Republic, President, 1970-10-15, 1971-09-11, National Democratic Party, , Hosni Mubarak
+Anwar Sadat, Arab Republic of Egypt, President, 1971-09-11, 1981-10-06, , , 
+Sufi Abu Taleb, Arab Republic of Egypt, President, 1981-10-06, 1981-10-14, , , 
+Hosni Mubarak, Arab Republic of Egypt, President, 1981-10-14, 2011-02-11, National Democratic Party, , Omar Suleiman
+Muhammad Hussein Tantawy, Arab Republic of Egypt, President, 2011-02-11, 2012-06-30, , , 
+Mohamed Morsi, Arab Republic of Egypt, President, 2012-06-30, 2013-07-03, Freedom and Justice Party, , Mahmoud Mekki
+Adly Mansour, Arab Republic of Egypt, President, 2013-07-03, 2014-06-08, Independent, , 
+Abdel Fattah el-Sisi, Arab Republic of Egypt, President, 2014-06-08, Incumbent, Independent, , —
+Jimmu, Japan, Emperor, 660 BCE, 585 BCE, —, —, —
+Suizei, Japan, Emperor, 581 BCE, 549 BCE, —, —, —
+Annei, Japan, Emperor, 549 BCE, 511 BCE, —, —, —
+Itoku, Japan, Emperor, 510 BCE, 477 BCE, —, —, —
+Kōshō, Japan, Emperor, 475 BCE, 393 BCE, —, —, —
+Kōan, Japan, Emperor, 392 BCE, 291 BCE, —, —, —
+Kōrei, Japan, Emperor, 290 BCE, 215 BCE, —, —, —
+Kōgen, Japan, Emperor, 214 BCE, 158 BCE, —, —, —
+Kaika, Japan, Emperor, 157 BCE, 98 BCE, —, —, —
+Sujin, Japan, Emperor, 97 BCE, 30 BCE, —, —, —
+Suinin, Japan, Emperor, 29 BCE, 70 CE, —, —, —
+Keikō, Japan, Emperor, 71, 130, —, —, —
+Seimu, Japan, Emperor, 131, 190, —, —, —
+Chūai, Japan, Emperor, 192, 200, —, —, —
+Ōjin, Japan, Emperor, 270, 310, —, —, —
+Nintoku, Japan, Emperor, 313, 399, —, —, —
+Richū, Japan, Emperor, 400, 405, —, —, —
+Hanzei, Japan, Emperor, 406, 410, —, —, —
+Ingyō, Japan, Emperor, 412, 453, —, —, —
+Ankō, Japan, Emperor, 453, 456, —, —, —
+Yūryaku, Japan, Emperor, 456, 479, —, —, —
+Seinei, Japan, Emperor, 480, 484, —, —, —
+Kenzō, Japan, Emperor, 485, 487, —, —, —
+Ninken, Japan, Emperor, 488, 498, —, —, —
+Buretsu, Japan, Emperor, 498, 507, —, —, —
+Keitai, Japan, Emperor, 507, 531, —, —, —
+Ankan, Japan, Emperor, 531, 536, —, —, —
+Senka, Japan, Emperor, 536, 539, —, —, —
+Kinmei, Japan, Emperor, 539, 571, —, —, —
+Bidatsu, Japan, Emperor, 572, 585, —, —, —
+Yōmei, Japan, Emperor, 585, 587, —, —, —
+Sushun, Japan, Emperor, 587, 592, —, —, —
+Suiko, Japan, Emperor, 592, 628, —, —, —
+Jomei, Japan, Emperor, 629, 641, —, —, —
+Kōgyoku / Saimei, Japan, Emperor, 642, 661, —, —, —
+Tenji, Japan, Emperor, 661, 672, —, —, —
+Kōbun, Japan, Emperor, 672, 672, —, —, —
+Tenmu, Japan, Emperor, 673, 686, —, —, —
+Jitō, Japan, Emperor, 686, 697, —, —, —
+Monmu, Japan, Emperor, 697, 707, —, —, —
+Genmei, Japan, Emperor, 707, 715, —, —, —
+Genshō, Japan, Emperor, 715, 724, —, —, —
+Shōmu, Japan, Emperor, 724, 749, —, —, —
+Kōken / Shōtoku, Japan, Emperor, 749, 770, —, —, —
+Kōnin, Japan, Emperor, 770, 781, —, —, —
+Kanmu, Japan, Emperor, 781, 806, —, —, —
+Heizei, Japan, Emperor, 806, 809, —, —, —
+Saga, Japan, Emperor, 809, 823, —, —, —
+Junna, Japan, Emperor, 823, 833, —, —, —
+Ninmyō, Japan, Emperor, 833, 850, —, —, —
+Montoku, Japan, Emperor, 850, 858, —, —, —
+Seiwa, Japan, Emperor, 858, 876, —, —, —
+Yōzei, Japan, Emperor, 876, 884, —, —, —
+Kōkō, Japan, Emperor, 884, 887, —, —, —
+Uda, Japan, Emperor, 887, 897, —, —, —
+Daigo, Japan, Emperor, 897, 930, —, —, —
+Suzaku, Japan, Emperor, 930, 946, —, —, —
+Murakami, Japan, Emperor, 946, 967, —, —, —
+Reizei, Japan, Emperor, 967, 969, —, —, —
+En'yū, Japan, Emperor, 969, 984, —, —, —
+Kazan, Japan, Emperor, 984, 986, —, —, —
+Ichijō, Japan, Emperor, 986, 1011, —, —, —
+Sanjō, Japan, Emperor, 1011, 1016, —, —, —
+Go-Ichijō, Japan, Emperor, 1016, 1036, —, —, —
+Go-Suzaku, Japan, Emperor, 1036, 1045, —, —, —
+Go-Reizei, Japan, Emperor, 1045, 1068, —, —, —
+Go-Sanjō, Japan, Emperor, 1068, 1073, —, —, —
+Shirakawa, Japan, Emperor, 1073, 1087, —, —, —
+Horikawa, Japan, Emperor, 1087, 1107, —, —, —
+Toba, Japan, Emperor, 1107, 1123, —, —, —
+Sutoku, Japan, Emperor, 1123, 1142, —, —, —
+Konoe, Japan, Emperor, 1142, 1155, —, —, —
+Go-Shirakawa, Japan, Emperor, 1155, 1158, —, —, —
+Nijō, Japan, Emperor, 1158, 1165, —, —, —
+Rokujō, Japan, Emperor, 1165, 1168, —, —, —
+Takakura, Japan, Emperor, 1168, 1180, —, —, —
+Antoku, Japan, Emperor, 1180, 1185, —, —, —
+Go-Toba, Japan, Emperor, 1183, 1198, —, —, —
+Tsuchimikado, Japan, Emperor, 1198, 1210, —, —, —
+Juntoku, Japan, Emperor, 1210, 1221, —, —, —
+Go-Horikawa, Japan, Emperor, 1221, 1232, —, —, —
+Shijō, Japan, Emperor, 1232, 1242, —, —, —
+Go-Saga, Japan, Emperor, 1242, 1246, —, —, —
+Go-Fukakusa, Japan, Emperor, 1246, 1260, —, —, —
+Kameyama, Japan, Emperor, 1259, 1274, —, —, —
+Go-Uda, Japan, Emperor, 1274, 1287, —, —, —
+Fushimi, Japan, Emperor, 1287, 1298, —, —, —
+Go-Fushimi, Japan, Emperor, 1298, 1301, —, —, —
+Go-Nijō, Japan, Emperor, 1301, 1308, —, —, —
+Hanazono, Japan, Emperor, 1308, 1318, —, —, —
+Go-Daigo, Japan, Emperor, 1318, 1339, —, —, —
+Go-Komatsu, Japan, Emperor, 1382, 1412, —, —, —
+Go-Hanazono, Japan, Emperor, 1428, 1464, —, —, —
+Go-Tsuchimikado, Japan, Emperor, 1464, 1500, —, —, —
+Go-Kashiwabara, Japan, Emperor, 1500, 1526, —, —, —
+Go-Nara, Japan, Emperor, 1526, 1557, —, —, —
+Ōgimachi, Japan, Emperor, 1557, 1586, —, —, —
+Go-Yōzei, Japan, Emperor, 1586, 1611, —, —, —
+Go-Mizunoo, Japan, Emperor, 1611, 1629, —, —, —
+Meishō, Japan, Emperor, 1629, 1643, —, —, —
+Go-Kōmyō, Japan, Emperor, 1643, 1654, —, —, —
+Go-Sai, Japan, Emperor, 1655, 1663, —, —, —
+Reigen, Japan, Emperor, 1663, 1687, —, —, —
+Higashiyama, Japan, Emperor, 1687, 1709, —, —, —
+Nakamikado, Japan, Emperor, 1709, 1735, —, —, —
+Sakuramachi, Japan, Emperor, 1735, 1747, —, —, —
+Momozono, Japan, Emperor, 1747, 1762, —, —, —
+Go-Sakuramachi, Japan, Emperor, 1762, 1771, —, —, —
+Go-Momozono, Japan, Emperor, 1771, 1779, —, —, —
+Kōkaku, Japan, Emperor, 1780, 1817, —, —, —
+Ninkō, Japan, Emperor, 1817, 1846, —, —, —
+Kōmei, Japan, Emperor, 1846, 1867, —, —, —
+Meiji, Japan, Emperor, 1867/02/03, 1912/07/30, —, —, —
+Taishō, Japan, Emperor, 1912/07/30, 1926/12/25, —, —, —
+Shōwa (Hirohito), Japan, Emperor, 1926/12/25, 1989/01/07, —, —, —
+Akihito, Japan, Emperor, 1989/01/07, 2019/04/30, —, —, —
+Naruhito, Japan, Emperor, 2019/05/01, Present, —, —, —
+Pelagius, León & Castile, King, 718, 737, Astur-Leonese, , 
+Favila, León & Castile, King, 737, 739, Astur-Leonese, , 
+Alfonso I, León & Castile, King, 739, 757, Astur-Leonese, , 
+Fruela I, León & Castile, King, 757, 768, Astur-Leonese, , 
+Alfonso II, León & Castile, King, 791, 842, Astur-Leonese, , 
+Ramiro I, León & Castile, King, 842, 850, Astur-Leonese, , 
+Ordoño I, León & Castile, King, 850, 866, Astur-Leonese, , 
+Alfonso III, León & Castile, King, 866, 910, Astur-Leonese, , 
+García I, León & Castile, King, 910, 914, Astur-Leonese, , 
+Ordoño II, León & Castile, King, 914, 924, Astur-Leonese, , 
+Fruela II, León & Castile, King, 924, 925, Astur-Leonese, , 
+Ramiro II, León & Castile, King, 931, 951, Astur-Leonese, , 
+Ordoño III, León & Castile, King, 951, 956, Astur-Leonese, , 
+Sancho I, León & Castile, King, 956, 966, Astur-Leonese, , 
+Ramiro III, León & Castile, King, 966, 984, Astur-Leonese, , 
+Bermudo II, León & Castile, King, 984, 999, Astur-Leonese, , 
+Alfonso V, León & Castile, King, 999, 1028, Astur-Leonese, , 
+Bermudo III, León & Castile, King, 1028, 1037, Astur-Leonese, , 
+Ferdinand I, León & Castile, King, 1037, 1065, Jiménez, , 
+Sancho II, León & Castile, King, 1065, 1072, Jiménez, , 
+Alfonso VI, León & Castile, King, 1072, 1109, Jiménez, , 
+Urraca, León & Castile, King, 1109, 1126, Jiménez, , 
+Alfonso VII, León & Castile, King, 1126, 1157, Jiménez, , 
+Ferdinand II, León & Castile, King, 1157, 1188, Jiménez, , 
+Alfonso IX, León & Castile, King, 1188, 1230, Jiménez, , 
+Ferdinand III, León & Castile, King, 1230, 1252, House of Burgundy, , 
+Alfonso X, León & Castile, King, 1252, 1284, House of Burgundy, , 
+Sancho IV, León & Castile, King, 1284, 1295, House of Burgundy, , 
+Ferdinand IV, León & Castile, King, 1295, 1312, House of Burgundy, , 
+Alfonso XI, León & Castile, King, 1312, 1350, House of Burgundy, , 
+Peter I, León & Castile, King, 1350, 1369, House of Burgundy, , 
+Henry II, León & Castile, King, 1369, 1379, House of Trastámara, , 
+John I, León & Castile, King, 1379, 1390, Trastámara, , 
+Henry III, León & Castile, King, 1390, 1406, Trastámara, , 
+John II, León & Castile, King, 1406, 1454, Trastámara, , 
+Henry IV, León & Castile, King, 1454, 1474, Trastámara, , 
+Isabella I, León & Castile, King, 1474, 1504, Trastámara, , 
+Joanna I, León & Castile, King, 1504, 1555, Trastámara, , 
+Ramiro I, Aragon, King, 1035, 1063, Jiménez, , 
+Sancho Ramírez, Aragon, King, 1063, 1094, Jiménez, , 
+Peter I, Aragon, King, 1094, 1104, Jiménez, , 
+Alfonso I, Aragon, King, 1104, 1134, Jiménez, , 
+Ramiro II, Aragon, King, 1134, 1137, Jiménez, , 
+Petronilla, Aragon, King, 1137, 1164, House of Barcelona, , 
+Alfonso II, Aragon, King, 1164, 1196, House of Barcelona, , 
+Peter II, Aragon, King, 1196, 1213, Barcelona, , 
+James I, Aragon, King, 1213, 1276, Barcelona, , 
+Peter III, Aragon, King, 1276, 1285, Barcelona, , 
+Alfonso III, Aragon, King, 1285, 1291, Barcelona, , 
+James II, Aragon, King, 1291, 1327, Barcelona, , 
+Alfonso IV, Aragon, King, 1327, 1336, Barcelona, , 
+Peter IV, Aragon, King, 1336, 1387, Barcelona, , 
+John I, Aragon, King, 1387, 1396, Barcelona, , 
+Martin I, Aragon, King, 1396, 1410, Barcelona, , 
+Ferdinand I, Aragon, King, 1412, 1416, Trastámara, , 
+Alfonso V, Aragon, King, 1416, 1458, Trastámara, , 
+John II, Aragon, King, 1458, 1479, Trastámara, , 
+Ferdinand II, Aragon, King, 1479, 1516, Trastámara, , 
+Pelagius, Asturias, King, 718, 737, Astur-Leonese, , 
+Favila, Asturias, King, 737, 739, Astur-Leonese, , 
+Alfonso I, Asturias, King, 739, 757, Astur-Leonese, , 
+Fruela I, Asturias, King, 757, 768, Astur-Leonese, , 
+Aurelius, Asturias, King, 768, 774, Astur-Leonese, , 
+Silo, Asturias, King, 774, 783, Astur-Leonese, , 
+Mauregatus, Asturias, King, 783, 789, Astur-Leonese, , 
+Bermudo I, Asturias, King, 789, 791, Astur-Leonese, , 
+Alfonso II, Asturias, King, 791, 842, Astur-Leonese, , 
+Ramiro I, Asturias, King, 842, 850, Astur-Leonese, , 
+Ordoño I, Asturias, King, 850, 866, Astur-Leonese, , 
+Alfonso III, Asturias, King, 866, 910, Astur-Leonese, , 
+García I, Asturias, King, 910, 914, Astur-Leonese, , 
+Ordoño II, Asturias, King, 914, 924, Astur-Leonese, , 
+Charles I, Spain, King, 1516, 1556, House of Habsburg, , 
+Philip II, Spain, King, 1556, 1598, House of Habsburg, , 
+Philip III, Spain, King, 1598, 1621, House of Habsburg, , 
+Philip IV, Spain, King, 1621, 1665, House of Habsburg, , 
+Charles II, Spain, King, 1665, 1700, House of Habsburg, , 
+Philip V, Spain, King, 1700, 1724, House of Bourbon, , 
+Louis I, Spain, King, 1724, 1724, House of Bourbon, , 
+Philip V, Spain, King, 1724, 1746, House of Bourbon, , 
+Ferdinand VI, Spain, King, 1746, 1759, House of Bourbon, , 
+Charles III, Spain, King, 1759, 1788, House of Bourbon, , 
+Charles IV, Spain, King, 1788, 1808, House of Bourbon, , 
+Ferdinand VII, Spain, King, 1808, 1808, House of Bourbon, , 
+Joseph I, Spain, King, 1808, 1813, House of Bonaparte, , 
+Ferdinand VII, Spain, King, 1813, 1833, House of Bourbon, , 
+Isabella II, Spain, King, 1833, 1868, House of Bourbon, , 
+Amadeo I, Spain, King, 1870, 1873, House of Savoy, , 
+Alfonso XII, Spain, King, 1874, 1885, House of Bourbon, , 
+Alfonso XIII, Spain, King, 1886, 1931, House of Bourbon, , 
+Juan Carlos I, Spain, King, 1975, 2014, House of Bourbon, , 
+Felipe VI, Spain, King, 2014, Present, House of Bourbon, , 
+Vímara Peres, County of Portugal, King, 868, 873, House of Vímara, , 
+Lucídio Vimaranes, County of Portugal, King, 873, 924, House of Vímara, , 
+Hermenegildo González, County of Portugal, King, c.924, c.950, House of Vímara, , 
+Mumadona Dias, County of Portugal, King, c.924, c.950, House of Vímara, , 
+Gonzalo Menéndez, County of Portugal, King, c.950, 997, House of Vímara, , 
+Menendo González, County of Portugal, King, 997, 1008, House of Vímara, , 
+Alvito Nunes, County of Portugal, King, 1008, 1015, House of Vímara, , 
+Nuno Alvites, County of Portugal, King, 1017, 1028, House of Vímara, , 
+Ilduara Mendes, County of Portugal, King, 1017, 1028, House of Vímara, , 
+Mendo Nunes, County of Portugal, King, 1028, 1050, House of Vímara, , 
+Nuno Mendes, County of Portugal, King, 1050, 1071, House of Vímara, , 
+Henry, County of Portugal, King, 1096, 1112, House of Burgundy, , 
+Theresa, County of Portugal, King, 1096, 1128, House of Burgundy, , 
+Afonso, County of Portugal, King, 1112/1128, 1143, House of Burgundy, , 
+Afonso I, Portugal, King, 1139, 1185, House of Burgundy - Afonsine Dynasty, , 
+Sancho I, Portugal, King, 1185, 1211, House of Burgundy - Afonsine Dynasty, , 
+Afonso II, Portugal, King, 1211, 1223, House of Burgundy - Afonsine Dynasty, , 
+Sancho II, Portugal, King, 1223, 1247, House of Burgundy - Afonsine Dynasty, , 
+Afonso III, Portugal, King, 1248, 1279, House of Burgundy - Afonsine Dynasty, , 
+Dinis I, Portugal, King, 1279, 1325, House of Burgundy - Afonsine Dynasty, , 
+Afonso IV, Portugal, King, 1325, 1357, House of Burgundy - Afonsine Dynasty, , 
+Peter I, Portugal, King, 1357, 1367, House of Burgundy - Afonsine Dynasty, , 
+Ferdinand I, Portugal, King, 1367, 1383, House of Burgundy - Afonsine Dynasty, , 
+John I, Portugal, King, 1385, 1433, House of Aviz - Johanine Dynasty, , 
+Edward, Portugal, King, 1433, 1438, House of Aviz - Johanine Dynasty, , 
+Afonso V, Portugal, King, 1438, 1481, House of Aviz - Johanine Dynasty, , 
+John II, Portugal, King, 1481, 1495, House of Aviz - Johanine Dynasty, , 
+Manuel I, Portugal, King, 1495, 1521, House of Aviz - Johanine Dynasty, , 
+John III, Portugal, King, 1521, 1557, House of Aviz - Johanine Dynasty, , 
+Sebastian I, Portugal, King, 1557, 1578, House of Aviz - Johanine Dynasty, , 
+Philip I, Portugal, King, 1580, 1598, House of Habsburg - Brigantine Dynasty, , 
+Philip II, Portugal, King, 1598, 1621, House of Habsburg - Brigantine Dynasty, , 
+Philip III, Portugal, King, 1621, 1640, House of Habsburg - Brigantine Dynasty, , 
+John IV, Portugal, King, 1640, 1656, House of Habsburg - Brigantine Dynasty, , 
+Afonso VI, Portugal, King, 1656, 1683, House of Habsburg - Brigantine Dynasty, , 
+Peter II, Portugal, King, 1683, 1706, House of Habsburg - Brigantine Dynasty, , 
+John V, Portugal, King, 1706, 1750, House of Habsburg - Brigantine Dynasty, , 
+Joseph I, Portugal, King, 1750, 1777, House of Habsburg - Brigantine Dynasty, , 
+Maria I, Portugal, King, 1777, 1816, House of Habsburg - Brigantine Dynasty, , 
+John VI, Portugal, King, 1816, 1826, House of Habsburg - Brigantine Dynasty, , 
+Peter IV, Portugal, King, 1826, 1826, House of Habsburg - Brigantine Dynasty, , 
+Miguel I, Portugal, King, 1828, 1834, House of Habsburg - Brigantine Dynasty, , 
+Maria II, Portugal, King, 1826, 1853, House of Habsburg - Brigantine Dynasty, , 
+Peter V, Portugal, King, 1853, 1861, House of Habsburg - Brigantine Dynasty, , 
+Louis I, Portugal, King, 1861, 1889, House of Habsburg - Brigantine Dynasty, , 
+Charles I, Portugal, King, 1889, 1908, House of Habsburg - Brigantine Dynasty, , 
+Manuel II, Portugal, King, 1908, 1910, House of Habsburg - Brigantine Dynasty, , 
+Clovis I, France, King, 481, 511, Merovingian, , 
+Childebert I, France, King, 511, 558, Merovingian, , 
+Clotaire I, France, King, 558, 561, Merovingian, , 
+Charibert I, France, King, 561, 567, Merovingian, , 
+Guntram, France, King, 561, 592, Merovingian, , 
+Chilperic I, France, King, 561, 584, Merovingian, , 
+Clotaire II, France, King, 584, 629, Merovingian, , 
+Dagobert I, France, King, 629, 639, Merovingian, , 
+Clovis II, France, King, 639, 657, Merovingian, , 
+Chlothar III, France, King, 657, 673, Merovingian, , 
+Theuderic III, France, King, 673, 691, Merovingian, , 
+Clovis IV, France, King, 691, 694, Merovingian, , 
+Childebert III, France, King, 694, 711, Merovingian, , 
+Dagobert III, France, King, 711, 715, Merovingian, , 
+Chilperic II, France, King, 715, 721, Merovingian, , 
+Theuderic IV, France, King, 721, 737, Merovingian, , 
+Pepin the Short, France, King, 751, 768, Carolingian, , 
+Charlemagne, France, King, 768, 814, Carolingian, , 
+Louis I, France, King, 814, 840, Carolingian, , 
+Charles II, France, King, 843, 877, Carolingian, , 
+Louis II, France, King, 877, 879, Carolingian, , 
+Louis III, France, King, 879, 882, Carolingian, , 
+Carloman II, France, King, 879, 884, Carolingian, , 
+Charles III, France, King, 884, 888, Carolingian, , 
+Odo, France, King, 888, 898, Robertian, , 
+Charles III, France, King, 898, 922, Carolingian, , 
+Robert I, France, King, 922, 923, Robertian, , 
+Rudolph, France, King, 923, 936, Bosonid, , 
+Louis IV, France, King, 936, 954, Carolingian, , 
+Lothair, France, King, 954, 986, Carolingian, , 
+Louis V, France, King, 986, 987, Carolingian, , 
+Hugh Capet, France, King, 987, 996, Capetian, , 
+Robert II, France, King, 996, 1031, Capetian, , 
+Henry I, France, King, 1031, 1060, Capetian, , 
+Philip I, France, King, 1060, 1108, Capetian, , 
+Louis VI, France, King, 1108, 1137, Capetian, , 
+Louis VII, France, King, 1137, 1180, Capetian, , 
+Philip II, France, King, 1180, 1223, Capetian, , 
+Louis VIII, France, King, 1223, 1226, Capetian, , 
+Louis IX, France, King, 1226, 1270, Capetian, , 
+Philip III, France, King, 1270, 1285, Capetian, , 
+Philip IV, France, King, 1285, 1314, Capetian, , 
+Louis X, France, King, 1314, 1316, Capetian, , 
+John I, France, King, 1316, 1316, Capetian, , 
+Philip V, France, King, 1316, 1322, Capetian, , 
+Charles IV, France, King, 1322, 1328, Capetian, , 
+Philip VI, France, King, 1328, 1350, Valois, , 
+John II, France, King, 1350, 1364, Valois, , 
+Charles V, France, King, 1364, 1380, Valois, , 
+Charles VI, France, King, 1380, 1422, Valois, , 
+Charles VII, France, King, 1422, 1461, Valois, , 
+Louis XI, France, King, 1461, 1483, Valois, , 
+Charles VIII, France, King, 1483, 1498, Valois, , 
+Louis XII, France, King, 1498, 1515, Valois-Orléans, , 
+Francis I, France, King, 1515, 1547, Valois-Angoulême, , 
+Henry II, France, King, 1547, 1559, Valois, , 
+Francis II, France, King, 1559, 1560, Valois, , 
+Charles IX, France, King, 1560, 1574, Valois, , 
+Henry III, France, King, 1574, 1589, Valois, , 
+Henry IV, France, King, 1589, 1610, Bourbon, , 
+Louis XIII, France, King, 1610, 1643, Bourbon, , 
+Louis XIV, France, King, 1643, 1715, Bourbon, , 
+Louis XV, France, King, 1715, 1774, Bourbon, , 
+Louis XVI, France, King, 1774, 1792, Bourbon, , 
+Louis XVIII, France, King, 1814, 1824, Bourbon, , 
+Charles X, France, King, 1824, 1830, Bourbon, , 
+Louis Philippe I, France, King, 1830, 1848, House of Orléans, , 
+Æthelstan, England, King, 924, 939, House of Wessex, , 
+Edmund I, England, King, 939, 946, Wessex, , 
+Eadred, England, King, 946, 955, Wessex, , 
+Eadwig, England, King, 955, 959, Wessex, , 
+Edgar, England, King, 959, 975, Wessex, , 
+Edward the Martyr, England, King, 975, 978, Wessex, , 
+Æthelred II, England, King, 978, 1013, Wessex, , 
+Sweyn Forkbeard, England, King, 1013, 1014, House of Denmark, , 
+Æthelred II, England, King, 1014, 1016, Wessex, , 
+Edmund II, England, King, 1016, 1016, Wessex, , 
+Cnut, England, King, 1016, 1035, House of Denmark, , 
+Harold I, England, King, 1035, 1040, Denmark, , 
+Harthacnut, England, King, 1040, 1042, Denmark, , 
+Edward the Confessor, England, King, 1042, 1066, House of Wessex, , 
+Harold II, England, King, 1066, 1066, House of Godwin, , 
+William I, England, King, 1066, 1087, House of Normandy, , 
+William II, England, King, 1087, 1100, Normandy, , 
+Henry I, England, King, 1100, 1135, Normandy, , 
+Stephen, England, King, 1135, 1154, House of Blois, , 
+Henry II, England, King, 1154, 1189, Plantagenet, , 
+Richard I, England, King, 1189, 1199, Plantagenet, , 
+John, England, King, 1199, 1216, Plantagenet, , 
+Henry III, England, King, 1216, 1272, Plantagenet, , 
+Edward I, England, King, 1272, 1307, Plantagenet, , 
+Edward II, England, King, 1307, 1327, Plantagenet, , 
+Edward III, England, King, 1327, 1377, Plantagenet, , 
+Richard II, England, King, 1377, 1399, Plantagenet, , 
+Henry IV, England, King, 1399, 1413, House of Lancaster, , 
+Henry V, England, King, 1413, 1422, Lancaster, , 
+Henry VI, England, King, 1422, 1461, Lancaster, , 
+Edward IV, England, King, 1461, 1470, House of York, , 
+Henry VI, England, King, 1470, 1471, Lancaster, , 
+Edward IV, England, King, 1471, 1483, York, , 
+Edward V, England, King, 1483, 1483, York, , 
+Richard III, England, King, 1483, 1485, House of York, , 
+Henry VII, England, King, 1485, 1509, Tudor, , 
+Henry VIII, England, King, 1509, 1547, Tudor, , 
+Edward VI, England, King, 1547, 1553, Tudor, , 
+Mary I, England, King, 1553, 1558, Tudor, , 
+Elizabeth I, England, King, 1558, 1603, Tudor, , 
+James I, England, King, 1603, 1625, House of Stuart, , 
+Charles I, England, King, 1625, 1649, Stuart, , 
+(Monarchy abolished), England, King, 1649, 1660, , , 
+Charles II, England, King, 1660, 1685, Stuart, , 
+James II, England, King, 1685, 1688, Stuart, , 
+William III, England, King, 1689, 1702, House of Orange-Nassau, , 
+Mary II, England, King, 1689, 1694, Stuart, , 
+Anne, England, King, 1702, 1707, Stuart, , 
+Anne, Great Britain, King, 1707, 1714, House of Stuart, , 
+George I, Great Britain, King, 1714, 1727, House of Hanover, , 
+George II, Great Britain, King, 1727, 1760, Hanover, , 
+George III, Great Britain, King, 1760, 1801, Hanover, , 
+George III, United Kingdom, King, 1801, 1820, House of Hanover, , 
+George IV, United Kingdom, King, 1820, 1830, Hanover, , 
+William IV, United Kingdom, King, 1830, 1837, Hanover, , 
+Victoria, United Kingdom, King, 1837, 1901, House of Hanover, , 
+Edward VII, United Kingdom, King, 1901, 1910, House of Saxe-Coburg and Gotha, , 
+George V, United Kingdom, King, 1910, 1936, House of Windsor, , 
+Edward VIII, United Kingdom, King, 1936, 1936, Windsor, , 
+George VI, United Kingdom, King, 1936, 1952, Windsor, , 
+Elizabeth II, United Kingdom, King, 1952, 2022, Windsor, , 
+Charles III, United Kingdom, King, 2022, Present, Windsor, , 
+Louis I, Holland, King, 5 June 1806, 1 July 1810, House of Bonaparte, , 
+Louis II, Holland, King, 1 July 1810, 13 July 1810, House of Bonaparte, , 
+William I, Netherlands, King, 1815-03-16, 1840-10-07, House of Orange-Nassau, , 
+William II, Netherlands, King, 1840-10-07, 1849-03-17, House of Orange-Nassau, , 
+William III, Netherlands, King, 1849-03-17, 1890-11-23, House of Orange-Nassau, , 
+Wilhelmina, Netherlands, King, 1890-11-23, 1948-09-04, House of Orange-Nassau, , 
+Juliana, Netherlands, King, 1948-09-04, 1980-04-30, House of Orange-Nassau, , 
+Beatrix, Netherlands, King, 1980-04-30, 2013-04-30, House of Orange-Nassau, , 
+Willem-Alexander, Netherlands, King, 2013-04-30, Present, House of Orange-Nassau, , 
+Harald I Fairhair, Norway, King, 872, 930, —, —, —
+Eric I Bloodaxe, Norway, King, 930, 934, —, —, —
+Haakon I the Good, Norway, King, 934, 961, —, —, —
+Harald II Greycloak, Norway, King, 961, 970, —, —, —
+Haakon Sigurdsson (Jarl), Norway, De facto ruler (Jarl), 970, 995, —, —, —
+Olaf I Tryggvason, Norway, King, 995, 1000, —, —, —
+Sweyn Forkbeard, Norway, King, 1000, 1014, —, —, —
+Olaf II Haraldsson (St. Olaf), Norway, King, 1015, 1028, —, —, —
+Cnut the Great, Norway, King, 1028, 1035, —, —, —
+Magnus I the Good, Norway, King, 1035, 1047, —, —, —
+Harald III Hardrada, Norway, King, 1046, 1066, —, —, —
+Olaf III Kyrre, Norway, King, 1067, 1093, —, —, —
+Magnus III Barefoot, Norway, King, 1093, 1103, —, —, —
+Sigurd I, Norway, King, 1103, 1130, —, —, —
+Magnus IV & Harald IV (co-rule), Norway, Kings, 1130, 1135, —, —, —
+Haakon IV Haakonsson, Norway, King, 1217, 1263, —, —, —
+Magnus VI, Norway, King, 1263, 1280, —, —, —
+Haakon V, Norway, King, 1299, 1319, —, —, —
+Olaf IV, Norway, King, 1380, 1387, —, —, —
+Margaret I, Norway, Queen, 1387, 1412, —, —, —
+Christian I, Norway, King, 1450, 1481, —, —, —
+Christian II, Norway, King, 1513, 1523, —, —, —
+Frederick I, Norway, King, 1524, 1533, —, —, —
+Christian III, Norway, King, 1534, 1559, —, —, —
+Frederick II, Norway, King, 1559, 1588, —, —, —
+Christian IV, Norway, King, 1588, 1648, —, —, —
+Frederick III, Norway, King, 1648, 1670, —, —, —
+Christian V, Norway, King, 1670, 1699, —, —, —
+Frederick IV, Norway, King, 1699, 1730, —, —, —
+Christian VI, Norway, King, 1730, 1746, —, —, —
+Frederick V, Norway, King, 1746, 1766, —, —, —
+Christian VII, Norway, King, 1766, 1808, —, —, —
+Frederick VI, Norway, King, 1808, 1814, —, —, —
+Christian Frederick, Norway, King, 17/05/1814, 10/10/1814, —, —, —
+Charles XIII (Karl II), Norway, King, 04/11/1814, 1818, —, —, —
+Charles XIV John, Norway, King, 1818, 1844, —, —, —
+Oscar I, Norway, King, 1844, 1859, —, —, —
+Charles XV, Norway, King, 1859, 1872, —, —, —
+Oscar II, Norway, King, 1872, 07/06/1905, —, —, —
+Haakon VII, Norway, King, 18/11/1905, 21/09/1957, —, —, —
+Olav V, Norway, King, 21/09/1957, 17/01/1991, —, —, —
+Harald V, Norway, King, 17/01/1991, Present, —, —, —
