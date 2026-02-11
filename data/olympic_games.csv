@@ -1,0 +1,60 @@
+City, Year, Type, Sports, Start, End
+Athens, 1896, Summer, , 06/04/1896, 15/04/1896
+Paris, 1900, Summer, , 14/05/1900, 28/10/1900
+St. Louis, 1904, Summer, , 01/07/1904, 23/11/1904
+London, 1908, Summer, , 13/07/1908, 25/07/1908
+Stockholm, 1912, Summer, , 06/07/1912, 15/07/1912
+Antwerp, 1920, Summer, , 14/08/1920, 30/08/1920
+Paris, 1924, Summer, , 05/07/1924, 27/07/1924
+Chamonix, 1924, Winter, , 24/01/1924, 05/02/1924
+Amsterdam, 1928, Summer, , 28/07/1928, 12/08/1928
+St. Moritz, 1928, Winter, , 11/02/1928, 17/02/1928
+Los Angeles, 1932, Summer, , 30/07/1932, 14/08/1932
+Lake Placid, 1932, Winter, , 04/02/1932, 13/02/1932
+Berlin, 1936, Summer, , 01/08/1936, 16/08/1936
+Garmisch-Partenkirchen, 1936, Winter, , 06/02/1936, 16/02/1936
+London, 1948, Summer, , 29/07/1948, 14/08/1948
+St. Moritz, 1948, Winter, , 30/01/1948, 08/02/1948
+Helsinki, 1952, Summer, , 19/07/1952, 03/08/1952
+Oslo, 1952, Winter, , 15/02/1952, 25/02/1952
+Melbourne, 1956, Summer, , 22/11/1956, 08/12/1956
+Cortina d'Ampezzo, 1956, Winter, , 26/01/1956, 05/02/1956
+Rome, 1960, Summer, , 25/08/1960, 11/09/1960
+Squaw Valley, 1960, Winter, , 18/02/1960, 28/02/1960
+Tokyo, 1964, Summer, , 10/10/1964, 24/10/1964
+Innsbruck, 1964, Winter, , 29/01/1964, 09/02/1964
+Mexico City, 1968, Summer, , 12/10/1968, 27/10/1968
+Grenoble, 1968, Winter, , 06/02/1968, 18/02/1968
+Munich, 1972, Summer, , 26/08/1972, 11/09/1972
+Sapporo, 1972, Winter, , 03/02/1972, 13/02/1972
+Montreal, 1976, Summer, , 17/07/1976, 01/08/1976
+Innsbruck, 1976, Winter, , 04/02/1976, 15/02/1976
+Moscow, 1980, Summer, , 19/07/1980, 03/08/1980
+Lake Placid, 1980, Winter, , 13/02/1980, 24/02/1980
+Los Angeles, 1984, Summer, , 28/07/1984, 12/08/1984
+Sarajevo, 1984, Winter, , 08/02/1984, 19/02/1984
+Seoul, 1988, Summer, , 17/09/1988, 02/10/1988
+Calgary, 1988, Winter, , 13/02/1988, 28/02/1988
+Barcelona, 1992, Summer, , 25/07/1992, 09/08/1992
+Albertville, 1992, Winter, , 08/02/1992, 23/02/1992
+Lillehammer, 1994, Winter, , 12/02/1994, 27/02/1994
+Atlanta, 1996, Summer, , 19/07/1996, 04/08/1996
+Nagano, 1998, Winter, , 07/02/1998, 22/02/1998
+Sydney, 2000, Summer, , 15/09/2000, 01/10/2000
+Salt Lake City, 2002, Winter, , 08/02/2002, 24/02/2002
+Athens, 2004, Summer, , 13/08/2004, 29/08/2004
+Turin, 2006, Winter, , 10/02/2006, 26/02/2006
+Beijing, 2008, Summer, , 08/08/2008, 24/08/2008
+Vancouver, 2010, Winter, , 12/02/2010, 28/02/2010
+London, 2012, Summer, , 27/07/2012, 12/08/2012
+Sochi, 2014, Winter, , 07/02/2014, 23/02/2014
+Rio de Janeiro, 2016, Summer, Aquatics Diving; Aquatics Marathon swimming; Aquatics Swimming; Aquatics Synchronized swimming; Aquatics Water polo; Archery; Athletics; Badminton; Basketball; Boxing; Canoeing Sprint; Canoeing Slalom; Cycling BMX; Cycling Mountain biking; Cycling Road; Cycling Track; Equestrian Dressage; Equestrian Eventing; Equestrian Jumping; Equestrian Fencing; Field hockey; Football; Golf; Gymnastics Artistic; Gymnastics Rhythmic; Gymnastics Trampoline; Handball; Judo; Modern pentathlon; Rowing; Rugby sevens; Sailing; Shooting; Table tennis; Taekwondo; Tennis; Triathlon; Volleyball; Beach volleyball; Weightlifting; Wrestling Freestyle; Wrestling Greco-Roman, 05/08/2016, 21/08/2016
+PyeongChang, 2018, Winter, , 09/02/2018, 25/02/2018
+Tokyo, 2020, Summer, 3x3 Basketball; Archery; Artistic Gymnastics; Artistic Swimming; Athletics; Badminton; Baseball/Softball; Basketball; Beach Volleyball; Boxing; Canoe Slalom; Canoe Sprint; Cycling BMX Freestyle; Cycling BMX Racing; Cycling Mountain Bike; Cycling Road; Cycling Track; Diving; Equestrian; Fencing; Football; Golf; Handball; Hockey; Judo; Karate; Marathon Swimming; Modern Pentathlon; Rhythmic Gymnastics; Rowing; Rugby Sevens; Sailing; Shooting; Skateboarding; Sport Climbing; Surfing; Swimming; Table Tennis; Taekwondo; Tennis; Trampoline Gymnastics; Triathlon; Volleyball; Water Polo; Weightlifting; Wrestling, 23/07/2021, 08/08/2021
+Beijing, 2022, Winter, Alpine Skiing; Biathlon; Bobsleigh; Cross Country Skiing; Curling; Figure skating; Freestyle Skiing; Ice Hockey; Luge; Nordic Combined; Short Track Speed Skating; Skeleton; Ski Jumping; Snowboard; Speed skating, 04/02/2022, 20/02/2022
+Paris, 2024, Summer, 3x3 Basketball; Archery; Artistic Gymnastics; Artistic Swimming; Athletics; Badminton; Basketball; Beach Volleyball; Boxing; Breaking; Canoe Slalom; Canoe Sprint; Cycling BMX Freestyle; Cycling BMX Racing; Cycling Mountain Bike; Cycling Road; Cycling Track; Diving; Equestrian; Fencing; Football; Golf; Handball; Hockey; Judo; Marathon Swimming; Modern Pentathlon; Rhythmic Gymnastics; Rowing; Rugby Sevens; Sailing; Shooting; Skateboarding; Sport Climbing; Surfing; Swimming; Table Tennis; Taekwondo; Tennis; Trampoline Gymnastics; Triathlon; Volleyball; Water Polo; Weightlifting; Wrestling, 26/07/2024, 11/08/2024
+Milano Cortina, 2026, Winter, , 06/02/2026, 22/02/2026
+Los Angeles, 2028, Summer, , , 
+French Alps, 2030, Winter, , , 
+Brisbane, 2032, Summer, , , 
+Utah, 2034, Winter, , , 

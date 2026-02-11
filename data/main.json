@@ -1,34 +1,4 @@
 {
-    "Rulers": {
-        "filename": "rulers.csv",
-        "sources": [],
-        "updated": "2026-02-11T00.00.00",
-        "fields": [
-            "Name",
-            "Region",
-            "Title",
-            "Term start",
-            "Term end",
-            "Party",
-            "Assembly",
-            "Vice(s)"
-        ]
-    },
-    "Heads of State": {
-        "filename": "heads_of_state.csv",
-        "sources": [],
-        "updated": "2026-02-11T00.00.00",
-        "fields": [
-            "Name",
-            "Region",
-            "Title",
-            "Term start",
-            "Term end",
-            "Party",
-            "Assembly",
-            "Vice(s)"
-        ]
-    },
     "Portugal Presidential Elections": {
         "filename": "portugal_presidential_elections.csv",
         "sources": ["www.eleicoes.mai.gov.pt"],
@@ -2062,6 +2032,21 @@
             "Helped a stranger"
         ]
     },
+    "Kings": {
+        "filename": "kings.csv",
+        "sources": [],
+        "updated": "2025-12-17T00.00.00",
+        "fields": [
+            "Kingdom",
+            "Name",
+            "Birthdate",
+            "Deathdate",
+            "Reign start",
+            "Reign end",
+            "Dynasty",
+            "Other names"
+        ]
+    },
     "Unesco Sites": {
         "filename": "unesco_sites.csv",
         "sources": ["unesco.org"],
@@ -2333,37 +2318,6 @@
             "City",
             "Stadium",
             "Capacity"
-        ]
-    },
-    "Universities": {
-        "filename": "universities.csv",
-        "sources": ["canada.ca"],
-        "updated": "2026-01-20T00.00.00",
-        "fields": [
-            "Name",
-            "Country",
-            "Region",
-            "Web Page",
-            "Address",
-            "Lat",
-            "Long"
-        ]
-    },
-    "Canada Provinces Territories": {
-        "filename": "canada_provinces_territories.csv",
-        "sources": ["canada.ca"],
-        "updated": "2026-01-28T00.00.00",
-        "fields": [
-            "Region",
-            "Type",
-            "ISO",
-            "Capital",
-            "Area [km2]",
-            "Senate Seats",
-            "House Seats",
-            "Population 2021 (Census 11/05/2021)",
-            "Population 2024",
-            "Population 2025"
         ]
     }
 }
