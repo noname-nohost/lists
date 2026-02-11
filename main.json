@@ -1,4 +1,34 @@
 {
+    "Rulers": {
+        "filename": "rulers.csv",
+        "sources": [],
+        "updated": "2026-02-11T00.00.00",
+        "fields": [
+            "Name",
+            "Region",
+            "Title",
+            "Term start",
+            "Term end",
+            "Party",
+            "Assembly",
+            "Vice(s)"
+        ]
+    },
+    "Heads of State": {
+        "filename": "heads_of_state.csv",
+        "sources": [],
+        "updated": "2026-02-11T00.00.00",
+        "fields": [
+            "Name",
+            "Region",
+            "Title",
+            "Term start",
+            "Term end",
+            "Party",
+            "Assembly",
+            "Vice(s)"
+        ]
+    },
     "Portugal Presidential Elections": {
         "filename": "portugal_presidential_elections.csv",
         "sources": ["www.eleicoes.mai.gov.pt"],
@@ -2030,21 +2060,6 @@
             "Donated",
             "Volunteered",
             "Helped a stranger"
-        ]
-    },
-    "Kings": {
-        "filename": "kings.csv",
-        "sources": [],
-        "updated": "2025-12-17T00.00.00",
-        "fields": [
-            "Kingdom",
-            "Name",
-            "Birthdate",
-            "Deathdate",
-            "Reign start",
-            "Reign end",
-            "Dynasty",
-            "Other names"
         ]
     },
     "Unesco Sites": {
