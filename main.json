@@ -2378,5 +2378,18 @@
             "Area [km2]",
             "Population 2026"
         ]
+    },
+    "Chile Provinces": {
+        "filename": "chile_provinces.csv",
+        "sources": ["https://stat.ine.cl/"],
+        "updated": "2026-02-16T00.00.00",
+        "fields": [
+            "Region",
+            "Capital",
+            "ISO 3166-2 code",
+            "# Communes",
+            "Area [km2]",
+            "Population 2026"
+        ]
     }
 }
