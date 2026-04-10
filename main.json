@@ -2438,5 +2438,18 @@
             "Population 2011 Census",
             "Population 2021 Census"
         ]
+    },
+    "Hungary Counties": {
+        "filename": "hungary_counties.csv",
+        "sources": ["https://www.ksh.hu", "https://en.wikipedia.org/wiki/Counties_of_Hungary"],
+        "updated": "2026-04-10T00.00.00",
+        "fields": [
+            "Region",
+            "County",
+            "Capital",
+            "Area [km2]",
+            "Population 2011 Census",
+            "Population 2022 Census"
+        ]
     }
 }
