@@ -2391,5 +2391,39 @@
             "Area [km2]",
             "Population 2026"
         ]
-    }
+    },
+    "Croatia Regions": {
+        "filename": "croatia_regions.csv",
+        "sources": ["https://dzs.gov.hr"],
+        "updated": "2026-02-16T00.00.00",
+        "fields": [
+            "County",
+            "Capital",
+            "ISO Code",
+            "# Cities/Mun.",
+            "Area [km2]",
+            "Population 1991 Census",
+            "Population 2001 Census",
+            "Population 2011 Census",
+            "Population 2021 Census", 
+            "Population (2026 Est.)"
+        ]
+    },
+    "Slovakia Regions": {
+        "filename": "slovakia_regions.csv",
+        "sources": ["https://slovak.statistics.sk"],
+        "updated": "2026-02-16T00.00.00",
+        "fields": [
+            "Region",
+            "Capital",
+            "ISO Code",
+            "# Districts",
+            "Area [km2]",
+            "Population 1991 Census",
+            "Population 2001 Census",
+            "Population 2011 Census",
+            "Population 2021 Census",
+            "Population 2026 (Est.)"
+        ]
+    },
 }
