@@ -2426,4 +2426,17 @@
             "Population 2026 (Est.)"
         ]
     },
+    "Slovakia Districts": {
+        "filename": "slovakia_districts.csv",
+        "sources": ["https://slovak.statistics.sk"],
+        "updated": "2026-02-16T00.00.00",
+        "fields": [
+            "Region",
+            "District",
+            "Capital",
+            "Area [km2]",
+            "Population 2011 Census",
+            "Population 2021 Census"
+        ]
+    }
 }
