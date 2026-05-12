@@ -1,0 +1,44 @@
+Municipality,Region,Type,Capital,Area [km2],Pop. (2021 Census)
+Riga,Riga,State City,Riga,304,614610
+Jūrmala,Pierīga,State City,Jūrmala,100,50248
+Ādaži,Pierīga,Municipality,Ādaži,163,21134
+Ķekava,Pierīga,Municipality,Ķekava,270,30077
+Mārupe,Pierīga,Municipality,Mārupe,104,32824
+Olaine,Pierīga,Municipality,Olaine,132,19705
+Ropaži,Pierīga,Municipality,Ulbroka,326,31697
+Salaspils,Pierīga,Municipality,Salaspils,127,22868
+Saulkrasti,Pierīga,Municipality,Saulkrasti,48,9230
+Sigulda,Pierīga,Municipality,Sigulda,1030,30625
+Valmiera,Vidzeme,Municipality*,Valmiera,1219,51370
+Alūksne,Vidzeme,Municipality,Alūksne,1700,13861
+Cēsis,Vidzeme,Municipality,Cēsis,2668,41161
+Gulbene,Vidzeme,Municipality,Gulbene,1876,19619
+Limbaži,Vidzeme,Municipality,Limbaži,2441,28546
+Madona,Vidzeme,Municipality,Madona,3355,32304
+Ogre,Vidzeme,Municipality,Ogre,1839,57617
+Smiltene,Vidzeme,Municipality,Smiltene,1801,18155
+Valka,Vidzeme,Municipality,Valka,908,7596
+Varakļāni,Vidzeme,Municipality,Varakļāni,279,2945
+Liepāja,Kurzeme,State City,Liepāja,60,67360
+Ventspils,Kurzeme,State City,Ventspils,55,33372
+Dienvidkurzeme,Kurzeme,Municipality,Grobiņa,3591,33364
+Kuldīga,Kurzeme,Municipality,Kuldīga,2505,22419
+Saldus,Kurzeme,Municipality,Saldus,2179,27110
+Talsi,Kurzeme,Municipality,Talsi,2744,35699
+Tukums,Kurzeme,Municipality,Tukums,2452,44411
+Ventspils Mun.,Kurzeme,Municipality,Ventspils,2472,10777
+Jelgava,Zemgale,State City,Jelgava,60,55336
+Aizkraukle,Zemgale,Municipality,Aizkraukle,2273,29367
+Bauska,Zemgale,Municipality,Bauska,2175,41755
+Dobele,Zemgale,Municipality,Dobele,1629,28517
+Jelgava Mun.,Zemgale,Municipality,Jelgava,1319,31969
+Jēkabpils,Zemgale,Municipality*,Jēkabpils,2996,40576
+Daugavpils,Latgale,State City,Daugavpils,72,80627
+Rēzekne,Latgale,State City,Rēzekne,17,26839
+Augšdaugava,Latgale,Municipality,Daugavpils,2524,25927
+Balvi,Latgale,Municipality,Balvi,2386,19015
+Krāslava,Latgale,Municipality,Krāslava,2289,21459
+Līvāni,Latgale,Municipality,Līvāni,625,10636
+Ludza,Latgale,Municipality,Ludza,2411,21777
+Preiļi,Latgale,Municipality,Preiļi,1419,16753
+Rēzekne Mun.,Latgale,Municipality,Rēzekne,2524,24251

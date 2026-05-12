@@ -1,0 +1,51 @@
+name,date_of_birth,date_of_death,place_of_birth,place_of_death,nationality,category,known_for,movement,spouses,children
+Leonardo da Vinci,1452-04-15,1519-05-02,"Vinci, Republic of Florence","Amboise, Kingdom of France",Italian,Artist,"Painting, sculpture, science, engineering",Renaissance,None,None
+Michelangelo Buonarroti,1475-03-06,1564-02-18,"Caprese, Republic of Florence","Rome, Papal States",Italian,Artist,"Painting, sculpture, architecture",Renaissance/Mannerism,None,None
+Rembrandt van Rijn,1606-07-15,1669-10-04,"Leiden, Dutch Republic","Amsterdam, Dutch Republic",Dutch,Artist,Painting,Dutch Golden Age,"Saskia van Uylenburgh, Hendrickje Stoffels",4
+Pablo Picasso,1881-10-25,1973-04-08,"Málaga, Spain","Mougins, France",Spanish,Artist,"Painting, sculpture, printmaking",Cubism,"Olga Khokhlova, Jacqueline Roque",4
+Vincent van Gogh,1853-03-30,1890-07-29,"Zundert, Netherlands","Auvers-sur-Oise, France",Dutch,Artist,Painting,Post-Impressionism,None,None
+Claude Monet,1840-11-14,1926-12-05,"Paris, France","Giverny, France",French,Artist,Painting,Impressionism,"Camille Doncieux, Alice Hoschedé",8
+Raphael Sanzio,1483-04-06,1520-04-06,"Urbino, Duchy of Urbino","Rome, Papal States",Italian,Artist,"Painting, architecture",High Renaissance,None,None
+Salvador Dalí,1904-05-11,1989-01-23,"Figueres, Spain","Figueres, Spain",Spanish,Artist,Painting,Surrealism,Gala Dalí,None
+Frida Kahlo,1907-07-06,1954-07-13,"Coyoacán, Mexico City, Mexico","Coyoacán, Mexico City, Mexico",Mexican,Artist,Painting,Surrealism/Folk Art,Diego Rivera (twice),None
+Diego Velázquez,1599-06-06,1660-08-06,"Seville, Spain","Madrid, Spain",Spanish,Artist,Painting,Baroque,Juana Pacheco,2
+Johannes Vermeer,1632-10-31,1675-12-15,"Delft, Dutch Republic","Delft, Dutch Republic",Dutch,Artist,Painting,Dutch Golden Age,Catharina Bolnes,15
+Peter Paul Rubens,1577-06-28,1640-05-30,"Siegen, Holy Roman Empire","Antwerp, Spanish Netherlands",Flemish,Artist,"Painting, diplomacy",Baroque,"Isabella Brant, Hélène Fourment",8
+Caravaggio,1571-09-29,1610-07-18,"Milan, Duchy of Milan","Porto Ercole, Stato dei Presidi",Italian,Artist,Painting,Baroque,None,None
+Francisco Goya,1746-03-30,1828-04-16,"Fuendetodos, Spain","Bordeaux, France",Spanish,Artist,Painting,Romanticism,Josefa Bayeu,6
+Édouard Manet,1832-01-23,1883-04-30,"Paris, France","Paris, France",French,Artist,Painting,Realism/Impressionism,Suzanne Leenhoff,1
+Pierre-Auguste Renoir,1841-02-25,1919-12-03,"Limoges, France","Cagnes-sur-Mer, France",French,Artist,Painting,Impressionism,Aline Charigot,3
+Paul Cézanne,1839-01-19,1906-10-22,"Aix-en-Provence, France","Aix-en-Provence, France",French,Artist,Painting,Post-Impressionism,Hortense Fiquet,1
+Georges Seurat,1859-12-02,1891-03-29,"Paris, France","Paris, France",French,Artist,Painting,Pointillism,Madeleine Knobloch,1
+Paul Gauguin,1848-06-07,1903-05-08,"Paris, France","Atuona, Marquesas Islands",French,Artist,Painting,Post-Impressionism,"Mette-Sophie Gad, Pahura",11
+Henri Matisse,1869-12-31,1954-11-03,"Le Cateau-Cambrésis, France","Nice, France",French,Artist,"Painting, sculpture",Fauvism,Amélie Parayre,3
+Wassily Kandinsky,1866-12-16,1944-12-13,"Moscow, Russia","Neuilly-sur-Seine, France",Russian/French,Artist,"Painting, art theory",Abstract Art,"Anna Chimyakina, Nina Andreevskaya",1
+Piet Mondrian,1872-03-07,1944-02-01,"Amersfoort, Netherlands","New York City, USA",Dutch,Artist,Painting,De Stijl/Neoplasticism,None,None
+Edvard Munch,1863-12-12,1944-01-23,"Løten, Norway","Oslo, Norway",Norwegian,Artist,"Painting, printmaking",Expressionism,None,None
+Gustav Klimt,1862-07-14,1918-02-06,"Baumgarten, Austria-Hungary","Vienna, Austria",Austrian,Artist,Painting,Symbolism/Art Nouveau,None,None
+Egon Schiele,1890-06-12,1918-10-31,"Tulln an der Donau, Austria","Vienna, Austria",Austrian,Artist,Painting,Expressionism,Edith Harms,None
+Jackson Pollock,1912-01-28,1956-08-11,"Cody, Wyoming, USA","Springs, New York, USA",American,Artist,Painting,Abstract Expressionism,Lee Krasner,None
+Andy Warhol,1928-08-06,1987-02-22,"Pittsburgh, Pennsylvania, USA","New York City, USA",American,Artist,"Painting, printmaking, film",Pop Art,None,None
+Mark Rothko,1903-09-25,1970-02-25,"Daugavpils, Russian Empire","New York City, USA",American,Artist,Painting,Abstract Expressionism,"Edith Sachar, Mell Beistle",2
+Georgia O'Keeffe,1887-11-15,1986-03-06,"Sun Prairie, Wisconsin, USA","Santa Fe, New Mexico, USA",American,Artist,Painting,Modernism,Alfred Stieglitz,None
+Jean-Michel Basquiat,1960-12-22,1988-08-12,"Brooklyn, New York, USA","New York City, USA",American,Artist,Painting,Neo-Expressionism,None,None
+William Shakespeare,1564-04-26,1616-04-23,"Stratford-upon-Avon, England","Stratford-upon-Avon, England",English,Writer,"Plays, sonnets, poetry",Elizabethan,Anne Hathaway,3
+Miguel de Cervantes,1547-09-29,1616-04-22,"Alcalá de Henares, Spain","Madrid, Spain",Spanish,Writer,Novel,Renaissance,Catalina de Salazar,1
+Jane Austen,1775-12-16,1817-07-18,"Steventon, England","Winchester, England",English,Writer,Novel,Romanticism,None,None
+Charles Dickens,1812-02-07,1870-06-09,"Portsmouth, England","Gad's Hill Place, England",English,Writer,Novel,Victorian,Catherine Hogarth,10
+Leo Tolstoy,1828-09-09,1910-11-20,"Yasnaya Polyana, Russia","Astapovo, Russia",Russian,Writer,Novel,Realism,Sophia Behrs,13
+Fyodor Dostoevsky,1821-11-11,1881-02-09,"Moscow, Russia","Saint Petersburg, Russia",Russian,Writer,Novel,Realism,"Maria Isaeva, Anna Snitkina",4
+Franz Kafka,1883-07-03,1924-06-03,"Prague, Austria-Hungary","Kierling, Austria",Czech/Austrian,Writer,"Novel, short fiction",Modernism,None,None
+Virginia Woolf,1882-01-25,1941-03-28,"London, England","Lewes, England",English,Writer,"Novel, essays",Modernism,Leonard Woolf,None
+Ernest Hemingway,1899-07-21,1961-07-02,"Oak Park, Illinois, USA","Ketchum, Idaho, USA",American,Writer,Novel,Modernism,"Hadley Richardson, Pauline Pfeiffer, Martha Gellhorn, Mary Welsh",3
+Gabriel García Márquez,1927-03-06,2014-04-17,"Aracataca, Colombia","Mexico City, Mexico",Colombian,Writer,Novel,Magic Realism,Mercedes Barcha,2
+George Orwell,1903-06-25,1950-01-21,"Motihari, British India","London, England",English,Writer,"Novel, essays",Political Fiction,"Eileen O'Shaughnessy, Sonia Brownell",1
+Marcel Proust,1871-07-10,1922-11-18,"Auteuil, France","Paris, France",French,Writer,Novel,Modernism,None,None
+James Joyce,1882-02-02,1941-01-13,"Dublin, Ireland","Zürich, Switzerland",Irish,Writer,"Novel, short fiction",Modernism,Nora Barnacle,2
+Homer,~800 BC,~700 BC,"Ionia (disputed)",Unknown,Greek,Writer,"Epic poetry",Ancient Greek,Unknown,Unknown
+Dante Alighieri,1265-05-01,1321-09-14,"Florence, Republic of Florence","Ravenna, Republic of Ravenna",Italian,Writer,"Epic poetry, philosophy",Medieval,Gemma Donati,4
+Johann Wolfgang von Goethe,1749-08-28,1832-03-22,"Frankfurt, Holy Roman Empire","Weimar, German Confederation",German,Writer,"Novel, poetry, drama",Classicism/Romanticism,Christiane Vulpius,5
+Victor Hugo,1802-02-26,1885-05-22,"Besançon, France","Paris, France",French,Writer,"Novel, poetry, drama",Romanticism,Adèle Foucher,5
+Edgar Allan Poe,1809-01-19,1849-10-07,"Boston, Massachusetts, USA","Baltimore, Maryland, USA",American,Writer,"Short fiction, poetry",Romanticism/Gothic,Virginia Clemm,None
+Mark Twain,1835-11-30,1910-04-21,"Florida, Missouri, USA","Redding, Connecticut, USA",American,Writer,Novel,Realism,Olivia Langdon,4
+Emily Dickinson,1830-12-10,1886-05-15,"Amherst, Massachusetts, USA","Amherst, Massachusetts, USA",American,Writer,Poetry,Romanticism,None,None
