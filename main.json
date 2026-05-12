@@ -1,4 +1,22 @@
 {
+    "Persons": {
+        "filename": "persons.csv",
+        "sources": [],
+        "updated": "2026-02-11T00.00.00",
+        "fields": [
+            "name",
+            "date_of_birth",
+            "date_of_death",
+            "place_of_birth",
+            "place_of_death",
+            "nationality",
+            "category",
+            "known_for",
+            "movements",
+            "pouses",
+            "children"
+        ]
+    },
     "Rulers": {
         "filename": "rulers.csv",
         "sources": [],
@@ -2450,6 +2468,45 @@
             "Area [km2]",
             "Population 2011 Census",
             "Population 2022 Census"
+        ]
+    },
+    "Latvia regions": {
+        "filename": "latvia_regions.csv",
+        "sources": [""],
+        "updated": "2026-04-10T00.00.00",
+        "fields": [
+            "Region",
+            "Capital/Center",
+            "ISO Code",
+            "# Municipalities",
+            "Area [km2]",
+            "Population 2011",
+            "Population 2021",
+            "Population 2026 (Est.)"
+        ]
+    }, 
+    "Latvia municipalities": {
+        "filename": "latvia_municipalities.csv",
+        "sources": [""],
+        "updated": "2026-04-10T00.00.00",
+        "fields": [
+            "Municipality",
+            "Region",
+            "Type",
+            "Capital",
+            "Area [km2]",
+            "Population 2021"
+        ]
+    }, 
+    "Lithuania counties": {
+        "filename": "lithuania_counties.csv",
+        "sources": ["https://osp.stat.gov.lt"],
+        "updated": "2026-04-10T00.00.00",
+        "fields": [
+            "County",
+            "Capital",
+            "Area [km2]",
+            "Population 2021"
         ]
     }
 }
