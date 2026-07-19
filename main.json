@@ -1,4 +1,26 @@
 {
+    "European Standarts": {
+        "filename": "european_Standarts.csv",
+        "sources": ["https://www.en-standard.eu"],
+        "updated": "2026-02-11T00.00.00",
+        "fields": [
+            "Standard",
+            "Title"
+        ]
+    },
+    "DIN SPECS": {
+        "filename": "din_specs.csv",
+        "sources": ["https://www.dinmedia.de"],
+        "updated": "2026-02-11T00.00.00",
+        "fields": [
+            "DIN",
+            "Title",
+            "Status",
+            "DIN replacement",
+            "Other org replacement",
+            "Last version"
+        ]
+    },
     "Persons": {
         "filename": "persons.csv",
         "sources": [],
@@ -2205,6 +2227,25 @@
             "Invitation Date"
         ]
     },
+    "FIFA World Cup": {
+        "filename": "fifa_world_cup.csv",
+        "sources": ["https://www.fifa.com"],
+        "updated": "2026-05-22T00.00.00",
+        "fields": [
+            "Edition",
+            "Year",
+            "Hosts",
+            "Start",
+            "End",
+            "Teams #",
+            "Teams",
+            "First place",
+            "Second Place",
+            "Third Place",
+            "Fourth Place",
+            "Notes"
+        ]
+    },
     "Africa Cup of Nations": {
         "filename": "africa_cup_of_nations.csv",
         "sources": [],
@@ -2507,6 +2548,128 @@
             "Capital",
             "Area [km2]",
             "Population 2021"
+        ]
+    },
+    "Cabo Verde Municipalities": {
+        "filename": "cabo_verde_municipalities.csv",
+        "sources": [
+            "https://ine.cv"
+        ],
+        "updated": "2026-07-02T00:00:00",
+        "fields": [
+            "Municipality",
+            "Island",
+            "Island Group",
+            "Capital",
+            "ISO 3166-2",
+            "Area [km2]",
+            "# Parishes",
+            "Population 2010 Census",
+            "Population 2021 Census"
+        ]
+    },
+    "Cabo Verde Parishes": {
+        "filename": "cabo_verde_parishes.csv",
+        "sources": [
+            "https://ine.cv"
+        ],
+        "updated": "2026-07-02T00:00:00",
+        "fields": [
+            "Parish",
+            "Municipality",
+            "Capital",
+            "HASC Code",
+            "Area [km2]",
+            "Population 2010 Census"
+        ]
+    },
+    "Poland Provinces": {
+        "filename": "poland_provinces.csv",
+        "sources": [
+            "https://stat.gov.pl"
+        ],
+        "updated": "2026-07-02T00:00:00",
+        "fields": [
+            "Province (Voivodeship)", 
+            "Capital", 
+            "ISO 3166-2", 
+            "Area [km2]", 
+            "# Sub-districts (Powiats)", 
+            "Population 2021", 
+            "Population 2023"
+        ]
+    },
+    "Cyprus Provinces": {
+        "filename": "cyprus_provinces.csv",
+        "sources": [
+            "https://www.cystat.gov.cy"
+        ],
+        "updated": "2026-07-02T00:00:00",
+        "fields": [
+            "District", 
+            "Capital", 
+            "ISO 3166-2", 
+            "Area [km2]", 
+            "# Sub-districts (Powiats)", 
+            "Population_1982",
+            "Population_1992",
+            "Population_2001",
+            "Population_2011",
+            "Population_2021"
+        ]
+    },
+    "Finland Provinces": {
+        "filename": "finland_provinces.csv",
+        "sources": [
+            "https://pxdata.stat.fi"
+        ],
+        "updated": "2026-07-02T00:00:00",
+        "fields": [
+            "Region",
+            "Capital",
+            "ISO3166-2",
+            "Area [km2]",
+            "Municipalities",
+            "Population_1990",
+            "Population_2000",
+            "Population_2010",
+            "Population_2020",
+            "Population_2024"
+        ]
+    },
+    "Honduras Departments": {
+        "filename": "honduras_departments.csv",
+        "sources": [
+            "https://ine.gob.hn"
+        ],
+        "updated": "2026-07-02T00:00:00",
+        "fields": [
+            "Department",
+            "Capital",
+            "ISO3166-2",
+            "Area [km2]",
+            "# Municipalities",
+            "Population_1988",
+            "Population_2001",
+            "Population_2013",
+            "Population_2023"
+        ]
+    },
+    "El Salvador Departments": {
+        "filename": "el_salvador_departments.csv",
+        "sources": [
+            "https://onec.bcr.gob.sv"
+        ],
+        "updated": "2026-07-02T00:00:00",
+        "fields": [
+            "Department",
+            "Capital",
+            "ISO3166-2",
+            "Area [km2]",
+            "# Municipalities",
+            "Population_1992",
+            "Population_2007",
+            "Population_2024"
         ]
     }
 }
