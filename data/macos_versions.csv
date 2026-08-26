@@ -1,0 +1,46 @@
+macOS Version, Codename, Build, Darwin Kernel, Release Year
+10, Cheetah, , Darwin 1.3.1, 1.4, 2001
+10.1, Puma, , Darwin 5.x, 2001
+10.2, Jaguar, , Darwin 6.x, 2002
+10.3, Panther, , Darwin 7.x, 2003
+10.4, Tiger, , Darwin 8.x, 2005
+10.5, Leopard, , Darwin 9.x, 2007
+10.6, Snow Leopard, , Darwin 10.x, 2009
+10.7, Lion, , Darwin 11.x, 2011
+10.8, Mountain Lion, , Darwin 12.x, 2012
+10.9, Mavericks, , Darwin 13.x, 2013
+10.1, Yosemite, , Darwin 14.x, 2014
+10.11, El Capitan, , Darwin 15.x, 2015
+10.12, Sierra, , Darwin 16.x, 2016
+10.13, High Sierra, , Darwin 17.x, 2017
+10.14, Mojave, , Darwin 18.x, 2018
+10.15, Catalina, , Darwin 19.x, 2019
+11, Big Sur, , Darwin 20.x, 2020
+12, Monterey, , Darwin 21.x, 2021
+13, Ventura, , Darwin 22.x, 2022
+14, Sonoma, , Darwin 23.x, 2023
+15.0, Sequoia, 24A335, 24.0.0, 2024-09-16
+15.0.1, Sequoia, 24A348, 24.0.0, 2024-10-03
+15.1, Sequoia, 24B83 (24B2083 for M4 Macs), 24.1.0, 2024-10-28
+15.1.1, Sequoia, 24B91 (24B2091 for M4 Macs), 24.1.0, 2024-11-19
+15.2, Sequoia, 24C101 (24C2103 for M4 MacBook Air), 24.2.0, 2024-12-11
+15.3, Sequoia, 24D60 (24D2072 for M4 MacBook Air/Mac Studio), 24.3.0, 2025-01-27
+15.3.1, Sequoia, 24D70, 24.3.0, 2025-02-10
+15.3.2, Sequoia, 24D81 (24D2082 variant), 24.3.0, 2025-03-11
+15.4, Sequoia, 24E248, 24.4.0, 2025-03-31
+15.4.1, Sequoia, 24E263, 24.4.0, 2025-04-01
+15.5, Sequoia, 24F74, 24.5.0, 2025-05-12
+15.6, Sequoia, 24G84, 24.6.0, 2025-07-29
+15.6.1, Sequoia, 24G90, 24.6.0, 2025-08-20
+15.7, Sequoia, 24G222, 24.6.0, 2025-09-15
+15.7.1, Sequoia, 24G231, 24.6.0, 2025-09-29
+15.7.2, Sequoia, 24G325, 24.6.0, 2025-11-03
+15.7.3, Sequoia, 24G419, 24.6.0, 2025-12-12
+15.7.4, Sequoia, 24G517, 24.6.0, 2026-02-11
+15.7.5, Sequoia, 24G624, 24.6.0, 2026-03-24
+15.7.6, Sequoia, —, —, —
+15.7.7, Sequoia, 24G720, 24.6.0, 2026-05-11
+15.7.8, Sequoia, 24G824, 24.6.0, 2026-07-27
+15.7.9, Sequoia, build not yet publicly confirmed, 24.6.0, 2026-08-06
+26, Tahoe, , Darwin 25.x, 2025
+27, Golden Gate, , Darwin 26.x (expected), 2026

@@ -1,0 +1,49 @@
+name,alt_names,nssdca_id,norad_id,type,country,agency,program,manufacturer,mission_ref,mass_kg,power_source,dimensions,orbit_type,status
+Sentinel-1A,,2014-016A,39634,satellite,European Union,ESA,Copernicus,Thales Alenia Space,Sentinel-1,2300,solar,,Sun-synchronous LEO,Active
+Sentinel-2A,,2015-028A,40697,satellite,European Union,ESA,Copernicus,Airbus Defence and Space,Sentinel-2,1200,solar,,Sun-synchronous LEO,Active
+Sentinel-3A,,2016-011A,41335,satellite,European Union,ESA/EUMETSAT,Copernicus,Thales Alenia Space,Sentinel-3,1250,solar,,Sun-synchronous LEO,Active
+Sentinel-1B,,2016-025A,41456,satellite,European Union,ESA,Copernicus,Thales Alenia Space,Sentinel-1,2300,solar,,Sun-synchronous LEO,Retired
+Sentinel-2B,,2017-013A,42063,satellite,European Union,ESA,Copernicus,Airbus Defence and Space,Sentinel-2,1200,solar,,Sun-synchronous LEO,Active
+Sentinel-5P,,2017-064A,42969,satellite,European Union,ESA,Copernicus,Airbus Defence and Space,Sentinel-5P,820,solar,,Sun-synchronous LEO,Active
+Sentinel-3B,,2018-039A,43437,satellite,European Union,ESA/EUMETSAT,Copernicus,Thales Alenia Space,Sentinel-3,1250,solar,,Sun-synchronous LEO,Active
+Sentinel-6A,Michael Freilich,2020-086A,46984,satellite,European Union / United States,ESA/EUMETSAT/NASA/NOAA,Copernicus,Airbus Defence and Space,Sentinel-6,1440,solar,,LEO,Active
+Sentinel-2C,,,,satellite,European Union,ESA,Copernicus,Airbus Defence and Space,Sentinel-2,1200,solar,,Sun-synchronous LEO,Active
+Sentinel-1C,,,,satellite,European Union,ESA,Copernicus,Thales Alenia Space,Sentinel-1,2300,solar,,Sun-synchronous LEO,Active
+Sentinel-4A,,,,payload aboard MTG-S1,European Union,ESA/EUMETSAT,Copernicus,OHB System,Sentinel-4,,solar,,Geostationary orbit,Active
+Sentinel-5A,,,,payload aboard MetOp-SG,European Union,ESA/EUMETSAT,Copernicus,Airbus Defence and Space,Sentinel-5,,solar,,Sun-synchronous LEO,Active
+Sentinel-1D,,,,satellite,European Union,ESA,Copernicus,Thales Alenia Space,Sentinel-1,2300,solar,,LEO,Active
+Sentinel-6B,,,,satellite,European Union / United States,ESA/EUMETSAT/NASA/NOAA,Copernicus,Airbus Defence and Space,Sentinel-6,1440,solar,,LEO,Active
+GSAT0101,Thijs,2011-060A,37846,satellite,European Union,ESA/EUSPA,Galileo,EADS Astrium / Thales Alenia Space,Galileo IOV,700,solar,3.02x1.58x1.59 m stowed,MEO,Active
+GSAT0102,Natalia,2011-060B,37847,satellite,European Union,ESA/EUSPA,Galileo,EADS Astrium / Thales Alenia Space,Galileo IOV,700,solar,3.02x1.58x1.59 m stowed,MEO,Active
+GSAT0103,,2012-055A,38857,satellite,European Union,ESA/EUSPA,Galileo,EADS Astrium / Thales Alenia Space,Galileo IOV,700,solar,3.02x1.58x1.59 m stowed,MEO,Active
+GSAT0104,,2012-055B,38858,satellite,European Union,ESA/EUSPA,Galileo,EADS Astrium / Thales Alenia Space,Galileo IOV,700,solar,3.02x1.58x1.59 m stowed,MEO,Decommissioned
+GSAT0201,Doresa,2014-050A,40128,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 1,730,solar,2.91x1.7x1.4 m stowed,MEO (eccentric),Not usable
+GSAT0202,Milena,2014-050B,40129,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 1,730,solar,2.91x1.7x1.4 m stowed,MEO (eccentric),Not usable
+GSAT0203,,2015-017A,40544,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 1,730,solar,2.91x1.7x1.4 m stowed,MEO,Active
+GSAT0204,,2015-017B,40545,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 1,730,solar,2.91x1.7x1.4 m stowed,MEO,Not usable
+GSAT0205,,2015-045A,40889,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 1,730,solar,2.91x1.7x1.4 m stowed,MEO,Active
+GSAT0206,,2015-045B,40890,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 1,730,solar,2.91x1.7x1.4 m stowed,MEO,Active
+GSAT0208,,2015-070A,41174,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 1,715,solar,2.7x1.2x1.1 m stowed,MEO,Active
+GSAT0209,,2015-070B,41175,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 1,715,solar,2.7x1.2x1.1 m stowed,MEO,Active
+GSAT0210,,2016-030A,41549,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 1,715,solar,2.7x1.2x1.1 m stowed,MEO,Not usable
+GSAT0211,,2016-030B,41550,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 1,715,solar,2.7x1.2x1.1 m stowed,MEO,Active
+GSAT0207,,2016-069A,41859,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 1,715,solar,2.7x1.2x1.1 m stowed,MEO,Active
+GSAT0212,,2016-069B,41860,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 1,715,solar,2.7x1.2x1.1 m stowed,MEO,Active
+GSAT0213,,2016-069C,41861,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 1,715,solar,2.7x1.2x1.1 m stowed,MEO,Active
+GSAT0214,,2016-069D,41862,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 1,715,solar,2.7x1.2x1.1 m stowed,MEO,Active
+GSAT0215,Nicole,2017-076A,43055,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 2,715,solar,2.7x1.2x1.1 m stowed,MEO,Active
+GSAT0216,Zofia,2017-076B,43056,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 2,715,solar,2.7x1.2x1.1 m stowed,MEO,Active
+GSAT0217,Alexandre,2017-076C,43057,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 2,715,solar,2.7x1.2x1.1 m stowed,MEO,Active
+GSAT0218,Irina,2017-076D,43058,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 2,715,solar,2.7x1.2x1.1 m stowed,MEO,Active
+GSAT0219,,2018-060A,43564,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 2,715,solar,2.7x1.2x1.1 m stowed,MEO,Active
+GSAT0220,,2018-060B,43565,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 2,715,solar,2.7x1.2x1.1 m stowed,MEO,Active
+GSAT0221,,2018-060C,43566,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 2,715,solar,2.7x1.2x1.1 m stowed,MEO,Active
+GSAT0222,,2018-060D,43567,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 2,715,solar,2.7x1.2x1.1 m stowed,MEO,Active
+GSAT0223,,2021-113A,,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 3,715,solar,2.7x1.2x1.1 m stowed,MEO,Active
+GSAT0224,,2021-113B,,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 3,715,solar,2.7x1.2x1.1 m stowed,MEO,Active
+GSAT0225,,2024-069A,,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 3,715,solar,2.7x1.2x1.1 m stowed,MEO,Active
+GSAT0227,,2024-069B,,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 3,715,solar,2.7x1.2x1.1 m stowed,MEO,Active
+GSAT0226,,2024-171A,,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 3,715,solar,2.7x1.2x1.1 m stowed,MEO,Active
+GSAT0232,,2024-171B,,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 3,715,solar,2.7x1.2x1.1 m stowed,MEO,Active
+GSAT0233,,2025-,,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 3,715,solar,2.7x1.2x1.1 m stowed,MEO,Active
+GSAT0234,,2025-,,satellite,European Union,ESA/EUSPA,Galileo,OHB System / SSTL,Galileo FOC Batch 3,715,solar,2.7x1.2x1.1 m stowed,MEO,Commissioning
